@@ -8,4 +8,4 @@ This repository contains the models, Flux Balance Analysis (FBA) scripts, model 
 - Identify essential reactions and carbon source preferences unique to each environmental stage.
 
 ## Backgroud
-The symbiosis between leguminous plants and _Rhizobia_ is a natural alternative to harmful chemical fertilisers. While chemical nitrogen usage rises globally, causing environmental degradation, some bacteria can convert atmospheric $_N_2_$
+The symbiosis between leguminous plants and _Rhizobia_ is a natural alternative to harmful chemical fertilisers. While chemical nitrogen usage rises globally, causing environmental degradation, some bacteria can convert atmospheric $N_2$
