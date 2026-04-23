@@ -25,3 +25,17 @@ The analysis is conducted using specific iterations of high-quality genome-scale
 - Environment 3: Nodule Environment (Bacterial Focus)Constraints: Micro-aerobic (strictly limited $O_2$), low pH, and $C_4$-dicarboxylates as the primary energy source.Objective: Maximise Nitrogenase flux and Ammonium ($NH_3$) production.
 
 ## Repository Contents
+The `Code` folder contains the following files:
+- `Bacteria name` contains: Coding 
+  
+The `Data` folder contains the following files:
+- `original_models` contains: the original genome-scale modelling 
+
+The `Models` folder contains the following files:
+- `Bacteria name` contains: The rename reaction to the standard ID that is used for analysis. 
+
+The `Results` folder contains the following files:
+- `Bacteria name` contains: Analysis results from each model.
+
+
+
