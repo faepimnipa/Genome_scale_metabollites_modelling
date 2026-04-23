@@ -1,0 +1,1408 @@
+condition	reaction_id	flux	reduced_cost	reaction_name
+nodule	rxn02380	0.0	0.0	Glucose-6-phosphate isomerase   reaction 1
+nodule	rxn01977	0.0	0.0	Glucose-6-phosphate isomerase   reaction 2
+nodule	rxn00604	-1.3518954681593672e-16	0.0	Glucose-6-phosphate 1-dehydrogenase
+nodule	rxn01476	-1.3518954681593672e-16	0.0	Phosphogluconolactonase
+nodule	rxn01477	0.0	0.0	Phosphogluconate dehydratase
+nodule	rxn03884	0.0	-0.0	2-dehydro-3-deoxyphosphogluconate aldolase
+nodule	rxn00781	0.0	0.0	Glyceraldehyde 3-phosphate dehydrogenase
+nodule	rxn01100	0.0	0.0	Phosphoglycerate kinase
+nodule	rxn01106	0.22222857142857186	0.0	Phosphoglycerate mutase
+nodule	rxn00459	-0.22222857142857183	-0.0	Phosphopyruvate hydratase   Enolase
+nodule	rxn00148	0.0	0.0	Pyruvate kinase
+nodule	rxn00250	0.5933142857142848	0.0	Pyruvate carboxylase
+nodule	rxn00247	0.0	-0.0	Phosphoenolpyruvate carboxykinase
+nodule	rxn00747	1.3518954681593672e-16	0.0	Triose phosphate isomerase
+nodule	rxn00786	1.3518954681593667e-16	-0.0	Fructose bisphosphate aldolase
+nodule	rxn00549	0.0	0.0	Fructose-1 6-bisphosphatase
+nodule	rxn01115	-1.3518954681593672e-16	0.0	6 Phospho D gluconate NADP 2 oxidoreductase decarboxylating c0
+nodule	rxn00777	1.3518954681593672e-16	-0.0	Ribose-5-phosphate isomerase
+nodule	rxn01116	0.0	0.0	Ribulose-5-phosphate epimerase
+nodule	rxn01200	0.0	0.0	Transketolase   ribose-5-phosphate xylulose-5-phosphate
+nodule	rxn01333	0.0	0.0	Transaldolase
+nodule	rxn00785	0.0	0.0	Transketolase   erythrose-4-phosphate xylulose-5-phosphate
+nodule	rxn00159	0.0	0.0	NAD-dependent malic enzyme
+nodule	rxn00161	1.1121999999999994	0.0	NADP-dependent malic enzyme
+nodule	rxn00011p	0.0	0.0	Pyruvate dehydrogenase complex E1   thiamine diphosphate acetaldehyde transferase
+nodule	rxn02342	0.0	0.0	Pyruvate dehydrogenase complex E1   Pyruvate dehydrogenase
+nodule	rxn01871	0.0	-0.0	Pyruvate dehydrogenase complex E2   Dihydrolipoyl transacetylase
+nodule	rxn01241a	0.0	0.0	Pyruvate dehydrogenase complex E3   Dihydrolipoamide dehydrogenase
+nodule	rxn00256	0.2966571428571425	0.0	Citrate synthase type II
+nodule	rxn00974	0.29665714285714245	0.0	citrate hydro lyase c0
+nodule	rxn01388	-0.2966571428571424	0.0	isocitrate hydro lyase c0
+nodule	rxn01387	0.0	-0.0	Isocitrate dehydrogenase  reaction 1
+nodule	rxn00199	0.0	0.0	Isocitrate dehydrogenase  reaction 2
+nodule	rxn00441	-1.2346012523657479e-15	0.0	2-oxoglutarate dehydrogenase E1 component   reaction 1
+nodule	rxn02376	-1.2346012523657479e-15	0.0	2-oxoglutarate dehydrogenase E1 component   reaction 2
+nodule	rxn01872	1.2346012523657479e-15	-0.0	2-oxoglutarate dehydrogenase E2 component
+nodule	rxn01241b	-1.2346012523657475e-15	0.0	2-oxoglutarate dehydrogenase E3 component
+nodule	rxn00285	1.234601252365748e-15	-0.0	Succinate-CoA synthetase
+nodule	rxn00288	0.0	0.0	Succinate dehydrogenase
+nodule	rxn00799	3.8312573838927625e-16	0.0	Fumarate hydratase
+nodule	rxn00248	0.0	0.0	Malate dehydrogenase
+nodule	rxn00330	0.0	0.0	Malate synthase
+nodule	rxn01101	0.22222857142857186	0.0	3-Phospho-glycerate dehydrogenase
+nodule	rxn02914	-0.22222857142857186	-0.0	Phosphoserine aminotransferase
+nodule	rxn00420	0.22222857142857186	0.0	L O Phosphoserine phosphohydrolase c0
+nodule	rxn00692	-0.22222857142857186	-0.0	Serine hydroxymethyltransferase  SHMT
+nodule	rxn00179	0.0	0.0	Glutamate 5-kinase
+nodule	rxn02373	0.0	0.0	Gamma-glutamyl phosphate reductase
+nodule	rxn02374	0.0	0.0	L-Glutamate-5-semialdehyde dehydratase
+nodule	rxn00931	0.7452585714285704	0.0	Pyrroline-5-carboxylate reductase
+nodule	rxn00192	0.0	0.0	L-glutamate N-acetyltransferase
+nodule	rxn01917	0.0	0.0	Acetylglutamate kinase (NAG kinase)
+nodule	rxn02465	0.0	0.0	N-acetyl-gamma-glutamyl-phosphate reductase
+nodule	rxn01637	0.0	-0.0	N2 Acetyl L ornithine 2 oxoglutarate aminotransferase c0
+nodule	rxn00469	0.0	-0.0	Acetylornithine deacetylase
+nodule	rxn01636	0.0	0.0	Glutamate N-acetyltransferase
+nodule	rxn01019	0.0	0.0	Ornithine carbamoyltransferase
+nodule	rxn01434	0.0	0.0	Argininosuccinate synthase
+nodule	rxn00802	0.0	0.0	Argininosuccinate lyase
+nodule	rxn02339	-0.2966571428571424	-0.0	Aspartate transaminase
+nodule	rxn00416	0.0	-0.0	Asparagine synthase
+nodule	rxn00187	0.0	0.0	Glutamine synthetase
+nodule	rxn00085	-3.0135186282501633e-16	0.0	Glutamate synthase (NADPH) (GOGAT)
+nodule	rxn00337	0.2966571428571426	0.0	Aspartate kinase
+nodule	rxn01643	0.2966571428571426	0.0	Aspartate-semialdehyde dehydrogenase
+nodule	rxn01644	0.0	0.0	Dihydrodipicolinate synthase
+nodule	rxn02929	0.0	-0.0	Dihydrodipicolinate reductase
+nodule	rxn03031	0.0	0.0	2 3 4 5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+nodule	rxn03087	0.0	0.0	N Succinyl L 2 6 diaminoheptanedioate 2 ocoglytarate c0
+nodule	rxn01973	0.0	0.0	Succinyl-diaminopimelate desuccinylase
+nodule	rxn01974	0.0	0.0	Diaminopimelate epimerase
+nodule	rxn00313	0.0	0.0	Diaminopimelate decarboxylase (DAP decarboxylate)
+nodule	rxn01301	-0.2966571428571426	-0.0	Homoserine dehydrogenase
+nodule	rxn01300	0.0	0.0	Homoserine kinase type II
+nodule	rxn01069	0.0	0.0	Threonine synthase
+nodule	rxn00423	0.0	0.0	serine O-acetyltransferase
+nodule	rxn00649	0.0	0.0	Cysteine synthase
+nodule	rxn09240	0.5147414285714299	0.0	Sulfate adenyltransferase c0
+nodule	rxn05239	0.5147414285714299	0.0	adenosine 5 phosphate sulfite oxidized thioredoxin oxidoreductase c0
+nodule	rxn00623	0.0	-0.0	hydrogen sulfide NADP oxidoreductase c0
+nodule	rxn01304	0.2966571428571427	0.0	Homoserine O-succinyltransferase
+nodule	rxn05957	0.0	0.0	O-succinylhomoserine sulfhydrylase
+nodule	rxn00693	0.0	0.0	B12-dependent methionine synthase
+nodule	rxn00770	-1.351895468159367e-16	0.0	Ribose-phosphate pyrophosphokinase
+nodule	rxn00789	0.0	0.0	ATP phosphoribosyltransferase
+nodule	rxn02834	0.0	0.0	Phosphoribosyl-ATP pyrophosphatase
+nodule	rxn02835	0.0	0.0	Phosphoribosyl-AMP cyclohydrolase
+nodule	rxn03175	0.0	0.0	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+nodule	rxn03135	0.0	0.0	imidazole glycerol phosphate
+nodule	rxn02473	0.0	0.0	Imidazoleglycerol-phosphate dehydratase
+nodule	rxn02320	0.0	-0.0	Histidinol-phosphate aminotransferase
+nodule	rxn02160	0.0	0.0	L-Histidinol-phosphate phosphohydrolase
+nodule	rxn02159	0.0	0.0	Histidinol dehydrogenase
+nodule	rxn00863	0.0	0.0	Histidinal dehydrogenase
+nodule	rxn01332	0.0	0.0	DAHP synthetase
+nodule	rxn02212	0.0	0.0	3-dehydroquinate synthase
+nodule	rxn02213	0.0	0.0	3-dehydroquinate dehydratase
+nodule	rxn01740	0.0	-0.0	Shikimate 5-dehydrogenase
+nodule	rxn01739	0.0	0.0	Shikimate kinase
+nodule	rxn02476	0.0	0.0	3-phosphoshikimate 1-carboxyvinyltransferase
+nodule	rxn01255	0.0	0.0	Chorismate synthase
+nodule	rxn00726	0.0	0.0	Anthranilate synthase
+nodule	rxn00791	0.0	0.0	Anthranilate phosphoribosyltransferase
+nodule	rxn02508	0.0	0.0	Phosphoribosylanthranilate isomerase
+nodule	rxn02507	0.0	0.0	Indole-3-glycerol phosphate synthase
+nodule	rxn01964	0.0	0.0	L-serine hydrolase
+nodule	rxn01256	0.0	0.0	Chorismate pyruvatemutase
+nodule	rxn01000	0.0	0.0	Prephenate dehydratase
+nodule	rxn00493	0.0	-0.0	Phenylalanine transaminase
+nodule	rxn01269	0.0	0.0	Prephenate dehydrogenase
+nodule	rxn00527	0.0	-0.0	Tyrosine transaminase
+nodule	rxn05036	0.0	-0.0	Prephenate transaminase
+nodule	rxn00525	0.0	0.0	L-argonate oxioreductase
+nodule	rxn00278	-0.8155428571428575	-0.0	Alanine dehydrogenase
+nodule	rxn00849	0.0	0.0	D-alanine transaminase
+nodule	rxn00283	0.0	0.0	L-alanine racemase
+nodule	rxn00737	0.0	0.0	Threonine dehydratase
+nodule	rxn02302	0.2966571428571427	0.0	O-Acetyl-L-homoserine succinate-lyase
+nodule	rxn03194	0.2966571428571426	0.0	(S)-2-aceto-2-hydroxybutanoate synthase
+nodule	rxn03436	0.2966571428571427	0.0	(S)-2-aceto-2-hydroxybutanoate reductoisomerase reaction 1
+nodule	rxn03435	-0.2966571428571426	-0.0	(S)-2-aceto-2-hydroxybutanoate reductoisomerase reaction 2
+nodule	rxn03437	0.2966571428571427	0.0	(R)-2 3-dihydroxy-3-methylpentanoate dehydratase
+nodule	rxn01575	0.0	-0.0	Isoleucine aminotransferase
+nodule	rxn02185	0.0	-0.0	Acetolactate synthase
+nodule	rxn00011b	0.2966571428571426	0.0	Acetolactone synthease   thiamine diphosphate acetaldehyde transferase
+nodule	rxn02187	0.0	0.0	Acetolactate methylmutase
+nodule	rxn03068	0.0	-0.0	(R)-2 3-dihydroxy-3-methylbutanoate oxidoreductase
+nodule	rxn00898	0.0	0.0	2 3 Dihydroxy 3 methylbutanoate hydro lyase c0
+nodule	rxn00903	0.0	-0.0	Valine aminotransferase
+nodule	rxn00902	0.0	0.0	2-isopropylmalate synthase
+nodule	rxn02789	0.0	0.0	2-isopropylmalate isomerase
+nodule	rxn02811	0.0	-0.0	3-isopropylmalate hydrolyase
+nodule	rxn03062	0.0	0.0	3-isopropylmalate dehydrogenase
+nodule	rxn01208	0.0	0.0	2-oxo-4-methyl-3-carboxypentanoate decarboxylation
+nodule	rxn00806	0.0	-0.0	Leucine aminotransferase
+nodule	rxn06300	0.0	0.0	L-Alanyl-tRNA(Ala) synthetase
+nodule	rxn06432	0.0	0.0	L-Arginyl-tRNA(Arg) synthetase
+nodule	rxn06936	0.0	0.0	L-Aspartyl-tRNA(Asp) synthetase
+nodule	rxn06433	0.0	0.0	L-Aspartyl-tRNA(Asn) synthetase
+nodule	rxn11595	0.0	0.0	L-Aspartyl-tRNA(Asn) amidotransferase
+nodule	rxn06435	0.0	0.0	L-Cysteinyl-tRNA(Cys) synthetase
+nodule	rxn06436	0.0	0.0	L-Glutamyl-tRNA(Gln) synthetase
+nodule	rxn10534	0.0	0.0	L-Glutamyl-tRNA(Gln) amidotransferase
+nodule	rxn06438	0.0	0.0	L-Glycyl-tRNA(Gly) synthetase
+nodule	rxn06440	0.0	0.0	L-Isoleucyl:tRNA(Ile) synthetase
+nodule	rxn06441	0.0	0.0	L-Leucyl-tRNA(Leu) synthetase
+nodule	rxn06442	0.0	0.0	L-Lysyl-tRNA(Lys) synthetase
+nodule	rxn06443	0.0	0.0	L-Methionyl-tRNA(Met) synthetase
+nodule	rxn06538	0.0	0.0	L-Methionyl-tRNA formyltransferase
+nodule	rxn06444	0.0	0.0	L-Phenylalanyl-tRNA(Phe) synthetase
+nodule	rxn06445	0.0	0.0	L-Prolyl-tRNA(Pro) synthetase
+nodule	rxn06446	0.0	0.0	L-Seryl-tRNA(Ser) synthetase
+nodule	rxn06447	0.0	0.0	L-Threonyl-tRNA(Thr) synthetase
+nodule	rxn06448	0.0	0.0	L-Tryptophanyl-tRNA(Trp) synthetase
+nodule	rxn06280	0.0	0.0	L-Tyrosyl-tRNA(Tyr) synthetase
+nodule	rxn06449	0.0	0.0	L-Valyl-tRNA(Val) synthetase
+nodule	rxn06937	0.0	0.0	L-Glutamyl-tRNA(Glu) synthetase
+nodule	rxn06439	0.0	0.0	L-Histidyl-tRNA(His) synthetase
+nodule	rxn12192	0.0	0.0	Ribosome biogenesis, tRNA modification, protein translation
+nodule	rxnProtDF	0.0	0.0	Protein N-formylmethionine cleavage
+nodule	rxn00455	0.0	0.0	N-Formyl-L-methionine amidohydrolase
+nodule	rxn00790	-1.5067593141250814e-16	0.0	Amidophosphoribosyltransferase
+nodule	rxn02895	-1.5067593141250814e-16	0.0	Phosphoribosylamine--glycine ligase
+nodule	rxn03004	-1.5067593141250814e-16	0.0	Phosphoribosylglycinamide formyltransferase
+nodule	rxn03084	-1.5067593141250814e-16	0.0	Phosphoribosylformylglycineamide synthase
+nodule	rxn02937	-1.5067593141250814e-16	0.0	2 Formamido N1 5 phosphoribosylacetamidine cyclo ligase c0
+nodule	rxn05229	-1.5067593141250814e-16	0.0	NCAIR synthetase and NCAIR mutase
+nodule	rxn03147	-1.5067593141250814e-16	0.0	Phosphoribosylaminoimidazolesuccinocarboxamide synthase
+nodule	rxn03136	-1.5067593141250814e-16	0.0	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase
+nodule	rxn03137	-1.5067593141250814e-16	0.0	Phosphoribosylaminoimidazolecarboxamide formyltransferase
+nodule	rxn00832	1.5067593141250814e-16	-0.0	IMP cyclohydrolase
+nodule	rxn00834	0.0	0.0	IMP dehydrogenase
+nodule	rxn00917	0.0	0.0	GMP synthase
+nodule	rxn09562	0.0	0.0	Guanylate kinase: GMP
+nodule	rxn00237	0.5147414285714299	0.0	Nucleoside disphosphate kinase: GDP
+nodule	rxn05233	0.0	0.0	Ribonucleotide reductase: GDP
+nodule	rxn01353	0.0	-0.0	Nucleoside disphosphate kinase: dGDP
+nodule	rxn00838	-1.5067593141250812e-16	0.0	Adenylosuccinate synthetase
+nodule	rxn00800	-1.506759314125081e-16	0.0	Adenylosuccinate lyase
+nodule	rxn00097	0.0	-0.0	Adenylate kinase: AMP
+nodule	rxn05231	0.0	0.0	Ribonucleotide reductase: ADP
+nodule	rxn00839	0.0	0.0	Nucleoside disphosphate kinase: dADP
+nodule	rxn00414	0.0	0.0	Carbamoyl phosphate synthase
+nodule	rxn01018	0.0	0.0	Aspartate carbamoyltransferase
+nodule	rxn01465	0.0	-0.0	Dihydroorotase
+nodule	rxn01360	0.0	0.0	Dihydroorotate dehydrogenase
+nodule	rxn01362	0.0	0.0	Orotate phosphoribosyltransferase
+nodule	rxn00710	0.0	0.0	Orotidine 51-phosphate decarboxylase
+nodule	rxn00119	0.0	0.0	Uridylate kinase: UMP
+nodule	rxn00117	0.0	0.0	Nucleoside diphosphate kinase: UDP
+nodule	rxn00412	0.0	0.0	CTP synthetase
+nodule	rxn00409	0.0	0.0	Nucleoside diphosphate kinase: CDP
+nodule	rxn06076	0.0	0.0	Ribonucleotide reductase: CDP
+nodule	rxn01673	0.0	0.0	Nucleoside diphosphate kinase: dCDP
+nodule	rxn01672	0.0	0.0	dCTP aminohydrolase
+nodule	rxn01678	0.0	0.0	Nucleoside diphosphate kinase: dUDP
+nodule	rxn01517	0.0	0.0	Uridylate kinase: dUMP
+nodule	rxn01520	0.0	0.0	Thymidylate synthase
+nodule	rxn01513	0.0	0.0	Thymidylate kinase: dTMP
+nodule	rxn01512	0.0	0.0	Nucleoside diphosphate kinase: dTDP
+nodule	rxn00364	0.0	0.0	Cytidylate kinase - CMP
+nodule	rxn05294	0.0	0.0	DNA synthesis and partitioning
+nodule	rxn13784	0.0	0.0	RNA transcription c0
+nodule	rxn00792	0.0	-0.0	Biotin:CoA ligase
+nodule	rxn06864	0.0	0.0	Biotinyl-5'-AMP:apo-[carboxylase] ligase (AMP-forming)
+nodule	rxn06672	0.0	-0.0	acetyl-CoA carboxylase / biotin carboxylase reaction 1
+nodule	rxn06673	0.0	0.0	acetyl-CoA carboxylase / biotin carboxylase reaction 2
+nodule	rxn05465	0.0	0.0	malonyl-ACP:[acyl-carrier-protein] transferase
+nodule	rxn08766	0.0	0.0	Acetoacetyl-ACP synthase
+nodule	rxn05339	0.0	-0.0	Acetoacetyl-ACP dehydrogenase
+nodule	rxn05329	0.0	0.0	(R)-3-hydroxy-butanoyl-ACP dehydratase
+nodule	rxn05322	0.0	0.0	But-2-enoyl-ACP reductase
+nodule	rxn05346	0.0	0.0	3-oxohexanoyl-ACP synthase
+nodule	rxn05337	0.0	-0.0	3-oxohexanoyl-ACP dehydrogenase
+nodule	rxn05330	0.0	0.0	(R)-3-hydroxy-hexanoyl-ACP dehydratase
+nodule	rxn05326	0.0	0.0	trans-Hex-2-enoyl-ACP reductase
+nodule	rxn05350	0.0	0.0	3-oxooctanoyl-ACP synthase
+nodule	rxn05341	0.0	-0.0	3-oxooctanoyl-ACP dehydrogenase
+nodule	rxn05334	0.0	0.0	(R)-3-hydroxy-octanoyl-ACP dehydratase
+nodule	rxn05325	0.0	0.0	trans-Oct-2-enoyl-ACP reductase
+nodule	rxn05343	0.0	0.0	3-oxodecanoyl-ACP synthase
+nodule	rxn05338	0.0	-0.0	3-oxydecanoyl-ACP dehydrogenase
+nodule	rxn05333	0.0	0.0	(R)-3-hydroxy-decanoyl-ACP dehydratase
+nodule	rxn05327	0.0	0.0	trans-Dec-2-enoyl-ACP reductase
+nodule	rxn05348	0.0	0.0	3-oxo-dodecanoyl-ACP synthase
+nodule	rxn05340	0.0	-0.0	3-oxo-dodecanoyl-ACP dehydrogenase
+nodule	rxn05331	0.0	0.0	(R)-3-hydroxy-dodecanoyl-ACP dehydratase
+nodule	rxn05324	0.0	0.0	trans-Dodec-2-enoyl-ACP reductase
+nodule	rxn05345	0.0	0.0	3-oxo-tetradecanoyl-ACP synthase
+nodule	rxn05342	0.0	-0.0	3-oxo-tetradecanoyl-ACP dehydrogenase
+nodule	rxn05335	0.0	0.0	(R)-3-hydroxy-tetradecanoyl-ACP dehydratase
+nodule	rxn05323	0.0	0.0	trans-Tetradec-2-enoyl-ACP reductase
+nodule	rxn05344	0.0	0.0	3-oxohexadecanoyl-ACP synthase
+nodule	rxn05336	0.0	-0.0	3-oxohexadecanoyl-ACP dehydrogenase
+nodule	rxn05332	0.0	0.0	(R)-3-hydroxy-hexadecanoyl-ACP dehydratase
+nodule	rxn05328	0.0	0.0	trans-Hexadec-2-enoyl-ACP reductase
+nodule	rxn05460	0.0	0.0	3-oxooctadecanoyl-ACP synthase
+nodule	rxn05461	0.0	0.0	3-oxooctadecanoyl-ACP dehydrogenase
+nodule	rxn05462	0.0	0.0	(R)-3-hydroxy-octadecanoyl-ACP dehydratase
+nodule	rxn05464	0.0	0.0	trans-Octadec-2-enoyl-ACP reductase
+nodule	rxn07455	0.0	0.0	trans-Dec-2-enoyl-ACP isomerase
+nodule	rxnUS1	0.0	0.0	beta-keto-cis-delta-5-dodecanoyl-ACP synthase
+nodule	rxnUS2	0.0	-0.0	3-oxo-cis-delta-5-dodecenoyl-ACP dehydrogenase
+nodule	rxnUS3	0.0	0.0	3-hydroxy-cis-delta-5-dodecenoyl-ACP dehydratase
+nodule	rxnUS4	0.0	0.0	cis-delta-5-dodecenoyl-ACP reductase
+nodule	rxnUS5	0.0	0.0	3-oxo-cis-delta-7-tetradecenoyl-ACP synthase
+nodule	rxnUS6	0.0	-0.0	3-oxo-cis-delta-7-tetradecenoyl-ACP dehydrogenase
+nodule	rxnUS7	0.0	0.0	3-oxo-cis-delta-7-tetradecenoyl-ACP dehydratase
+nodule	rxnUS8	0.0	0.0	cis-delta-7-tetradecenoyl-ACP reductase
+nodule	rxnUS9	0.0	0.0	3-oxo-cis-delta-9-hexadecenoyl-ACP synthase
+nodule	rxnUS10	0.0	-0.0	3-oxo-cis-delta-9-hexadecenoyl-ACP dehydrogenase
+nodule	rxnUS11	0.0	0.0	3-hydroxy-cis-delta-9-hexadecenoyl-ACP dehydratase
+nodule	rxnUS12	0.0	0.0	palmitoleoyl-ACP reductase
+nodule	rxnUS13	0.0	0.0	3-oxo-cis-vaccenoyl-ACP synthase
+nodule	rxnUS14	0.0	0.0	3-oxo-cis-vaccenoyl-ACP dehydrogenase
+nodule	rxnUS15	0.0	0.0	3-hydroxy-cis-vaccenoyl-ACP dehydratase
+nodule	rxnUS16	0.0	0.0	cis-vaccen-2-enoyl-ACP reductase
+nodule	rxnVLCFA1	0.0	0.0	malonyl-ACP:[acyl-carrier-protein] transferase
+nodule	rxnVLCFA2	0.0	0.0	Acetoacetyl-ACP synthase VLCFA
+nodule	rxnVLCFA3	0.0	-0.0	Acetoacetyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA4	0.0	0.0	(R)-3-hydroxy-butanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA5	0.0	0.0	But-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA6	0.0	0.0	3-oxohexanoyl-ACP synthase VLCFA
+nodule	rxnVLCFA7	0.0	-0.0	3-oxohexanoyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA8	0.0	0.0	(R)-3-hydroxy-hexanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA9	0.0	0.0	trans-Hex-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA10	0.0	0.0	3-oxooctanoyl-ACP synthase VLCFA
+nodule	rxnVLCFA11	0.0	-0.0	3-oxooctanoyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA12	0.0	0.0	(R)-3-hydroxy-octanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA13	0.0	0.0	trans-Oct-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA14	0.0	0.0	3-oxodecanoyl-ACP synthase VLCFA
+nodule	rxnVLCFA15	0.0	-0.0	3-oxydecanoyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA16	0.0	0.0	(R)-3-hydroxy-decanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA17	0.0	0.0	trans-Dec-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA18	0.0	0.0	3-oxo-dodecanoyl-ACP synthase VLCFA
+nodule	rxnVLCFA19	0.0	-0.0	3-oxo-dodecanoyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA20	0.0	0.0	(R)-3-hydroxy-dodecanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA21	0.0	0.0	trans-Dodec-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA22	0.0	0.0	3-oxo-tetradecanoyl-ACP synthase VLCFA
+nodule	rxnVLCFA23	0.0	-0.0	3-oxo-tetradecanoyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA24	0.0	0.0	(R)-3-hydroxy-tetradecanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA25	0.0	0.0	trans-Tetradec-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA26	0.0	0.0	3-oxohexadecanoyl-ACP synthase VLCFA
+nodule	rxnVLCFA27	0.0	-0.0	3-oxohexadecanoyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA28	0.0	0.0	(R)-3-hydroxy-hexadecanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA29	0.0	0.0	trans-Hexadec-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA30	0.0	0.0	3-oxooctadecanoyl-ACP synthase VLCFA
+nodule	rxnVLCFA31	0.0	0.0	3-oxooctadecanoyl-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA32	0.0	0.0	(R)-3-hydroxy-octadecanoyl-ACP dehydratase VLCFA
+nodule	rxnVLCFA33	0.0	0.0	trans-Octadec-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA34	0.0	0.0	3-oxo-C20-ACP synthase VLCFA
+nodule	rxnVLCFA35	0.0	-0.0	3-oxo-C20-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA36	0.0	0.0	(R)-3-hydroxy-C20-ACP dehydratase VLCFA
+nodule	rxnVLCFA37	0.0	0.0	trans-C20-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA38	0.0	0.0	3-oxo-C22-ACP synthase VLCFA
+nodule	rxnVLCFA39	0.0	-0.0	3-oxo-C22-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA40	0.0	0.0	(R)-3-hydroxy-C22-ACP dehydratase VLCFA
+nodule	rxnVLCFA41	0.0	0.0	trans-C22-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA42	0.0	0.0	3-oxo-C24-ACP synthase VLCFA
+nodule	rxnVLCFA43	0.0	-0.0	3-oxo-C24-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA44	0.0	0.0	(R)-3-hydroxy-C24-ACP dehydratase VLCFA
+nodule	rxnVLCFA45	0.0	0.0	trans-C24-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA46	0.0	0.0	3-oxo-C26-ACP synthase VLCFA
+nodule	rxnVLCFA47	0.0	-0.0	3-oxo-C26-ACP dehydrogenase VLCFA
+nodule	rxnVLCFA48	0.0	0.0	(R)-3-hydroxy-C26-ACP dehydratase VLCFA
+nodule	rxnVLCFA49	0.0	0.0	trans-C26-2-enoyl-ACP reductase VLCFA
+nodule	rxnVLCFA50	0.0	0.0	3-oxo-C28-ACP synthase VLCFA
+nodule	rxnVLCFA51	0.0	-0.0	3-oxo-C28-ACP dehydrogenase VLCFA
+nodule	rxn00612	0.0	0.0	Glycerol-3-phosphate dehydrogenase (NADP)
+nodule	rxnPG1	0.0	0.0	C16:1-SN-glycerol-3-phosphate acetyltransferase reaction 1
+nodule	rxnPG2	0.0	0.0	C16:1-SN-glycerol-3-phosphate acetyltransferase reaction 2
+nodule	rxnPG3	0.0	0.0	C16:0-SN-glycerol-3-phosphate acetyltransferase (C16:1)
+nodule	rxnPG4	0.0	0.0	Phosphatidate cytidylyltransferase (C32:1)
+nodule	rxnPG5	0.0	0.0	Phosphatidylglycerol synthase (C32:1)
+nodule	rxnPG6	0.0	0.0	Phosphatidylglycerol phosphatase (C32:1)
+nodule	rxnPG7	0.0	0.0	C16:0-SN-glycerol-3-phosphate acetyltransferase reaction 1
+nodule	rxnPG8	0.0	0.0	C16:0-SN-glycerol-3-phosphate acetyltransferase reaction 2
+nodule	rxnPG9	0.0	0.0	C16:0-SN-glycerol-3-phosphate acetyltransferase (C16:0)
+nodule	rxnPG10	0.0	0.0	Phosphatidate cytidylyltransferase (C32:0)
+nodule	rxnPG11	0.0	0.0	Phosphatidylglycerol synthase (C32:0)
+nodule	rxnPG12	0.0	0.0	Phosphatidylglycerol phosphatase (C32:0)
+nodule	rxnPG13	0.0	0.0	C18:1-SN-glycerol-3-phosphate acetyltransferase reaction 1
+nodule	rxnPG14	0.0	0.0	C18:1-SN-glycerol-3-phosphate acetyltransferase reaction 2
+nodule	rxnPG15	0.0	0.0	C16:1-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+nodule	rxnPG16	0.0	0.0	Phosphatidate cytidylyltransferase (C34:2)
+nodule	rxnPG17	0.0	0.0	Phosphatidylglycerol synthase (C34:2)
+nodule	rxnPG18	0.0	0.0	Phosphatidylglycerol phosphatase (C34:2)
+nodule	rxnPG19	0.0	0.0	C16:0-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+nodule	rxnPG20	0.0	0.0	Phosphatidate cytidylyltransferase (C34:1)
+nodule	rxnPG21	0.0	0.0	Phosphatidylglycerol synthase (C34:1)
+nodule	rxnPG22	0.0	0.0	Phosphatidylglycerol phosphatase (C34:1)
+nodule	rxnPG23	0.0	0.0	C18:1-SN-glycerol-3-phosphate acetyltransferase (C16:0)
+nodule	rxnPG24	0.0	0.0	Phosphatidate cytidylyltransferase (C34:1 2)
+nodule	rxnPG25	0.0	0.0	Phosphatidylglycerol synthase (C34:1 2)
+nodule	rxnPG26	0.0	0.0	Phosphatidylglycerol phosphatase (C34:1 2)
+nodule	rxnPG27	0.0	0.0	PG(C34:2) cyclopropanation
+nodule	rxnPG28	0.0	0.0	PG(C34:2 2) cyclopropanation
+nodule	rxnPG34	0.0	0.0	PG(C34:1) cyclopropanation
+nodule	rxnPG35	0.0	0.0	C18:1-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+nodule	rxnPG36	0.0	0.0	Phosphatidate cytidylyltransferase (C36:2)
+nodule	rxnPG37	0.0	0.0	Phosphatidylglycerol synthase (C36:2)
+nodule	rxnPG38	0.0	0.0	Phosphatidylglycerol phosphatase (C36:2)
+nodule	rxnPG39	0.0	0.0	PG(C36:2) cyclopropanation
+nodule	rxnPG40	0.0	0.0	PG(C37:2) cyclopropanation
+nodule	rxnPG	0.0	0.0	Overall PG reaction
+nodule	rxnCL1	0.0	0.0	Cardiolipin synthase (C64:2)
+nodule	rxnCL2	0.0	0.0	Cardiolipin synthase (C64:0)
+nodule	rxnCL3	0.0	0.0	Cardiolipin synthase (C68:4)
+nodule	rxnCL4	0.0	0.0	Cardiolipin synthase (C68:2)
+nodule	rxnCL5	0.0	0.0	Cardiolipin synthase (C68:2 2)
+nodule	rxnCL6	0.0	0.0	Cardiolipin synthase (C70:2)
+nodule	rxnCL7	0.0	0.0	Cardiolipin synthase (C70:2 2)
+nodule	rxnCL8	0.0	0.0	Cardiolipin synthase (C70:2)
+nodule	rxnCL9	0.0	0.0	Cardiolipin synthase (C72:4)
+nodule	rxnCL10	0.0	0.0	Cardiolipin synthase (C74:4)
+nodule	rxnCL11	0.0	0.0	Cardiolipin synthase (C76:4)
+nodule	rxn00615	0.0	0.0	Glycerol kinase
+nodule	rxnCL	0.0	0.0	Overall CL reaction
+nodule	rxnPE1	0.0	0.0	Phosphatidylserine syntase (34:2)
+nodule	rxnPE2	0.0	-0.0	Phosphatidylserine decarboxylase (34:2)
+nodule	rxnPE3	0.0	0.0	Phosphatidylserine syntase (34:1)
+nodule	rxnPE4	0.0	-0.0	Phosphatidylserine decarboxylase (34:1)
+nodule	rxnPE5	0.0	0.0	PE(C35:2) cyclopropanation
+nodule	rxnPE6	0.0	0.0	PE(C35:2 2) cyclopropanation
+nodule	rxnPE7	0.0	0.0	PE(C35:1) cyclopropanation
+nodule	rxnPE8	0.0	0.0	Phosphatidylserine syntase (36:2)
+nodule	rxnPE9	0.0	0.0	Phosphatidylserine decarboxylase (36:2)
+nodule	rxnPE10	0.0	0.0	PE(C36:2) cyclopropanation
+nodule	rxnPE11	0.0	0.0	PE(C37:2) cyclopropanation
+nodule	rxnPE	0.0	0.0	Overall PE reaction
+nodule	rxnMMPE1	0.0	-0.0	PE methylation (34:2)
+nodule	rxnDMPE1	0.0	-0.0	MMPE methylation (34:2)
+nodule	rxnPC1	0.0	-0.0	DMPE methylation (34:2)
+nodule	rxnMMPE2	0.0	-0.0	PE methylation (34:1)
+nodule	rxnDMPE2	0.0	-0.0	MMPE methylation (34:1)
+nodule	rxnPC3	0.0	-0.0	DMPE methylation (34:1)
+nodule	rxnMMPE3	0.0	0.0	MMPE(C34:2) cyclopropanation
+nodule	rxnPC5	0.0	0.0	PC(C34:2) cyclopropanation
+nodule	rxnMMPE4	0.0	0.0	MMPE(C34:2 2) cyclopropanation
+nodule	rxnPC6	0.0	0.0	PC(C34:2 2) cyclopropanation
+nodule	rxnMMPE5	0.0	0.0	MMPE(C34:1) cyclopropanation
+nodule	rxnPC7	0.0	0.0	PC(C34:1) cyclopropanation
+nodule	rxnMMPE6	0.0	0.0	PE methylation (36:2)
+nodule	rxnDMPE3	0.0	0.0	MMPE methylation (36:2)
+nodule	rxnPC8	0.0	0.0	DMPE methylation (36:2)
+nodule	rxnMMPE7	0.0	0.0	MMPE(C36:2) cyclopropanation
+nodule	rxnPC10	0.0	0.0	PC(C36:2) cyclopropanation
+nodule	rxnMMPE8	0.0	0.0	MMPE(C37:2) cyclopropanation
+nodule	rxnPC11	0.0	0.0	PC(C37:2) cyclopropanation
+nodule	rxnMMPE	0.0	0.0	Overall MMPE reaction
+nodule	rxnPC	0.0	0.0	Overall PC reaction
+nodule	rxn04027	0.0	0.0	UDP-sulfoguinovose synthase
+nodule	rxnSL1	0.0	-0.0	Diacylglycerol kinase (32:1)
+nodule	rxnSL2	0.0	0.0	Sulfoquinovosyldiacylglycerol lipid biosynthesis (32:1)
+nodule	rxnSL3	0.0	-0.0	Diacylglycerol kinase (32:0)
+nodule	rxnSL4	0.0	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (32:0)
+nodule	rxnSL5	0.0	-0.0	Diacylglycerol kinase (34:2)
+nodule	rxnSL6	0.0	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (34:2)
+nodule	rxnSL7	0.0	-0.0	Diacylglycerol kinase (34:1)
+nodule	rxnSL8	0.0	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (34:1)
+nodule	rxnSL9	0.0	-0.0	Diacylglycerol kinase (34:1 2)
+nodule	rxnSL10	0.0	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (34:1 2)
+nodule	rxnSL11	0.0	0.0	SL(C35:2) cyclopropanation
+nodule	rxnSL12	0.0	0.0	SL(C35:2 2) cyclopropanation
+nodule	rxnSL13	0.0	0.0	SL(C35:1) cyclopropanation
+nodule	rxnSL14	0.0	0.0	C18:1-SN-glycerol-3-phosphate acetyltransferase (C16:0)
+nodule	rxnSL15	0.0	-0.0	Diacylglycerol kinase (35:2)
+nodule	rxnSL16	0.0	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (35:2)
+nodule	rxnSL17	0.0	0.0	SL(C35:1 2) cyclopropanation
+nodule	rxnSL18	0.0	-0.0	Diacylglycerol kinase (36:2)
+nodule	rxnSL19	0.0	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (36:2)
+nodule	rxnSL20	0.0	0.0	SL(C36:2) cyclopropanation
+nodule	rxnSL21	0.0	0.0	SL(C37:2) cyclopropanation
+nodule	rxnSL22	0.0	0.0	C18:0-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+nodule	rxnSL23	0.0	-0.0	Diacylglycerol kinase (36:1)
+nodule	rxnSL24	0.0	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (36:1)
+nodule	rxnSL	0.0	0.0	Overall SL reaction
+nodule	rxnOL1	0.0	0.0	Lyso-ornithine lipid biosynthesis (C16:0)
+nodule	rxnOL2	0.0	0.0	Ornithine lipid biosynthesis (C16:0/C18:1)
+nodule	rxnOL3	0.0	0.0	Lyso-ornithine lipid biosynthesis (C18:0)
+nodule	rxnOL4	0.0	0.0	Ornithine lipid biosynthesis (C18:0/C16:1)
+nodule	rxnOL5	0.0	0.0	OL(C16:0/C18:1) cyclopropanation
+nodule	rxnOL6	0.0	0.0	OL(C18:0/C16:1) cyclopropanation
+nodule	rxnOL7	0.0	0.0	Lyso-ornithine lipid biosynthesis (C18:1)
+nodule	rxnOL8	0.0	0.0	Ornithine lipid biosynthesis (C18:1/C18:1)
+nodule	rxnOL9	0.0	0.0	Ornithine lipid biosynthesis (C18:0/C18:1)
+nodule	rxnOL10	0.0	0.0	OL(C18:1/C18:1) cyclopropanation
+nodule	rxnOL11	0.0	0.0	OL(C18:0/C18:1) cyclopropanation
+nodule	rxnOL12	0.0	0.0	OL(C18:1/C19:1) cyclopropanation
+nodule	rxnOL	0.0	0.0	Overall OL reaction
+nodule	rxn00555	0.0	0.0	Glucosamine--fructose-6-phosphate aminotransferase
+nodule	rxn01485	0.0	0.0	Phosphoglucosamine mutase
+nodule	rxn03638	0.0	0.0	Glucosamine-1-phosphate N-acetyltransferase
+nodule	rxn00293	0.0	0.0	N-acetylglucosamine-1-phosphate uridyltransferase
+nodule	rxn00461	0.0	0.0	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+nodule	rxn02285	0.0	-0.0	UDP-N-acetylenolpyruvoylglucosamine reductase
+nodule	rxn02286	0.0	0.0	UDP-N-acetylmuramate--L-alanine ligase
+nodule	rxn02008	0.0	0.0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+nodule	rxn02011	0.0	0.0	UDP-N-acetylmuramoylalanyl-D-glutamate--2 6-diaminopimelate ligase
+nodule	rxn00851	0.0	0.0	D-alanine--D-alanine ligase
+nodule	rxn03164	0.0	0.0	UDP-N-acetylmuramoylalanyl-D-glutamyl-2 6-diaminopimelate--D-alanyl-D-alanine ligase
+nodule	rxn09345	0.0	0.0	Undecaprenyl-diphosphate synthase
+nodule	rxn03901	0.0	0.0	Undecaprenyl diphosphate phosphohydrolase
+nodule	rxn03904	0.0	0.0	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+nodule	rxn03408	0.0	0.0	UDP-diphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+nodule	rxn10199	0.0	0.0	Peptidoglycan subunit flippase and addition
+nodule	rxn06729	0.0	0.0	UDP-N-acetylglucosamine acyltransferase
+nodule	rxn03146	0.0	0.0	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+nodule	rxn06723	0.0	0.0	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+nodule	rxn03130	0.0	0.0	UDP-2 3-diacylglucosamine pyrophosphatase
+nodule	rxn03159	0.0	0.0	Lipid-A-disaccharide synthase
+nodule	rxn03181	0.0	0.0	Tetraacyldisaccharide 4'-kinase
+nodule	rxn03182	0.0	0.0	3-deoxy-D-manno-octulosonic-acid transferase
+nodule	rxn03439	0.0	0.0	3-deoxy-D-manno-octulosonic-acid transferase
+nodule	rxnVLCFA52	0.0	0.0	VLFCA transferase
+nodule	rxnLPS1	0.0	0.0	Glucose transferase to KDO2-lipid A
+nodule	SOURCE_cpdLPS3	0.0	0.0	Source of cpdLPS3
+nodule	rxnLPS2	0.0	0.0	Addition of the rest of the core oligosaccharide to lipid A
+nodule	rxnLPS3	0.0	0.0	Addition of the O-antigen to LPS
+nodule	rxn01119	0.0	0.0	UDP-galactose:undecaprenyl-phosphate galactose phosphotransferase
+nodule	rxnEPSS1	0.0	0.0	EPSI Glucosyltransferase 1
+nodule	rxnEPSS2	0.0	0.0	EPSI Glucosyltransferase 2
+nodule	rxnEPSS3	0.0	0.0	EPS1 Acetyltransferase
+nodule	rxnEPSS4	0.0	0.0	EPSI Glucosyltransferase 3
+nodule	rxnEPSS5	0.0	0.0	EPSI Glucosyltransferase 4
+nodule	rxnEPSS6	0.0	0.0	EPSI Glucosyltransferase 5
+nodule	rxnEPSS7	0.0	0.0	EPSI Glucosyltransferase 6
+nodule	rxnEPSS8	0.0	0.0	EPS1 Succinyltransferase 1
+nodule	rxnEPSS9	0.0	0.0	EPSI Glucosyltransferase 7
+nodule	rxnEPSS10	0.0	0.0	EPS1 Pyruvyltransferase
+nodule	rxnEPSSlmw	0.0	0.0	LMW Succinoglycan biosynthesis
+nodule	rxnEPSShmw	0.0	0.0	HMW Succinoglycan biosynthesis
+nodule	rxnEPSSlmw2	0.0	0.0	HMW Succinoglycan cleavage
+nodule	rxn00704	0.0	-0.0	Glucose-1-phosphate phosphomutase
+nodule	rxn00213	0.0	0.0	UTP--glucose-1-phosphate uridylyltransferase
+nodule	rxn00214	0.0	0.0	UDP-glucose 4-epimerase
+nodule	rxn00211	0.0	0.0	UDP-glucose 6-dehydrogenase
+nodule	rxn01008	0.0	0.0	UDP-glucuronate 4-epimerase
+nodule	rxn01007	0.0	0.0	UDP-xylose synthase
+nodule	rxn01117	0.0	-0.0	Arabinose-5-phosphate isomerase
+nodule	rxn02331	0.0	0.0	2-dehydro-3-deoxyphosphooctonate aldolase
+nodule	rxn02404	0.0	0.0	3-deoxy-manno-octulosonate-8-phosphatase
+nodule	rxn02405	0.0	0.0	3-deoxy-manno-octulosonate cytidylyltransferase
+nodule	rxn01675	0.0	0.0	Glucose-1-phosphate thymidylyltransferase
+nodule	rxn01997	0.0	0.0	dTDP-glucose 4 6-dehydratase
+nodule	rxn02000	0.0	0.0	dTDP-4-dehydrorhamnose 3 5-epimerase
+nodule	rxn02003	0.0	-0.0	dTDP-4-dehydrorhamnose reductase
+nodule	rxn01329	0.0	0.0	Phosphomannomutase
+nodule	rxn00640	0.0	0.0	Mannose-1-phosphate guanylyltransferase
+nodule	rxn00695	-8.749577408035952e-17	-0.0	Glucose-1-phosphate adenylyltransferase
+nodule	rxn08615	-8.749577408035952e-17	-0.0	Glycogen synthase
+nodule	rxn00178	0.0	0.0	Acetyl-CoA acetyltransferase
+nodule	rxn01453	0.0	0.0	Acetoacetyl-CoA reductase
+nodule	rxn11920	0.0	0.0	Poly-beta-hydroxybutyrate (PHB) synthesis
+nodule	rxnPHBDP	0.0	0.0	Poly-beta-hydroxybutyrate (PHB) depolymerase
+nodule	rxn00992_c0	0.0	-0.0	(R)-3-Hydroxybutanoate dehydrogenase
+nodule	rxn00988_c0	0.0	0.0	Acetoacetate:CoA ligase
+nodule	rxn00711	0.0	0.0	UMP pyrophosphate phosphoribosyltransferase
+nodule	rxn00720	0.0	0.0	5 6-Dihydrouracil oxidoreductase
+nodule	rxn01626	0.0	0.0	5 6-Dihydrouracil amidohydrolase
+nodule	rxn00654	0.0	0.0	3-ureidopropanoate amidohydrolase
+nodule	rxn00346	0.0	0.0	L-Aspartate 1-carboxy-lyase
+nodule	rxn00912	0.0	0.0	3-methyl-2-oxobutanoate hydroxymethyltransferase
+nodule	rxn01790	0.0	-0.0	2-ketopantoic acid reductase
+nodule	rxn01791	0.0	0.0	Pantoate--beta-alanine ligase
+nodule	rxn12510	0.0	0.0	Type I pantothenate kinase
+nodule	rxn09177	0.0	0.0	Phosphopantothenate---cysteine ligase
+nodule	rxn02341	0.0	0.0	Phosphopantothenoylcysteine decarboxylase
+nodule	rxn02175	0.0	0.0	Pantetheine-phosphate adenylyltransferase
+nodule	rxn00100	0.0	0.0	Dephospho-CoA kinase
+nodule	rxn00338	1.5486384596571443e-17	0.0	L-aspartate oxidase
+nodule	rxn02988	1.548638459657144e-17	0.0	Quinolinate synthase
+nodule	rxn02402	1.548638459657144e-17	0.0	Nicotinate-nucleotide pyrophosphorylase
+nodule	rxn02155	1.548638459657144e-17	0.0	Nicotinate-nucleotide adenylyltransferase
+nodule	rxn00138	1.5486384596571443e-17	0.0	NAD+ synthase
+nodule	rxn00077	0.0	0.0	NAD+ kinase
+nodule	rxn01257b	0.0	0.0	4-amino-4-deoxychorismate synthase
+nodule	rxn03841	0.0	0.0	4-amino-4-deoxychorismate lyase
+nodule	rxn00302	0.0	0.0	GTP cyclohydrolase - 1
+nodule	rxn03419	0.0	0.0	GTP cyclohydrolase - 2
+nodule	rxn03421	0.0	0.0	GTP cyclohydrolase - 3
+nodule	rxn03174	0.0	0.0	GTP cyclohydrolase - 3
+nodule	rxn03167	0.0	0.0	2-Amino-4-hydroxy-6-erythro-1 2 3-trihydroxypropyl
+nodule	rxn02504	0.0	0.0	Dihydroneopterin aldolase
+nodule	rxn02503	0.0	0.0	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+nodule	rxn02201	0.0	0.0	Dihydropteroate synthase
+nodule	rxn01603	0.0	0.0	Dihydrofolate synthase
+nodule	rxn00686	0.0	-0.0	Dihydrofolate reductase
+nodule	rxn01602	0.0	0.0	Dihydrofolate reductase
+nodule	rxn00690	-0.7411142857142868	-0.0	Formate tetrahydrofolate ligase
+nodule	rxn00907	0.7411142857142865	0.0	5 10-methylenetetrahydrofolate oxidoreductase
+nodule	rxn01211	0.7411142857142864	0.0	5 10-Methenyltetrahydrofolate-5 hydrolasede
+nodule	rxn00910	0.0	-0.0	5-methyltetrahydrofolate oxidoreductase
+nodule	rxn00979	0.0	0.0	Glycolaldehyde oxidoreductase
+nodule	rxn08657	0.0	0.0	Glycolate oxidase
+nodule	rxn09997	0.0	-0.0	Phosphomethylpyrimidine synthase
+nodule	rxn02484	0.0	-0.0	Hydroxymethylpyrimidine kinase
+nodule	rxn03108	0.0	-0.0	Phoshomethylpyrimidine kinase
+nodule	rxn07295	0.0	0.0	Glycine oxidase
+nodule	rxnTHIZsyn	0.0	0.0	Thiazole synthase
+nodule	rxn02305	0.0	-0.0	2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate 4-methyl-4-aminopyridine-5-methyltransferase
+nodule	rxn00438	0.0	-0.0	Thiamine-phosphate kinase
+nodule	rxn00300	0.0	0.0	GTP cyclohydrolase II
+nodule	rxn02475	0.0	0.0	Diaminohydroxyphosphoribosylaminopyrimidine deaminase
+nodule	rxn02474	0.0	-0.0	5-amino-6-(5-phosphoribosylamino)uracil reductase
+nodule	rxn05039	0.0	0.0	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
+nodule	rxn05040	0.0	0.0	3,4-dihydroxy-2-butanone-4-phosphate synthase
+nodule	rxn03080	0.0	0.0	6,7-dimethyl-8-ribityllumazine synthase
+nodule	rxn00048	0.0	0.0	Riboflavin synthase
+nodule	rxn00392	0.0	0.0	Riboflavin kinase
+nodule	rxn00122	0.0	0.0	FMN adenylyltransferase
+nodule	rxn00599	0.0	0.0	5-aminolevulinate synthase
+nodule	rxn00029	0.0	0.0	Delta-aminolevulinic acid dehydratase
+nodule	rxn00060	0.0	0.0	Porphobilinogen deaminase
+nodule	rxn02264	0.0	0.0	Uroporphyrinogen-III synthase
+nodule	rxn02288	0.0	0.0	Uroporphyrinogen III decarboxylase
+nodule	rxn02303	0.0	0.0	Coproporphyrinogen III oxidase
+nodule	rxn02304	0.0	0.0	Protoporphyrinogen-IX:oxygen oxidoreductase
+nodule	rxn00224	0.0	0.0	Protoporphyrin ferrochelatase
+nodule	rxn08707	0.0	0.0	Protoheme IX farnesyltransferase
+nodule	rxn12825	0.0	0.0	Heme A synthase
+nodule	rxn01609	0.0	0.0	Threonine phosphate synthase
+nodule	rxn04385	0.0	0.0	Threonine-phosphate decarboxylase
+nodule	rxn03975	0.0	0.0	NADPH-dependent FMN reductase
+nodule	rxnBluB	0.0	0.0	5,6-dimethylbenzimidazole synthase
+nodule	SINK_cpd00605	0.0	0.0	SINK for cpd00605 c0
+nodule	rxn02897	0.0	0.0	Nicotinate-nucleotide---dimethylbenzimidazole phosphoribosyltransferase
+nodule	rxn01265	0.0	-0.0	Nicotinate phosphoribosyltransferase
+nodule	rxn03150	0.0	0.0	Alpha-ribazole phosphatase
+nodule	rxn02287	0.0	0.0	Uroporphyrin-III C-methyltransferase
+nodule	rxn02775	0.0	0.0	Precorrin-2 C(20)-methyltransferase
+nodule	rxn11545	0.0	0.0	Precorrin-3B synthase
+nodule	rxn03513	0.0	0.0	Precorrin-3B C(17)-methyltransferase
+nodule	rxn03514	0.0	0.0	Precorrin-4 C(11)-methyltransferase
+nodule	rxn03534	0.0	0.0	Precorrin 6A synthase
+nodule	rxn03492	0.0	-0.0	Precorrin-6A reductase
+nodule	rxn03491	0.0	0.0	Precorrin-6Y C5,15-methyltransferase
+nodule	rxn03512	0.0	0.0	Precorrin-8X methylmutase
+nodule	rxn11544	0.0	0.0	Hydrogenobyrinic acid a,c-diamide synthase
+nodule	rxn10476	0.0	0.0	Hydrogenobyrinic acid a,c-diamide cobaltochelatase
+nodule	rxn11650	0.0	0.0	Cob(II)yrinic acid a,c-diamide reductase
+nodule	rxn03535	0.0	5.7383562535625195e-12	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+nodule	rxn03540	0.0	0.0	Adenosylcobyric acid synthase
+nodule	rxn04384	0.0	0.0	Adenosylcobinamide-phosphate synthase
+nodule	rxn03537	0.0	0.0	Adenosylcobinamide-phosphate guanylyltransferase
+nodule	rxn03538	0.0	0.0	Cobalamin synthase
+nodule	rxn03909	0.0	0.0	1-deoxy-D-xylulose-5-phosphate synthase
+nodule	rxn03958	0.0	-0.0	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+nodule	rxn03907	0.0	0.0	MEP cytidylyltransferase
+nodule	rxn03908	0.0	0.0	CDP-ME kinase
+nodule	rxn03910	0.0	0.0	MECDP-synthase
+nodule	rxn05293	0.0	0.0	MECDPDH c0
+nodule	rxn08352	0.0	0.0	1-hydroxy-2-methyl-2-E-butenyl-4-diphosphate reductase
+nodule	rxn04113	0.0	0.0	Isopentenyl diphosphate oxidoreductase
+nodule	rxn01213	0.0	0.0	Dimethylallyl diphosphate isopentenyl diphosphate c0
+nodule	rxn01466	0.0	0.0	Geranyl diphosphate isopentenyl diphosphate geranyltrans transferase c0
+nodule	rxnUB1	0.0	0.0	Octaprenyl-diphosphate synthase
+nodule	rxn00966	0.0	0.0	Chorismate lyase
+nodule	rxn03893	0.0	0.0	4-hydroxybenzoate polyprenyltransferase
+nodule	rxn03393	0.0	0.0	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+nodule	rxn03394	0.0	0.0	2-octaprenylphenol hydroxylase
+nodule	rxn03395	0.0	0.0	2-octaprenyl-6-hydroxyphenol methylase
+nodule	rxn12224	0.0	0.0	2-octaprenyl-6-methoxyphenol hydroxylase
+nodule	rxn03397	0.0	0.0	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase
+nodule	rxn04139	0.0	0.0	2 Octaprenyl 3 methyl 6 methoxy 1 4 benzoquinone NADPH2 oxygen c0
+nodule	rxn11946	0.0	0.0	3-demethylubiquinone-9 3-methyltransferase
+nodule	rxn01486	0.0	0.0	trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate
+nodule	rxn01489	0.0	0.0	Geranylgeranyl diphosphate geranylgeranyl diphosphate c0
+nodule	rxn05031	0.0	0.0	prephytoene diphosphate geranylgeranyl diphosphate c0
+nodule	rxn10122	0.963342857142857	0.0	NADH dehydrogenase   Complex I
+nodule	rxnFADH2	0.7452585714285705	0.0	FADH2 dependent ubiquinone reduction
+nodule	rxn12750	1.7086014285714273	0.0	Cytochrome C reductase
+nodule	rxn00058	0.8543007142857139	0.0	Cytochrome C oxidase
+nodule	rxn10042	1.6972257142857132	0.0	ATP synthase
+nodule	rxn01331	0.0	0.0	D-erythrose 4-phosphate dehydrogenase
+nodule	rxn02939	0.0	0.0	Erythronate-4-phosphate dehydrogenase
+nodule	rxn03445	0.0	-0.0	Phosphoserine aminotransferase
+nodule	rxn03951	0.0	0.0	4-hydroxythreonine-4-phosphate dehydrogenase   catalyzed
+nodule	rxn05116	0.0	0.0	4-hydroxythreonine-4-phosphate dehydrogenase   spontaneous
+nodule	rxn04070	0.0	0.0	Pyridoxine 5'-phosphate synthase
+nodule	rxn00209	0.0	0.0	Pyridoxamine 5'-phosphate oxidase
+nodule	rxnPolyPi1	0.0	0.0	Polyphosphate kinase
+nodule	rxn00646	0.0	0.0	Glutamate--cysteine ligase
+nodule	rxn00351	0.0	0.0	Glutathione synthase
+nodule	rxn00086	0.0	0.0	Glutathione reductase
+nodule	rxn00001	0.0	-0.0	Pyrophosphate phosphohydrolase
+nodule	rxn00102	-0.8899714285714274	-0.0	Carbonic acid hydrolyase
+nodule	rxn00006	0.25737071428571495	0.0	Catalase
+nodule	rxn00226	0.0	0.0	Acetyl-CoA ligase - 1
+nodule	rxn00176	0.0	0.0	Acetyl-CoA ligase - 2
+nodule	rxn00126	0.0	0.0	S-adenosylmethionine synthetase
+nodule	rxn00141	0.0	0.0	S-adenosyl-homocysteine hydrolase
+nodule	rxn00778	0.0	0.0	D-Ribose-1 5-phosphomutase
+nodule	rxn05289	0.5147414285714299	0.0	Thioredoxin reductase
+nodule	rxn00272	0.2966571428571424	0.0	L-alanine--glyoxylate aminotransferase
+nodule	rxn10052	0.0	-0.0	Adenylate kinase inorganic triphosphate
+nodule	rxn00022s	0.0	0.0	Sucrose hydrolase
+nodule	rxn00216	0.0	0.0	D-glucose 6-phosphotransferase
+nodule	rxn00547	0.0	0.0	D-fructose 6-phosphotransferase
+nodule	rxn05319	1.5566571428571416	0.0	H2O (water) transport via diffusion
+nodule	rxn05467	-2.075542857143091	0.0	CO2 (carbon dioxide) transport via diffusion
+nodule	rxn05468	1.2600000000000002	0.0	O2 (oxygen) transport via diffusion
+nodule	rxnBLTPcpd00204	0.0	0.0	CO (carbon monoxide) transport via diffusion
+nodule	rxnBLTPcpd00149	0.0	2.722368192160621e-11	Co2 (cobalt) ABC transport
+nodule	rxn05312	-8.96029074925124e-16	0.0	PO4 (phosphate) transport via proton symport
+nodule	rxn05145	0.0	0.0	PO4 (phosphate) ABC transport
+nodule	rxn05616	-4.48014537462562e-16	0.0	Mg (magnesium) transport via diffusion
+nodule	rxn05514	-4.48014537462562e-16	0.0	Ca2 (calcium) transport via proton antiport
+nodule	rxn05149	0.0	0.0	Mn (manganese) ABC transport
+nodule	rxn05195b	0.0	0.0	Fe2 (iron) ABC transport
+nodule	rxn05195	0.0	0.0	Fe3 (iron) ABC transport
+nodule	rxn05150	0.0	0.0	Zn2 (zinc) ABC transport
+nodule	rxn08769	0.0	0.0	K (potassium) transport via proton symport
+nodule	rxn05209	0.0	0.0	Na (sodium) transport via proton antiport
+nodule	rxn05223	0.0	0.0	Biotin ABC transport
+nodule	rxn05466	0.0	0.0	NH3 (ammonia) transport via diffusion
+nodule	rxn05153	0.0	0.0	SO4 (sulfate) ABC transport
+nodule	rxn05651	7.736432904338929e-17	0.0	SO4 (sulfate) transport via proton symport
+nodule	rxnBLTPcpd00076	0.0	0.0	Sucrose ABC transport
+nodule	rxn05147	0.0	0.0	D-glucose ABC transport
+nodule	rxn09269	-0.5933142857142838	-0.0	Succinate transport via proton symport (2 H)
+nodule	EX_cpd00001_e0	1.5566571428571416	0.0	EX H2O (water) e0
+nodule	EX_cpd00067_e0	-1.037771428571432	0.0	EX H (proton) e0
+nodule	EX_cpd00011_e0	2.0755428571430707	0.0	EX CO2 (carbon dioxide) e0
+nodule	EX_cpd00204_e0	0.0	0.0	EX CO (carbon monoxide) c0
+nodule	EX_cpd00007_e0	-1.26	-0.0	EX O2 (oxygen) e0
+nodule	EX_cpd00149_e0	0.0	-99999.99999999996	EX Co2 (cobalt) e0
+nodule	EX_cpd00009_e0	8.96029074925124e-16	0.0	EX PO4 (phosphate e0
+nodule	EX_cpd00254_e0	0.0	0.0	EX Mg (magnesium) e0
+nodule	EX_cpd00063_e0	0.0	0.0	EX Ca2 (calcium) e0
+nodule	EX_cpd00030_e0	0.0	0.0	EX Mn2 (manganese) e0
+nodule	EX_cpd10515_e0	0.0	0.0	EX Fe2 (iron) e0
+nodule	EX_cpd10516_e0	0.0	0.0	EX Fe3 (iron) e0
+nodule	EX_cpd00034_e0	0.0	0.0	EX Zn2 (zinc) e0
+nodule	EX_cpd00205_e0	0.0	0.0	EX K (potassium) e0
+nodule	EX_cpd00971_e0	0.0	0.0	EX Na (sodium) e0
+nodule	EX_cpd00104_e0	0.0	0.0	EX Biotin e0
+nodule	EX_cpd00013_e0	0.0	0.0	EX NH3 (ammonia) e0
+nodule	EX_cpd00048_e0	-7.73643290433893e-17	0.0	EX SO4 (sulfate) e0
+nodule	EX_cpd00076_e0	0.0	-0.0	EX Sucrose e0
+nodule	EX_cpd00027_e0	0.0	-0.0	EX D-glucose e0
+nodule	EX_cpd00036_e0	0.5933142857142839	0.0	EX Succinate e0
+nodule	rxnBIOMASS	0.0	-1.1102230246251565e-16	Biomass reaction
+nodule	EX_cpd11416_e0	0.0	0.0	EX Biomass c0
+nodule	rxnNGAM	0.0	-0.0	NGAM reaction
+nodule	rxn02360	0.0	0.0	Hydroxyproline 2-epimerase
+nodule	rxn02946	0.0	0.0	D-hydroxyproline dehydrogenase
+nodule	rxn01635	0.0	-0.0	delta-1-pyrroline-4-hydroxy-2-carboxylate deaminase
+nodule	rxn00196	0.0	0.0	alpha-ketoglutarate semialdehyde dehydrogenase
+nodule	rxn01289	0.0	-0.0	L-arabinose dehydrogenase
+nodule	rxn01830	0.0	0.0	L-arabinono-1,4-lactone lactonohydrolase
+nodule	rxn01828	0.0	0.0	L-Arabinonate hydrolyase
+nodule	rxn01633	0.0	0.0	2-dehydro-3-deoxy-L-arabinonate dehydratase
+nodule	rxn00395	0.0	0.0	L-arginine iminohydrolase
+nodule	rxn00114	0.0	0.0	ATP:carbamate phosphotransferase
+nodule	rxn00394	0.0	0.0	L-arginine amidinohydrolase
+nodule	rxn00471	0.0	0.0	L Ornithine ammonia lyasecyclizing c0
+nodule	rxn02071	0.0	0.0	D-Proline oxioreductase
+nodule	rxn00930	0.0	-0.0	delta-1-pyrroline-2-carboxylate reductase
+nodule	rxn09188	0.7452585714285705	0.0	Proline dehydrogenase
+nodule	rxn00183	0.0	0.0	1-pyrroline-5-carboxylate dehydrogenase
+nodule	rxn01192	0.0	0.0	Protocatechuate 3 4-oxidoreductase
+nodule	rxn02369	0.0	0.0	2-Carboxy-2 5-dihydro-5-oxofuran-2-acetate lyase
+nodule	rxn02483	0.0	0.0	4-Carboxymuconolactone carboxy-lyase
+nodule	rxn02144	0.0	0.0	4-Carboxymethylbut-3-en-4-olide-enol lactonohydrolase
+nodule	rxn02143	0.0	0.0	Succinyl-CoA:3-oxoadipate CoA-transferase
+nodule	rxn00598	0.0	-0.0	Succinyl-CoA:acetyl-CoA C-acyltransferase
+nodule	rxn01754	0.0	0.0	ATP:erythritol 4-phosphotransferase c0
+nodule	rxnEry1	0.0	0.0	Erythritol 4-phosphate dehydrogenase
+nodule	rxnEry2	0.0	0.0	L-3-tetrulose-4-P isomerase
+nodule	rxnEry3	0.0	0.0	D-3-tetrulose-4-P isomerase
+nodule	rxnEry4	0.0	0.0	D-erythrulose-4-P isomerase
+nodule	rxn01754a	0.0	0.0	Adonitol 1-phosphotransferase
+nodule	rxnRbtAa	0.0	0.0	Adonitol 1-phosphate dehydrogenase
+nodule	rxnRbtC	0.0	-0.0	D-ribulose 1-phosphate phosphatase
+nodule	rxn01114	0.0	0.0	D-ribulose 5-phosphotransferase
+nodule	rxn01754b	0.0	0.0	L-arabitol 1-phosphotransferase
+nodule	rxnRbtAb	0.0	0.0	L-arabitol 1-phosphate dehydrogenase
+nodule	rxnLalA	0.0	-0.0	L-xylulose 1-phosphate aldolase
+nodule	rxn00812	0.0	0.0	Galactose dehydrogenase
+nodule	rxn02174	0.0	0.0	D-Galactono-1 4-lactone lactonate
+nodule	rxn02173	0.0	0.0	D-Galactonate hydro-lyase
+nodule	rxn02429	0.0	0.0	2-keto-3-deoxygalactonate kinase
+nodule	rxn00783	0.0	0.0	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+nodule	rxn00867	0.0	0.0	Histidine ammonia-lyase
+nodule	rxn02085	0.0	-0.0	Urocanate hydratase
+nodule	rxn01642	0.0	0.0	Imidazolonepropionase
+nodule	rxn01639	0.0	0.0	N-Formimino-L-glutamate formiminohydrolase
+nodule	rxn07432	0.0	0.0	4-methyl-2-oxopentanoate dehydrogenase   1
+nodule	rxn07433	0.0	-0.0	4-methyl-2-oxopentanoate dehydrogenase   2
+nodule	rxn06586	0.0	0.0	4-methyl-2-oxopentanoate dehydrogenase   3
+nodule	rxn01241c	0.2966571428571427	0.0	Dihydrolipoamide dehydrogenase   branched chain amino acid catabolism
+nodule	rxn02866	0.0	0.0	Isovaleryl-CoA dehydrogenase
+nodule	rxn02889	0.0	-0.0	Methylcrotonoyl-CoA carboxylase
+nodule	rxn01504	0.0	-0.0	(S)-3-Hydroxy-3-methylglutaryl-CoA hydro-lyase
+nodule	rxn00991	0.0	0.0	(S)-3-hydroxy-3-methylglutaryl-CoA acetoacetate-lyase
+nodule	rxn07430	0.0	0.0	3-methyl-2-oxobutanoate dehydrogenase   1
+nodule	rxn07431	0.0	0.0	3-methyl-2-oxobutanoate dehydrogenase   2
+nodule	rxn01925	0.0	-0.0	3-methyl-2-oxobutanoate dehydrogenase   3
+nodule	rxn01924	0.0	0.0	Isobutyryl-CoA dehydrogenase
+nodule	rxn02949	0.0	0.0	3-hydroxyisobutyryl-CoA hydrolase   1
+nodule	rxn03433	0.0	0.0	3-hydroxyisobutyryl-CoA hydrolase   1
+nodule	rxn01480	0.0	0.0	3-hydroxyisobutyrate dehydrogenase   2
+nodule	rxn00671	0.0	-0.0	Malonate-semialdehyde dehydrogenase
+nodule	rxn01355	0.2966571428571427	0.0	Propionyl-CoA carboxylase
+nodule	rxn01996	-0.2966571428571426	-0.0	Methylmalonyl-CoA epimerase
+nodule	rxn00602	0.2966571428571426	0.0	Methylmalonyl-CoA mutase
+nodule	rxn07434	0.2966571428571427	0.0	3-methyl-2-oxopentanoate dehydrogenase   1
+nodule	rxn07435	0.2966571428571427	0.0	3-methyl-2-oxopentanoate dehydrogenase   2
+nodule	rxn06335	-0.29665714285714273	-0.0	3-methyl-2-oxopentanoate dehydrogenase   3
+nodule	rxn02270	0.0	0.0	2-methyl-butanoyl-CoA dehydrogenase
+nodule	rxn02934	-0.29665714285714273	0.0	3-hydroxymethylbutyryl-CoA hydrolase   1
+nodule	rxn02933	0.2966571428571427	0.0	3-hydroxymethylbutyryl-CoA hydrolase   2
+nodule	rxn00676	-0.29665714285714273	-0.0	Propanoyl-CoA acyltransferase
+nodule	rxn00817	0.0	-0.0	Melibiose galactohydrolase
+nodule	rxn00818	0.0	-0.0	Raffinose galactohydrolase
+nodule	rxn02596	0.0	0.0	Stachyose galactohydrolase
+nodule	rxn00189	0.0	0.0	L-glutamine amidohydrolase
+nodule	rxn00182	0.0	0.0	L-glutamate dehydrogenase
+nodule	rxn00020c_c0	0.0	-0.0	Cellobiose glucohydrolase
+nodule	rxn00020g_c0	0.0	-0.0	Gentiobiose glucohydrolase
+nodule	rxn00020m_c0	0.0	-0.0	Mannobiose glucohydrolase
+nodule	rxn00020s_c0	0.0	-0.0	Salicin glucohydrolase
+nodule	SINK_cpd01553_c0	0.0	0.0	SINK salicyl alcohol
+nodule	rxn00020a_c0	0.0	-0.0	Arbutin glucohydrolase
+nodule	SINK_cpd00415_c0	0.0	0.0	SINK hydroquinone
+nodule	rxn00020mg_c0	0.0	-0.0	beta-methyl-D-glucoside glucohydrolase
+nodule	rxn00892	0.0	0.0	N-acetyl-D-glucosamine 6-phosphotransferase
+nodule	rxn01484	0.0	0.0	N-Acetyl-D-glucosamine-6-phosphate amidohydrolase
+nodule	rxn01439	0.0	0.0	D-glucosamine phosphotransferase
+nodule	rxn00552	0.0	0.0	D-Glucosamine-6-phosphate ketol isomerase
+nodule	rxnNAGALAMk	0.0	0.0	N-acetyl-D-galactosamine 6-phosphotransferase
+nodule	rxnNAGALAMa	0.0	0.0	N-Acetyl-D-galactosamine-6-phosphate amidohydrolase
+nodule	rxnGALAMk	0.0	0.0	Galactosamine kinase
+nodule	rxn11877	0.0	0.0	Galactosamine-6-phosphate isomerse
+nodule	rxn02094	0.0	0.0	D-tagatose 6-phosphotransferase
+nodule	rxnTAG1	0.0	0.0	D-tagatose 6-phosphate isomerase
+nodule	rxn00022m	0.0	0.0	Maltose hydrolase
+nodule	rxn00022m2	0.0	0.0	Maltotriose hydrolase
+nodule	rxn00022t	0.0	0.0	Turanose hydrolase
+nodule	rxnTRE1	0.0	-0.0	Trehalose dehydrogenase
+nodule	rxnTRE2	0.0	-0.0	3-ketotrehalose hydratase
+nodule	rxnPAL1	0.0	0.0	Palatinose dehydrogenase
+nodule	rxnPAL2	0.0	0.0	3-ketopalatinose hydratase
+nodule	rxnMALT1	0.0	0.0	Maltitol dehydrogenase
+nodule	rxnMALT2	0.0	-0.0	3-ketomaltitol hydratase
+nodule	rxn00975	0.0	0.0	D-mannose kinase
+nodule	rxn00559	0.0	-0.0	Mannose-6-phosphate isomerase
+nodule	rxnPSCIS	0.0	0.0	Psicose isomerase c0
+nodule	rxn01044	0.0	0.0	D-xylose isomerase
+nodule	rxn01199	0.0	0.0	D-xylulose 5-phosphotransferase
+nodule	rxn00772	0.0	0.0	D-ribose kinase
+nodule	rxn00547b	0.0	0.0	D-fructose 6-phosphotransferase
+nodule	rxn00879	-2.5489270903530194e-16	0.0	M-inositol dehydrogenase
+nodule	rxn02007	-2.548927090353019e-16	0.0	M-inosose-2 dehydratase
+nodule	rxn12147	-2.5489270903530194e-16	0.0	THcHDO hydrolase
+nodule	rxn12146	-2.54892709035302e-16	0.0	5-deoxy-D-glucuronate aldose-ketose-isomerase
+nodule	rxn03932	-2.5489270903530194e-16	0.0	5-dehydro-2-deoxy-D-gluconate 6-phosphotransferase
+nodule	rxn01176	-2.5489270903530194e-16	0.0	5-dehydro-2-deoxyphosphogluconate aldolase
+nodule	rxn00501	-2.5489270903530194e-16	0.0	3-Oxopropanoate oxioreductase
+nodule	rxn00629	0.0	0.0	D-mannitol dehydrogenase
+nodule	rxn00634	0.0	0.0	D-sorbitol dehydrogenase
+nodule	rxn03883	0.0	0.0	D-arabitol dehydrogenase
+nodule	rxn01827	0.0	0.0	4-hydroxyphenylpyruvate dioxygenase
+nodule	rxn01825	0.0	0.0	Homogentisate 1,2-dioxygenase
+nodule	rxn02276	0.0	0.0	Maleylacetoacetate isomerase
+nodule	rxn00993	0.0	0.0	Fumarylacetoacetate hydrolase
+nodule	rxnRHA1	0.0	0.0	L-rhamnose kinase
+nodule	rxnRHA2	0.0	-0.0	L-rhamnose 1-phosphate isomerase
+nodule	rxn01621	0.0	0.0	L-rhamnulose-1-phosphate aldolase
+nodule	rxn01053	0.0	0.0	Lactaldehyde dehydrogenase
+nodule	rxn00816	0.0	-0.0	Lactose hydrolase
+nodule	rxn00816b	0.0	-0.0	Lactulose hydrolase
+nodule	rxn00816c	0.0	0.0	Methyl-beta-D-galactoside hydrolase
+nodule	rxn14044	0.0	-0.0	L-fucose dehydrogenase
+nodule	rxnFUCOSE1	0.0	0.0	L-fuconolactonase
+nodule	rxn02617	0.0	0.0	L-Fuconate dehydratase
+nodule	rxnFUCOSE2	0.0	0.0	2-keto-3-deoxy-L-fuconate dehydrogenase
+nodule	rxnFUCOSE3	0.0	0.0	2,4-diketo-3-deoxy-L-fuconate hydrolase
+nodule	rxnMatB	0.0	0.0	Malonyl-CoA synthetase
+nodule	rxn00174	0.0	-0.0	Malonyl-CoA carboxy-lyase
+nodule	rxn00175	-0.7369700000000013	-0.0	Acetyl-CoA synthetase
+nodule	rxn00371	0.7411142857142868	0.0	Formate dehydrogenase (NAD)
+nodule	rxn10114	0.0	0.0	Formate dehydrogenase (Ubiquinone)
+nodule	rxn00083	0.0	0.0	NADPH NAD transhydrogenase
+nodule	rxn00018	0.0	-0.0	3-phospho-D-glycerate carboxy-lyase
+nodule	rxn01334	0.0	0.0	Sedoheptulose 1,7-bisphosphate lyase
+nodule	rxn01345	0.0	0.0	Sedoheptulose 1,7-bisphosphate 1-phosphohydrolase
+nodule	rxn01111	0.0	0.0	Phosphoribulokinase
+nodule	rxn02569	0.0	-0.0	Selenide kinase
+nodule	rxn11747	0.0	0.0	L-Seryl-tRNA(Sec) synthetase
+nodule	rxn09244	0.0	0.0	Selenocysteine-tRNA(Sec) synthase
+nodule	rxn05623	0.0	0.0	Trimethylamine monooxygenase
+nodule	rxn01818	0.0	0.0	Trimethylamine N-oxide demethylase
+nodule	rxnGFC1c	0.0	0.0	Dimethylamine monoxygenase
+nodule	rxn01159	0.0	0.0	L-Glutamate-methylamine ligase
+nodule	rxnGFC1a	0.0	0.0	N-methyl-L-glutamate synthase
+nodule	rxnGFC1b	0.0	0.0	N-methyl glutamate dehydrogenase
+nodule	rxn00907b	0.0	0.0	5 10-methylenetetrahydrofolate oxidoreductase
+nodule	rxn01211b	0.0	0.0	5 10-Methenyltetrahydrofolate-5 hydrolasede
+nodule	rxn00691	0.0	0.0	10 Formyltetrahydrofolate amidohydrolase
+nodule	rxn00374	0.0	0.0	Formamide amidohydrolase
+nodule	rxn00847	0.0	0.0	Methanol dehydrogenase
+nodule	rxn04791	0.0	0.0	S-(hydroxymethyl)glutathione synthase
+nodule	rxn04792	0.0	0.0	S-(hydroxymethyl)glutathione dehydrogenase
+nodule	rxn00377	0.0	0.0	S-Formylglutathione hydrolase
+nodule	rxnPBdm1	0.0	-0.0	Stachydrine N-demethylation
+nodule	rxnPBdm2	0.0	-0.0	N-methyl-L-proline N-demethylation
+nodule	rxn01204	0.5188857142857151	0.0	4 Aminobutanoate -- oxoglutarate aminotransferase
+nodule	rxn01204b	-0.5188857142857151	-0.0	4 Aminobutanoate -- pyruvate aminotransferase
+nodule	rxn00509	0.0	0.0	Succinate semialdehyde dehydrogenase
+nodule	rxn00193	0.0	0.0	Glutamate racemase
+nodule	rxn00186	0.0	0.0	Pyroglutamic amidohydrolase
+nodule	rxn05123	0.0	-0.0	Glutamate putrescine ligase
+nodule	rxn05124	0.0	-0.0	gamma-glutamylputrescine oxidoreductase
+nodule	rxn05126	0.0	-0.0	gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
+nodule	SINK_cpd11408_c0	0.0	-0.0	N-gamma-glutamyl-aminobutyrate
+nodule	rxn00165	0.0	0.0	L-serine deaminase
+nodule	rxn10121	0.0	0.0	Nitrate reductase cytoplasm
+nodule	rxn00568	0.0	0.0	Nitrite reductase   NH3
+nodule	rxn10120	0.0	0.0	Nitrate reductase periplasm
+nodule	rxn05890	0.0	-0.0	Nitrite reductase   NO2
+nodule	rxn01806	0.0	0.0	Nitrous oxide reductase
+nodule	rxn11937	0.0	0.0	Nitrogen oxidoreductase N2O forming c0
+nodule	rxn06033	0.0	0.0	Hexadecanoyl-ACP hydrolase
+nodule	rxn00947	0.0	0.0	Hexadecanate CoA ligase
+nodule	rxnFAD1	0.0	0.0	Hexadecanoyl-CoA dehydrogenase
+nodule	rxn03240	0.0	0.0	trans-Hexadec-2-enoyl-CoA hydratase
+nodule	rxnFAD3	0.0	0.0	(S)-3-Hydroxyhexadecanoyl-CoA dehydrogenase
+nodule	rxnFAD4	0.0	-0.0	3-Oxohexadecanoyl-CoA cleavage
+nodule	rxnFAD5	0.0	0.0	Tetradecanoyl-CoA dehydrogenase
+nodule	rxn03241	0.0	0.0	trans-Tetradec-2-enoyl-CoA hydratase
+nodule	rxnFAD7	0.0	0.0	(S)-3-Hydroxytetradecanoyl-CoA dehydrogenase
+nodule	rxnFAD8	0.0	-0.0	3-Oxotetradecanoyl-CoA cleavage
+nodule	rxnFAD9	0.0	0.0	Dodecanoyl-CoA dehydrogenase
+nodule	rxn02911	0.0	0.0	2-trans-Dodecenoyl-CoA hydratase
+nodule	rxnFAD11	0.0	0.0	(S)-3-Hydroxydodecanoyl-CoA dehydrogenase
+nodule	rxnFAD12	0.0	-0.0	3-Oxododecanoyl-CoA cleavage
+nodule	rxnFAD13	0.0	0.0	Decanoyl-CoA dehydrogenase
+nodule	rxn03245	0.0	0.0	trans-Dec-2-enoyl-CoA hydratase
+nodule	rxnFAD15	0.0	0.0	(S)-3-Hydroxydecanoyl-CoA dehydrogenase
+nodule	rxnFAD16	0.0	-0.0	3-Oxodecanoyl-CoA cleavage
+nodule	rxnFAD17	0.0	0.0	Octanoyl-CoA dehydrogenase
+nodule	rxn03247	0.0	0.0	trans-Oct-2-enoyl-CoA hydratase
+nodule	rxnFAD19	0.0	0.0	(S)-3-Hydroxyoctanoyl-CoA dehydrogenase
+nodule	rxnFAD20	0.0	-0.0	3-Oxooctanoyl-CoA cleavage
+nodule	rxnFAD21	0.0	0.0	Hexanoyl-CoA dehydrogenase
+nodule	rxn03250	0.0	0.0	trans-Hex-2-enoyl-CoA hydratase
+nodule	rxnFAD23	0.0	0.0	(S)-3-Hydroxyhexanoyl-CoA dehydrogenase
+nodule	rxnFAD24	0.0	-0.0	3-Oxohexanoyl-CoA cleavage
+nodule	rxn00872	0.0	0.0	Butanoyl-CoA dehydrogenase
+nodule	rxn02167	0.0	-0.0	trans-But-2-enoyl-CoA hydratase
+nodule	rxnFAD27	0.0	-0.0	(S)-3-Hydroxybutanoyl-CoA dehydrogenase
+nodule	rxn00709	0.0	0.0	Uridine 5'-phosphotransferase
+nodule	rxn01145	0.0	0.0	dTMP phosphatase
+nodule	rxn01146	0.0	0.0	Thymidine deoxyribosyltransferase
+nodule	rxn01028	0.0	0.0	5 6-Dihydrothymine dehydrogenase
+nodule	rxn02190	0.0	0.0	5 6-Dihydrothymine deaminase
+nodule	rxn03188	0.0	0.0	3-Ureidoisobutyrate deaminase
+nodule	rxn02925b_c0	0.0	0.0	Alanine 3-oxopropanoate aminotransferase
+nodule	rxn01127	0.0	0.0	dAMP kinase
+nodule	rxn01507	0.0	-0.0	dAMP phosphatase
+nodule	rxn01858	0.0	0.0	Deoxyadenosine deaminase
+nodule	rxn01985	0.0	0.0	Deoxyinosine ribosyltransferase
+nodule	rxn01859	0.0	-0.0	Deoxyadenosine ribosyltransferase
+nodule	rxn00926	0.0	0.0	Adenine deaminase
+nodule	rxn01297	0.0	-0.0	Hypoxanthine dehydrogenase
+nodule	rxn00139	0.0	0.0	AMP phosphoribosyltransferase
+nodule	rxn00131	0.0	-0.0	AMP phosphoribohydrolase
+nodule	rxn00132	0.0	0.0	AMP phosphatase
+nodule	rxn01138	0.0	0.0	Adenosine ribosyltransferase
+nodule	rxn00927	0.0	0.0	Adenosine ribohydrolase
+nodule	rxn00836	0.0	0.0	IMP pyrophosphate phosphoribosyltransferase
+nodule	rxn00831	0.0	0.0	IMP phosphatase
+nodule	rxn01358	0.0	0.0	Inosine ribosyltransferase
+nodule	rxn01509	0.0	0.0	dGMP kinase
+nodule	rxn01445	0.0	-0.0	dGMP phosphatase
+nodule	rxn01446	0.0	-0.0	Deoxyguanosine ribosyltransferase
+nodule	rxn01225	0.0	0.0	Guanine deaminase
+nodule	rxn00915	0.0	0.0	GMP phosphoribosyltransferase
+nodule	rxn00913	0.0	0.0	GMP phosphatase
+nodule	rxn01548	0.0	0.0	Guanosine ribosyltransferase
+nodule	rxn01226	0.0	0.0	Guanosine ribohydrolase
+nodule	rxn01544	0.0	0.0	XMP phosphoribosyltransferase
+nodule	rxn01961	0.0	0.0	XMP phosphatase
+nodule	rxn01649	0.0	0.0	Xanthosine ribosyltransferase
+nodule	rxn01545	0.0	0.0	Xanthosine ribohydrolase
+nodule	rxn01522	0.0	0.0	Xanthine dehydrogenase
+nodule	rxn09370	0.0	0.0	Uricase
+nodule	rxn01748	0.0	0.0	Allantoin deaminase
+nodule	rxn01746	0.0	0.0	Allantoate deaminase
+nodule	rxn00562	0.0	0.0	(-)-Ureidoglycolate urea-lyase
+nodule	rxn00101	0.0	0.0	Urease
+nodule	rxn12638	0.0	0.0	Gly pro dipeptidase
+nodule	rxn12637	0.0	0.0	Gly asp dipeptidase
+nodule	rxn12634	0.0	0.0	Gy glu dipeptidase
+nodule	rxn12633	0.0	0.0	Ala Asp dipeptidase
+nodule	rxn12639	0.0	0.0	Ala Gln dipeptidase
+nodule	rxn12640	0.0	0.0	Ala Glu dipeptidase
+nodule	rxn12641	0.0	0.0	Ala Gly dipeptidase
+nodule	rxn12642	0.0	0.0	Ala His dipeptidase
+nodule	rxn12643	0.0	0.0	Ala Leu dipeptidase
+nodule	rxn12644	0.0	0.0	Ala Thr dipeptidase
+nodule	rxn12646	0.0	0.0	Gly gln dipeptidase
+nodule	rxn12635	0.0	0.0	Gly met dipeptidase
+nodule	rxn12636	0.0	0.0	Met ala dipeptidase
+nodule	rxn12645	0.0	0.0	Gly asn dipeptidase
+nodule	rxnPC2	0.0	0.0	Phosphatidylcholine synthase (34:2)
+nodule	rxnPC4	0.0	0.0	Phosphatidylcholine synthase (34:1)
+nodule	rxnPC9	0.0	-0.0	Phosphatidylcholine synthase (36:2)
+nodule	SOURCE_cpdEPSIIn_1_c0	0.0	0.0	Source of cpdEPSIIn 1 c0
+nodule	rxnEPSG1	0.0	-0.0	EPSII Galactosyltransferase
+nodule	rxnEPSG2	0.0	-0.0	EPSII Glucosyltransferase
+nodule	rxnEPSG3	0.0	-0.0	EPSII acetylation
+nodule	rxnEPSG4	0.0	-0.0	EPSII pyruvylation
+nodule	SINK_cpdESPII_c0	0.0	-0.0	Sink for galactoglucan
+nodule	rxn05964	0.0	0.0	PC phospholipase C
+nodule	rxnDGTS1	0.0	0.0	S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase
+nodule	rxnDGTS2	0.0	0.0	S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase
+nodule	SINK_DGTS_c0	0.0	-0.0	DGTS Sink
+nodule	rxn04684	0.0	0.0	Phosphocholine phosphohydrolase
+nodule	rxn10770	0.0	-0.0	Choline dehydrogenase
+nodule	rxn01867	0.0	0.0	Betaine aldehyde dehydrogenase
+nodule	rxn00405	0.0	0.0	L-arginine decarboxylase
+nodule	rxn00858	0.0	0.0	Agmatine amidinohydrolase c0
+nodule	rxn00470	0.0	0.0	L-ornithine decarboxylase
+nodule	rxn13085	0.0	0.0	Spermidine synthase
+nodule	rxn00322	0.0	0.0	L-lysine decarboxylase
+nodule	SINK_cpd01155_c0	0.0	0.0	Sink for cadaverine
+nodule	rxn04786	0.0	0.0	Diaminobutyrate aminotransferase
+nodule	rxn07465	0.0	-0.0	Diaminobutyrate decarboxylase
+nodule	rxnRB1	0.0	-0.0	1 3-diaminopropane monooxygenase
+nodule	rxnRB2	0.0	-0.0	N4-hydroxy-1-aminopropane O-acetyltransferase
+nodule	rxnRB3	0.0	-0.0	Rhizobactin 1021 core synthase
+nodule	rxnRB7	0.0	0.0	Decanoyl-ACP hydrolase
+nodule	rxnRB4	0.0	-0.0	Rhizobactin 1021 synthase
+nodule	rxnRB5	0.0	0.0	Rhizobactin 1021 export
+nodule	rxnRB6	0.0	0.0	Rhizobactin 1021 import
+nodule	rxnNFBS1	0.0	-0.0	Malonyl-ACP:[acyl-carrier-protein] transferase   Nod factor biosynthesis
+nodule	rxnNFBS2	0.0	0.0	Oxo-acyl-NodF (16:1) synthase
+nodule	rxnNFBS3	0.0	-0.0	Oxo-acyl-NodF (16:1) reductase
+nodule	rxnNFBS4	0.0	0.0	Oxo-acyl-NodF (16:1) dehydratase
+nodule	rxnNFBS5	0.0	-0.0	N-acetylglucosaminyltransferase  disaccharide
+nodule	rxnNFBS6	0.0	-0.0	N-acetylglucosaminyltransferase  trisaccharide
+nodule	rxnNFBS7	0.0	-0.0	N-acetylglucosaminyltransferase  tetrasaccharide
+nodule	rxnNFBS8	0.0	-0.0	Nod factor backbone deacetylase
+nodule	rxnNFBS9	0.0	-0.0	Nod factor acyltransferase
+nodule	rxnNFBS10	0.0	-0.0	Nod factor acetyltransferase
+nodule	rxnNFBS11	0.0	-0.0	Sulfate adenyltransferase for Nod Factor
+nodule	rxnNFBS12	0.0	-0.0	ATP adenylylsulfate 3-phosphotransferase for Nod factor
+nodule	rxnNFBS13	0.0	-0.0	Nod factor sulfotransferase
+nodule	rxnNFBS14	0.0	0.0	Adenosine-3 5-bisphosphate 3-phosphohydrolase
+nodule	rxnNFBS15	0.0	0.0	Nod factor export
+nodule	SINK_cpdNodF_c0	0.0	0.0	Sink for nod factor
+nodule	rxnBLTPcpd00851	0.0	0.0	trans-4-hydroxy-L-proline ABC transport
+nodule	rxnBLTPcpd02175	0.0	0.0	cis-4-hydroxy-D-proline ABC transport
+nodule	rxn08139	0.0	0.0	L-arabinose ABC transport
+nodule	rxnGFTP5	0.0	0.0	D-proline ABC transport
+nodule	rxn05165	0.0	-0.0	L-proline ABC transport
+nodule	rxn09046	0.0	0.0	L-ornithine ABC transport
+nodule	rxn09269lm	1.1121999999999999	0.0	L-malate transport via proton symport
+nodule	rxn05561	0.0	0.0	Fumarate transport via proton symport
+nodule	rxnBLTPcpd00197	0.0	0.0	Protocatechuate ABC transport
+nodule	rxnBLTPcpd00392	0.0	0.0	I-erythritol ABC transport
+nodule	rxnGFTP3	0.0	0.0	Adonitol ABC transport
+nodule	rxnGFTP4	0.0	0.0	L-arabitol ABC transport
+nodule	rxn08573	0.0	0.0	D-galactose ABC transport
+nodule	rxn05164	0.0	0.0	L-histidine ABC transport
+nodule	rxn05161	0.0	0.0	L-leucine ABC transport
+nodule	rxn05168	0.0	0.0	L-valine ABC transport
+nodule	rxn05179	0.0	-0.0	L-isoleucine ABC transport
+nodule	rxnBLTPcpd03198	0.0	0.0	Melibiose ABC transport
+nodule	rxnBLTPcpd00382	0.0	0.0	Raffinose ABC transport
+nodule	rxnBLTPcpd01133	0.0	0.0	Stachyose transport via diffusion
+nodule	rxn10144	0.0	0.0	L-asparagine ABC transport
+nodule	rxnBLGFcpd00041	0.0	0.0	L-aspartate transport via proton symport
+nodule	rxn05146	-1.0866437100955373e-15	0.0	L-glutamate ABC transport
+nodule	rxn08624	0.0	0.0	L-glutamine ABC transport
+nodule	rxnBLTPcpd00158	0.0	0.0	D-cellobiose ABC transport
+nodule	rxnBLTPcpd05158	0.0	0.0	Gentiobiose ABC transport
+nodule	rxnBLTPcpdMANB	0.0	0.0	Mannobiose ABC transport
+nodule	rxnBLTPcpd01030	0.0	0.0	Salicin ABC transport
+nodule	rxnBLTPcpd03696	0.0	0.0	Arbutin ABC transport
+nodule	rxnBLTPcpd00589	0.0	0.0	D-tagatose ABC transport
+nodule	rxnBLTPcpd00100	0.0	-0.0	Glycerol ABC transport
+nodule	rxn10839	0.0	0.0	D-trehalose ABC transport
+nodule	rxn05170	0.0	0.0	Maltose ABC transport
+nodule	rxnBLTPcpd20885	0.0	0.0	Turanose ABC transport
+nodule	rxn08875	0.0	0.0	Maltotriose ABC transport
+nodule	rxnBLTPcpd01200	0.0	0.0	Palatinose ABC transport
+nodule	rxnBLTPcpdMALT	0.0	0.0	Maltitol ABC transport
+nodule	rxnBLTPcpd00138	0.0	0.0	D-mannose ABC transport
+nodule	rxnBLTPcpd03884	0.0	0.0	Psicose ABC transport
+nodule	rxn05167	0.0	0.0	D-xylose ABC transport
+nodule	rxn05160	0.0	0.0	D-ribose ABC transport
+nodule	rxnBLGFcpd00121	-2.5489270903530194e-16	0.0	M-inositol ABC transport
+nodule	rxnBLTPcpd00314	0.0	0.0	D-mannitol ABC transport
+nodule	rxnBLTPcpd00588	0.0	0.0	D-sorbitol ABC transport
+nodule	rxnBLTPcpd01307	0.0	0.0	D-arabitol ABC transport
+nodule	rxnBLTPcpd00020	0.0	0.0	Pyruvate ABC transport
+nodule	rxnBLTPcpd00069	0.0	0.0	L-tyrosine ABC transport
+nodule	rxnBLTPcpd00797	0.0	-0.0	(R)-3-hydroxybutyric acid transport via diffusion
+nodule	rxnBLTPcpd00142	0.0	0.0	Acetoacetic Acid ABC transport
+nodule	rxn10131	0.0	0.0	Arginine-ornithine antiporter
+nodule	rxnBLTPcpd00082	0.0	0.0	D-fructose ABC transport
+nodule	rxnGFTP8	0.0	0.0	L-rhamnose ABC transport
+nodule	rxnBLTPcpd00208	0.0	0.0	alpha-D-lactose ABC transport
+nodule	rxnBLTPcpd04349	0.0	0.0	Lactulose ABC transport
+nodule	rxnBLTPcpd02274	0.0	0.0	Methyl beta-D-galactopyranoside ABC transport
+nodule	rxn05538	0.0	0.0	Dipeptide gly pro ABC transport
+nodule	rxn05537	0.0	0.0	Dipeptide gly asp ABC transport
+nodule	rxn05534	0.0	0.0	Dipeptide gly glu ABC transport
+nodule	rxn05533	0.0	0.0	Dipeptide ala asp ABC transport
+nodule	rxn05540	0.0	0.0	Dipeptide ala gln ABC transport
+nodule	rxn05541	0.0	0.0	Dipeptide ala glu ABC transport
+nodule	rxn05542	0.0	0.0	Dipeptide ala gly ABC transport
+nodule	rxn05543	0.0	0.0	Dipeptide ala his ABC transport
+nodule	rxn05544	0.0	0.0	Dipeptide ala leu ABC transport
+nodule	rxn05545	0.0	0.0	Dipeptide ala thr ABC transport
+nodule	rxn05547	0.0	0.0	Dipeptide gly gln ABC transport
+nodule	rxn05535	0.0	0.0	Dipeptide gly met ABC transport
+nodule	rxn05536	0.0	0.0	Dipeptide met ala ABC transport
+nodule	rxn05546	0.0	0.0	Dipeptide gly asn ABC transport
+nodule	rxn10170	0.0	0.0	L-alanine ABC transport
+nodule	rxnBLTPcpd00182	0.0	0.0	Adenosine ABC transport
+nodule	rxnBLTPcpd00246	0.0	0.0	Inosine ABC transport
+nodule	rxnBLTPcpd00249	0.0	0.0	Uridine ABC transport
+nodule	rxnBLTPcpd11603	0.0	0.0	beta-methyl-D-glucoside ABC transport
+nodule	rxnBLTPcpd00751	0.0	0.0	L-fucose ABC transport
+nodule	rxn10883	0.0	0.0	L-serine ABC transport
+nodule	rxnBLTPcpd00281	0.0	0.0	GABA ABC transport
+nodule	rxn12569	0.0	0.0	Malonate transport via proton symport
+nodule	rxnBLTPcpd00029	0.0	0.0	Acetic Acid transport via diffusion
+nodule	rxnBLTPcpd00047	0.0	0.0	Formic Acid transport via diffusion
+nodule	rxn08212	0.0	-0.0	Choline ABC transport
+nodule	rxnGFTP10b	0.0	-0.0	Glycine betaine transport via Na+ symport
+nodule	rxn05637b	0.0	0.0	Glycine betaine ABC transport
+nodule	rxnGFTP10	0.0	0.0	Proline betaine (stachydrine) transport via Na+ symport
+nodule	rxn05637	0.0	-0.0	Proline betaine (stachydrine) ABC transport
+nodule	rxnBLTPcpd00128	0.0	0.0	Adenine ABC transport
+nodule	rxn05682	0.0	-0.0	Allantoin transport via proton symport
+nodule	rxnBLTPcpd01092	0.0	0.0	Allantoin ABC transport
+nodule	rxnBLTPcpd00117	0.0	0.0	D-alanine transport via proton symport
+nodule	rxnBLTPcpd00186	0.0	0.0	D-glutamate ABC transport
+nodule	rxnBLTPcpd00207	0.0	0.0	Guanine transport via diffusion
+nodule	rxnBLTPcpd00311	0.0	0.0	Guanosine transport via diffusion
+nodule	rxnBLTPcpd00274	0.0	0.0	L-citrulline ABC transport
+nodule	rxnBLTPcpd00073	0.0	0.0	Urea ABC transprot
+nodule	rxnBLTPcpd01293	0.0	0.0	L-Pyroglutamic acid ABC transport
+nodule	rxnBLTPcpd00187	0.0	0.0	Methylamine transport via proton symport
+nodule	rxnBLTPcpd00378	0.0	0.0	Formamide ABC transport
+nodule	rxnGFTPcpd00242	0.0	0.0	Bicarbonate ABC transport
+nodule	rxn05625	0.0	-0.0	Nitrite transport via proton symport
+nodule	rxn05627	0.0	0.0	Nitrate transport via proton symport
+nodule	rxnGFTPcpd00209	0.0	0.0	Nitrate ABC transport
+nodule	rxnBLTPcpd00184	0.0	0.0	Thymidine transport via proton symport
+nodule	rxnBLTPcpd00151	0.0	0.0	Thymine transport via proton symport
+nodule	rxnBLTPcpd00092	0.0	-0.0	Uracil ABC transport
+nodule	rxn05197	0.0	0.0	Uracil transport via proton symport
+nodule	rxnBLTPcpd00300	0.0	0.0	Urate transport via proton symport
+nodule	rxn05202	0.0	0.0	Xanthine transport via proton symport
+nodule	rxnBLTPcpd01217	0.0	0.0	Xanthosine transport via proton symport
+nodule	rxn05163	0.0	0.0	Putrescine ABC transport
+nodule	rxnBLTPcpd00152	0.0	0.0	Agmatine ABC transport
+nodule	rxnBLTPcpd00122	0.0	0.0	N-Acetyl-D-Glucosamine ABC transport
+nodule	rxnBLTPcpd00276	0.0	0.0	D-glucosamine ABC transport
+nodule	rxnBLTPcpd00832	0.0	0.0	N-Acetyl-D-Galactosamine ABC transport
+nodule	rxnBLTPcpd01524	0.0	0.0	D-galactosamine ABC transport
+nodule	rxn05667	0.0	0.0	Urea transport via diffusion
+nodule	rxnGFTPcpd00441	0.0	0.0	Trimethylamine transport via diffusion
+nodule	rxnGFTPcpd01078	0.0	0.0	Selenide transport via diffusion
+nodule	EX_cpd00851_e0	0.0	-0.0	EX trans-4-hydroxy-L-proline e0
+nodule	EX_cpd02175_e0	0.0	-0.0	EX cis-4-hydroxy-D-proline e0
+nodule	EX_cpd00224_e0	0.0	0.0	EX L-arabinose e0
+nodule	EX_cpd00567_e0	0.0	-0.0	EX D-proline e0
+nodule	EX_cpd00129_e0	0.0	-0.0	EX L-proline e0
+nodule	EX_cpd00064_e0	0.0	-0.0	EX L-ornithine e0
+nodule	EX_cpd00130_e0	-1.1122	-0.0	EX L-malate e0
+nodule	EX_cpd00106_e0	0.0	-0.0	EX Fumarate e0
+nodule	EX_cpd00197_e0	0.0	0.0	EX Protocatechuate e0
+nodule	EX_cpd00392_e0	0.0	-0.0	EX Erythritol e0
+nodule	EX_cpd00366_e0	0.0	-0.0	EX Adonitol e0
+nodule	EX_cpd00417_e0	0.0	-0.0	EX L-arabitol e0
+nodule	EX_cpd00108_e0	0.0	-0.0	EX D-galactose e0
+nodule	EX_cpd00119_e0	0.0	-0.0	EX L-Histidine e0
+nodule	EX_cpd00107_e0	0.0	-0.0	EX L-Leucine e0
+nodule	EX_cpd00156_e0	0.0	-0.0	EX L-Valine e0
+nodule	EX_cpd00322_e0	0.0	0.0	EX L-Isoleucine e0
+nodule	EX_cpd03198_e0	0.0	-0.0	EX Melibiose e0
+nodule	EX_cpd00382_e0	0.0	-0.0	EX Raffinose e0
+nodule	EX_cpd01133_e0	0.0	-0.0	EX Stachyose e0
+nodule	EX_cpd00132_e0	0.0	-0.0	EX L-Asparagine e0
+nodule	EX_cpd00041_e0	0.0	-0.0	EX L-Aspartate e0
+nodule	EX_cpd00023_e0	1.0866437100955373e-15	0.0	EX L-Glutamate e0
+nodule	EX_cpd00053_e0	0.0	-0.0	EX L-Glutamine e0
+nodule	EX_cpd00158_e0	0.0	-0.0	EX D-Cellobiose e0
+nodule	EX_cpd05158_e0	0.0	-0.0	EX Gentiobiose e0
+nodule	EX_cpdMNBE_e0	0.0	-0.0	EX Mannobiose e0
+nodule	EX_cpd01030_e0	0.0	-0.0	EX Salicin e0
+nodule	EX_cpd03696_e0	0.0	-0.0	EX Arbutin e0
+nodule	EX_cpd00122_e0	0.0	-0.0	EX N-Acetyl-D-Glucosamine e0
+nodule	EX_cpd00276_e0	0.0	-0.0	EX D-Glucosamine e0
+nodule	EX_cpd00832_e0	0.0	-0.0	EX N-Acetyl-D-Galactosamine e0
+nodule	EX_cpd01524_e0	0.0	-0.0	EX D-Galactosamine e0
+nodule	EX_cpd00589_e0	0.0	-0.0	EX D-Tagatose e0
+nodule	EX_cpd00100_e0	0.0	0.0	EX Glycerol e0
+nodule	EX_cpd00794_e0	0.0	-0.0	EX D-Trehalose e0
+nodule	EX_cpd00179_e0	0.0	-0.0	EX Maltose e0
+nodule	EX_cpd20885_e0	0.0	-0.0	EX Turanose e0
+nodule	EX_cpd01262_e0	0.0	-0.0	EX Amylotriose e0
+nodule	EX_cpd01200_e0	0.0	-0.0	EX Palatinose e0
+nodule	EX_cpdMALT_e0	0.0	-0.0	EX Maltitol e0
+nodule	EX_cpd00138_e0	0.0	-0.0	EX D-Mannose e0
+nodule	EX_cpd03884_e0	0.0	-0.0	EX D-Psicose e0
+nodule	EX_cpd00154_e0	0.0	-0.0	EX Xylose e0
+nodule	EX_cpd00121_e0	2.5489270903530194e-16	0.0	EX M inositol e0
+nodule	EX_cpd00314_e0	0.0	-0.0	EX D-Mannitol e0
+nodule	EX_cpd00588_e0	0.0	-0.0	EX D-Sorbitol e0
+nodule	EX_cpd01307_e0	0.0	-0.0	EX D-Arabitol e0
+nodule	EX_cpd00105_e0	0.0	-0.0	EX D Ribose e0
+nodule	EX_cpd00020_e0	0.0	0.0	EX Pyruvic Acid e0
+nodule	EX_cpd00069_e0	0.0	-0.0	EX L-Tyrosine e0
+nodule	EX_cpd00797_e0	0.0	0.0	EX (R)-3-Hydroxybutyric acid e0
+nodule	EX_cpd00142_e0	0.0	-0.0	EX Acetoacetic Acid e0
+nodule	EX_cpd00051_e0	0.0	-0.0	EX L-arginine e0
+nodule	EX_cpd00082_e0	0.0	-0.0	EX D-Fructose e0
+nodule	EX_cpd00396_e0	0.0	-0.0	EX L-rhamnose e0
+nodule	EX_cpd00208_e0	0.0	-0.0	EX alpha-D-Lactose e0
+nodule	EX_cpd04349_e0	0.0	-0.0	EX Lactulose e0
+nodule	EX_cpd02274_e0	0.0	-0.0	EX Methyl beta-D-galactopyranoside e0
+nodule	EX_cpd00035_e0	0.0	0.0	EX L-Alanine e0
+nodule	EX_cpd00182_e0	0.0	-0.0	EX Adenosine e0
+nodule	EX_cpd00246_e0	0.0	-0.0	EX Inosine e0
+nodule	EX_cpd00249_e0	0.0	-0.0	EX Uridine e0
+nodule	EX_cpd11588_e0	0.0	-0.0	EX gly pro L e0
+nodule	EX_cpd11589_e0	0.0	-0.0	EX gly asp L e0
+nodule	EX_cpd11592_e0	0.0	-0.0	EX gly glu L e0
+nodule	EX_cpd11593_e0	0.0	-0.0	EX ala L asp L e0
+nodule	EX_cpd11587_e0	0.0	-0.0	EX Ala Gln e0
+nodule	EX_cpd11586_e0	0.0	0.0	EX ala L glu L e0
+nodule	EX_cpd11585_e0	0.0	-0.0	EX L alanylglycine e0
+nodule	EX_cpd11584_e0	0.0	-0.0	EX Ala His e0
+nodule	EX_cpd11583_e0	0.0	-0.0	EX Ala Leu e0
+nodule	EX_cpd11582_e0	0.0	-0.0	EX ala L Thr L e0
+nodule	EX_cpd11580_e0	0.0	-0.0	EX Gly Gln e0
+nodule	EX_cpd11591_e0	0.0	-0.0	EX Gly Met e0
+nodule	EX_cpd11590_e0	0.0	-0.0	EX Met-Ala e0
+nodule	EX_cpd11581_e0	0.0	-0.0	EX gly asn L e0
+nodule	EX_cpd11603_e0	0.0	-0.0	EX beta-Methyl-D-Glucoside e0
+nodule	EX_cpd00751_e0	0.0	0.0	EX L-Fucose e0
+nodule	EX_cpd00054_e0	0.0	-0.0	EX L-Serine e0
+nodule	EX_cpd00281_e0	0.0	0.0	EX gamma-Aminobutyric acid e0
+nodule	EX_cpd00308_e0	0.0	0.0	EX Malonate e0
+nodule	EX_cpd00029_e0	0.0	-0.0	EX Acetic Acid e0
+nodule	EX_cpd00047_e0	0.0	-0.0	EX Formic Acid e0
+nodule	EX_cpd00098_e0	0.0	-0.0	EX Choline e0
+nodule	EX_cpd00540_e0	0.0	0.0	EX Glycine betaine e0
+nodule	EX_cpd07061_e0	0.0	0.0	EX stachydrine e0
+nodule	EX_cpd00128_e0	0.0	-0.0	EX Adenine e0
+nodule	EX_cpd01092_e0	0.0	0.0	EX Allantoin e0
+nodule	EX_cpd00117_e0	0.0	0.0	EX D-Alanine e0
+nodule	EX_cpd00186_e0	0.0	0.0	EX D-Glutamic Acid e0
+nodule	EX_cpd00207_e0	0.0	-0.0	EX Guanine e0
+nodule	EX_cpd00311_e0	0.0	-0.0	EX Guanosine e0
+nodule	EX_cpd00274_e0	0.0	-0.0	EX L-Citrulline e0
+nodule	EX_cpd00073_e0	0.0	-0.0	EX Urea e0
+nodule	EX_cpd01293_e0	0.0	0.0	EX L-Pyroglutamic Acid e0
+nodule	EX_cpd00378_e0	0.0	-0.0	EX Formamide e0
+nodule	EX_cpd00187_e0	0.0	-0.0	EX Methylamine e0
+nodule	EX_cpd00242_e0	0.0	0.0	EX H2CO3 e0
+nodule	EX_cpd00075_e0	0.0	-0.0	EX Nitrite e0
+nodule	EX_cpd00209_e0	0.0	-0.0	EX Nitrate e0
+nodule	EX_cpd00184_e0	0.0	-0.0	EX Thymidine e0
+nodule	EX_cpd00151_e0	0.0	-0.0	EX Thymine e0
+nodule	EX_cpd00092_e0	0.0	-0.0	EX Uracil e0
+nodule	EX_cpd00300_e0	0.0	-0.0	EX Uric Acid e0
+nodule	EX_cpd00309_e0	0.0	-0.0	EX XAN e0
+nodule	EX_cpd01217_e0	0.0	-0.0	EX Xanthosine e0
+nodule	EX_cpd00118_e0	0.0	-0.0	EX Putrescine e0
+nodule	EX_cpd00152_e0	0.0	-0.0	EX Agmatine e0
+nodule	EX_cpd00528_e0	0.0	0.0	EX N2 gas e0
+nodule	EX_cpd00441_e0	0.0	-0.0	EX trimethylamine c0
+nodule	EX_cpd01078_e0	0.0	0.0	EX Selenide e0
+nodule	EX_cpd00012_e0	0.0	0.0	EX PPi e0
+nodule	EX_cpd00033_e0	0.0	0.0	EX Glycine e0
+nodule	EX_cpd00039_e0	0.0	-0.0	EX L Lysine e0
+nodule	EX_cpd00058_e0	0.0	0.0	EX Cu2 e0
+nodule	EX_cpd00060_e0	0.0	-0.0	EX L Methionine e0
+nodule	EX_cpd00066_e0	0.0	-0.0	EX L-Phenylalanine e0
+nodule	EX_cpd00080_e0	0.0	-0.0	EX Glycerol 3 phosphate e0
+nodule	EX_cpd00084_e0	0.0	-0.0	EX L-Cysteine e0
+nodule	EX_cpd00137_e0	0.0	0.0	EX Citrate e0
+nodule	EX_cpd00147_e0	0.0	0.0	EX 5 Methylthioadenosine e0
+nodule	EX_cpd00155_e0	0.0	-0.0	EX Glycogen e0
+nodule	EX_cpd00159_e0	0.0	0.0	EX L-Lactic Acid e0
+nodule	EX_cpd00161_e0	0.0	-0.0	EX L-Threonine e0
+nodule	EX_cpd00222_e0	0.0	0.0	EX GLCN e0
+nodule	EX_cpd00226_e0	0.0	-0.0	EX HYXN e0
+nodule	EX_cpd00227_e0	0.0	-0.0	EX L-Homoserine e0
+nodule	EX_cpd00264_e0	0.0	-0.0	EX Spermidine e0
+nodule	EX_cpd00305_e0	0.0	0.0	EX Thiamin e0
+nodule	EX_cpd00307_e0	0.0	-0.0	EX Cytosine e0
+nodule	EX_cpd00367_e0	0.0	-0.0	EX Cytidine e0
+nodule	EX_cpd00386_e0	0.0	0.0	EX D-Malic Acid e0
+nodule	EX_cpd00919_e0	0.0	0.0	EX homocitrate e0
+nodule	EX_cpd01012_e0	0.0	0.0	EX Cd2 e0
+nodule	EX_cpd01017_e0	0.0	-0.0	EX Cys Gly e0
+nodule	EX_cpd01242_e0	0.0	-0.0	EX Thyminose e0
+nodule	EX_cpd01914_e0	0.0	-0.0	EX L Methionine S oxide e0
+nodule	EX_cpd02233_e0	0.0	0.0	EX 2-aminoethylphosphonate e0
+nodule	EX_cpd11574_e0	0.0	0.0	EX molybdate e0
+nodule	EX_cpd11640_e0	0.0	0.0	H2 gas e0
+nodule	EX_cpd15302_c0	0.0	0.0	EX glycogenn 1 c0
+nodule	EX_cpd15603_e0	0.0	-0.0	EX Gly Cys e0
+nodule	EX_cpd15604_e0	0.0	-0.0	EX Gly Leu e0
+nodule	EX_cpd15605_e0	0.0	-0.0	EX Gly Phe e0
+nodule	EX_cpd15606_e0	0.0	-0.0	EX Gly Tyr e0
+nodule	EX_cpdFixed_e0	0.0	0.0	Fixed ammonia e0
+nodule	rxn00001a	0.0	0.0	pyrophosphate-energized proton pump
+nodule	rxn00010_c0	0.0	0.0	Glyoxylate carboxy lyase dimerizing c0
+nodule	rxn00145_c0	0.0	0.0	S Lactate ferricytochrome c 2 oxidoreductase c0
+nodule	rxn00146	0.0	0.0	(R)-Lactate:ferricytochrome-c 2-oxidoreductase
+nodule	rxn00151_c0	0.22222857142857183	0.0	ATP pyruvate orthophosphate phosphotransferase c0
+nodule	rxn00160_c0	0.0	0.0	Malate NAD oxidoreductase decarboxylating c0
+nodule	rxn00173_c0	-0.7369700000000012	-0.0	Acetyl CoA orthophosphate acetyltransferase c0
+nodule	rxn00225_c0	0.7369700000000013	0.0	ATP acetate phosphotransferase c0
+nodule	rxn00227_c0	0.0	-0.0	Acetyl phosphate phosphohydrolase c0
+nodule	rxn00228	0.0	0.0	Phosphonoacetate phosphonohydrolase
+nodule	rxn00265_c0	0.0	0.0	Citrate oxaloacetate lyase pro 3S CH2COO acetate c0
+nodule	rxn00274_c0	0.0	-0.0	Succinyl CoA glycine C succinyl transferasedecarboxylating c0
+nodule	rxn00336_c0	0.2966571428571424	0.0	Isocitrate glyoxylate lyase c0
+nodule	rxn00350_c0	0.0	-0.0	glutathione hydralase c0
+nodule	rxn00363_c0	0.0	0.0	Cytidine 5 monophosphate phosphohydrolase c0
+nodule	rxn00383	0.5147414285714299	0.0	Sulfite:oxygen oxidoreductase
+nodule	rxn00407_c0	0.0	0.0	CTP aminohydrolase c0
+nodule	rxn00422_c0	0.0	0.0	L Serine pyruvate aminotransferase c0
+nodule	rxn00440_c0	0.0	0.0	ATP thiamin pyrophosphotransferase c0
+nodule	rxn00506_c0	0.0	0.0	Acetaldehyde NAD oxidoreductase c0
+nodule	rxn00541_c0	0.0	0.0	L Threonine acetaldehyde lyase c0
+nodule	rxn00548_c0	0.0	0.0	D Fructose 6 phosphate D erythrose 4 phosphate lyase c0
+nodule	rxn00551_c0	1.351895468159367e-16	-0.0	Pyrophosphate D fructose 6 phosphate 1 phosphotransferase c0
+nodule	rxn00558_c0	1.3518954681593672e-16	-0.0	D Glucose 6 phosphate ketol isomerase c0
+nodule	rxn00566_c0	0.0	0.0	L Cysteine L homocysteine lyase deaminating c0
+nodule	rxn00605_c0	0.0	0.0	UDPglucose D glucose 6 phosphate 1 alpha D glucosyltransferase c0
+nodule	rxn00609_c0	0.0	0.0	1L myo Inositol 1 phosphate lyase isomerizing c0
+nodule	rxn00616_c0	0.0	0.0	sn Glycerol 3 phosphate acceptor 2 oxidoreductase c0
+nodule	rxn00650_c0	0.0	0.0	membrane alanyl aminopeptidase c0
+nodule	rxn00656_c0	0.0	0.0	L Alanine 3 oxopropanoate aminotransferase c0
+nodule	rxn00669_c0	0.0	-0.0	Propanoate CoA ligase ADP forming c0
+nodule	rxn00670_c0	0.0	0.0	acetyl CoA phosphate acetyltransferase c0
+nodule	rxn00708_c0	0.0	0.0	Uridine 5 monophosphate phosphohydrolase c0
+nodule	rxn00717_c0	0.0	0.0	Cytosine aminohydrolase c0
+nodule	rxn00743_c0	0.0	-0.0	Glycerone phosphate phosphohydrolase alkaline optimum c0
+nodule	rxn00744_c0	0.0	-0.0	ATP glycerone phosphotransferase c0
+nodule	rxn00748_c0	0.0	0.0	Glycerone phosphate phospho lyase c0
+nodule	rxn00762_c0	0.0	-0.0	Glycerol NAD oxidoreductase c0
+nodule	rxn00763_c0	0.0	-0.0	Glycerol NAD oxidoreductase c0
+nodule	rxn00784_c0	0.0	-0.0	2 Deoxy D ribose 5 phosphate acetaldehyde lyase c0
+nodule	rxn00868_c0	0.0	0.0	Butanoyl CoA acceptor 2 3 oxidoreductase c0
+nodule	rxn00881_c0	0.0	0.0	myo Inositol 1 phosphate phosphahydrolase c0
+nodule	rxn00908	0.5188857142857145	0.0	glycine synthase
+nodule	rxn00985_c0	0.0	0.0	ATP acetate phosphotransferase c0
+nodule	rxn01011	0.0	-0.0	D-Glycerate:NADP+ 2-oxidoreductase
+nodule	rxn01013_c0	0.0	0.0	D Glycerate NADP 2 oxidoreductase c0
+nodule	rxn01015_c0	0.0	0.0	Hydroxypyruvate ketol isomerase c0
+nodule	rxn01068_c0	0.0	0.0	L Threonine NAD oxidoreductase c0
+nodule	rxn01103_c0	0.0	0.0	3 Phospho D glyceroyl phosphate phosphohydrolase c0
+nodule	rxn01121_c0	0.0	0.0	D gluconate hydro lyase c0
+nodule	rxn01123_c0	0.0	-0.0	ATP 2 dehydro 3 deoxy D gluconate 6 phosphotransferase c0
+nodule	rxn01134_c0	0.0	-0.0	Maltose alpha D glucosylmutase c0
+nodule	rxn01137_c0	0.0	0.0	Adenosine aminohydrolase c0
+nodule	rxn01143_c0	0.0	0.0	ATP thymidine 5 phosphotransferase c0
+nodule	rxn01187_c0	0.0	0.0	D Xylulose 5 phosphate D glyceraldehyde 3 phosphate lyase c0
+nodule	rxn01274_c0	0.0	0.0	S 2 Hydroxyacylglutathione hydrolase c0
+nodule	rxn01275_c0	0.0	0.0	ATP D Gluconate 6 phosphotransferase c0
+nodule	rxn01278_c0	0.0	-0.0	D Gluconate NADP 5 oxidoreductase c0
+nodule	rxn01280_c0	0.0	0.0	Glycerate NAD oxidoreductase c0
+nodule	rxn01281_c0	0.0	0.0	Glycerate NADP oxidoreductase c0
+nodule	rxn01286_c0	0.0	0.0	D Glyceraldehyde NAD oxidoreductase c0
+nodule	rxn01299_c0	0.0	0.0	Inosine ribohydrolase c0
+nodule	rxn01352_c0	0.0	-0.0	dGTP triphosphohydrolase c0
+nodule	rxn01368_c0	0.0	0.0	Cytidine aminohydrolase c0
+nodule	rxn01396_c0	0.0	-0.0	ATP pyridoxal 5 phosphotransferase c0
+nodule	rxn01452_c0	0.0	0.0	S 3 Hydroxybutanoyl CoA NADP oxidoreductase c0
+nodule	rxn01518_c0	0.0	0.0	ATP deoxyuridine 5 phosphotransferase c0
+nodule	rxn01519_c0	0.0	0.0	dUTP nucleotidohydrolase c0
+nodule	rxn01521_c0	0.0	0.0	5 nucleotidase dUMP c0
+nodule	rxn01799_c0	0.0	-0.0	deoxyuridine orthophosphate 2 deoxy D ribosyltransferase c0
+nodule	rxn01834_c0	0.0	0.0	S Lactoylglutathione methylglyoxal lyase isomerizing c0
+nodule	rxn01923_c0	0.0	0.0	2 Methylpropanoyl CoA oxygen 2 3 oxidoreductase c0
+nodule	rxn01986_c0	0.0	0.0	2 Deoxy D ribose 1 phosphate 1 5 phosphomutase c0
+nodule	rxn01987_c0	0.0	-0.0	Deoxyribokinase c0
+nodule	rxn02004	0.0	0.0	Trehalose-6-phosphate phosphohydrolase
+nodule	rxn02102_c0	0.0	-0.0	S Ureidoglycolate NAD oxidoreductase c0
+nodule	rxn02103_c0	0.0	0.0	S Ureidoglycolate NADP oxidoreductase c0
+nodule	rxn02168_c0	0.0	-0.0	3R 3 Hydroxybutanoyl CoA hydro lyase c0
+nodule	rxn02268_c0	0.14832857142857137	0.0	S 2 methylbutanoyl CoA oxygen 2 3 oxidoreductase c0
+nodule	rxn02345_c0	0.0	-0.0	S 3 Hydroxybutanoyl CoA 3 epimerase c0
+nodule	rxn02900_c0	0.0	-0.0	2 Aminoethylphosphonate pyruvate aminotransferase c0
+nodule	rxn03953_c0	0.0	-0.0	L Idonate NAD oxidoreductase c0
+nodule	rxn03954_c0	0.0	0.0	L Idonate NADP oxidoreductase c0
+nodule	rxn03990_c0	0.0	0.0	nitric oxide NADPH2 oxygen oxidoreductase c0
+nodule	rxn03991_c0	0.0	0.0	nitric oxide NADPH2 oxygen oxidoreductase c0
+nodule	rxn05158_c0	0.0	0.0	sn Glycerol ABC transport c0
+nodule	rxn05175_c0	0.0	0.0	Spermidine ABC transport c0
+nodule	rxn05177_c0	0.0	0.0	Thiamin ABC transport c0
+nodule	rxn05201_c0	0.0	0.0	Hypoxanthine ion coupled transport c0
+nodule	rxn05219_c0	0.0	-0.0	L Methionine ABC transport c0
+nodule	rxn05305_c0	0.0	-0.0	LYSt3r c0
+nodule	rxn05315_c0	0.0	-0.0	ZN2t4 c0
+nodule	rxn05516_c0	0.0	0.0	cadmium transport out via ABC system c0
+nodule	rxn05517_c0	0.0	0.0	cadminum transport out via antiport c0
+nodule	rxn05527_c0	0.0	0.0	cytosine transport in via proton symport c0
+nodule	rxn05528_c0	0.0	0.0	Copper export via ATPase c0
+nodule	rxn05539_c0	0.0	0.0	Dipeptide transport via ABC system cgly c0
+nodule	rxn05549_c0	0.0	0.0	Deoxyribose transport via ABC system c0
+nodule	rxn05557_c0	0.0	0.0	iron III dicitrate transport via ABC system c0
+nodule	rxn05613_c0	0.0	0.0	L methionine S oxide transport via ABC system c0
+nodule	rxn05618_c0	0.0	0.0	manganese transport in via proton symport c0
+nodule	rxn05619	0.0	0.0	Molybdate ABC transport
+nodule	rxn05638_c0	0.0	0.0	L proline transport in via proton symport c0
+nodule	rxn05740_c0	-8.749577408035953e-17	0.0	cpd00155 phosphorylase c0
+nodule	rxn05937_c0	0.0	-0.0	Ferredoxin NADP oxidoreductase c0
+nodule	rxn06075	0.0	0.0	Ribonucleotide reductase: UDP
+nodule	rxn06077_c0	0.0	-0.0	L methionine oxidized thioredoxin S oxidoreductase c0
+nodule	rxn06377_c0	0.0	0.0	glycine lipoylprotein oxidoreductase decarboxylating and c0
+nodule	rxn06493_c0	0.0	0.0	dihydrolipoylprotein NAD oxidoreductase c0
+nodule	rxn06600_c0	0.0	0.0	S aminomethyldihydrolipoylprotein 6S tetrahydrofolate c0
+nodule	rxn06874_c0	0.0	0.0	nitrogenase
+nodule	rxn08291_c0	0.0	0.0	D Amino acid dehydrogenase c0
+nodule	rxn08853	0.0	-0.0	L-lysine ABC transport
+nodule	rxn08920	0.0	0.0	L-methionine transport via diffusion
+nodule	rxn08946	0.0	-0.0	manganese (Mn+2) transport out via proton antiport (periplasm)
+nodule	rxn08975_c0	0.0	0.0	NADH dehydrogenase ubiquinone 8 c0
+nodule	rxn09269dm_c0	0.0	0.0	D-malate transport via proton symport (2 H) (periplasm)
+nodule	rxn09692_c0	0.0	0.0	choline transport via proton symport c0
+nodule	rxn10116_c0	0.0	0.0	Glucose dehydrogenase ubiquinone 8 as acceptor c0
+nodule	rxn10168_c0	0.0	0.0	Potassium ABC transporter c0
+nodule	rxn10474_c0	0.0	-5.734917166687362e-12	cobalt transport inout via permease no H c0
+nodule	rxn10481_c0	0.0	0.0	Copper transport via ABC system c0
+nodule	rxn10537_c0	0.0	0.0	alanine reversible transport via sodium symport c0
+nodule	rxn11268_c0	0.0	0.0	biphosphate ABC transporter permease protein c0
+nodule	rxn12844_c0	0.0	0.0	Gly Cys aminopeptidase c0
+nodule	rxn12845_c0	0.0	0.0	Gly Leu aminopeptidase c0
+nodule	rxn12846_c0	0.0	0.0	Gly Phe aminopeptidase c0
+nodule	rxn12847_c0	0.0	0.0	Gly Try aminopeptidase c0
+nodule	rxn12848_c0	0.0	0.0	Gly Cys ABC transporters c0
+nodule	rxn12849_c0	0.0	0.0	Gly Leu ABC transporters c0
+nodule	rxn12850_c0	0.0	0.0	Gly Phe ABC transporters c0
+nodule	rxn12851_c0	0.0	0.0	Gly Try ABC transporters c0
+nodule	rxn13799_e0	0.0	0.0	5mta transport irreversible extracellular e0
+nodule	rxnBLTPcpd00066	0.0	0.0	L-phenylalanine ABC transport
+nodule	rxnBLTPcpd00084	0.0	0.0	L-cysteine ABC transport
+nodule	rxnBLTPcpd00155	0.0	0.0	Glycogen transport via diffusion
+nodule	rxnBLTPcpd00159	0.0	0.0	L-Lactic Acid transport via diffusion
+nodule	rxnBLTPcpd00161	0.0	0.0	L-threonine ABC transport
+nodule	rxnBLTPcpd00227	0.0	0.0	Homoserine ABC transport
+nodule	rxnBLTPcpd00367	0.0	0.0	Cytidine transport via diffusion
+nodule	rxnGFTP9	0.0	0.0	2-aminoethylphosphonate ABC transport
+nodule	rxnGFTPcpd00528	0.0	-0.0	N2 gas transport by diffusion
+nodule	rxnGFTPcpd00919	0.0	0.0	Homocitrate ABC transport
+nodule	rxnGFTPcpd11640	0.0	0.0	H2 diffusion out
+nodule	rxnNifS_c0	0.0	0.0	sulphur atom for Fe–S cluster biogenesis
+nodule	rxnNifU	0.0	-100000.0	Iron sulfur cluster assembly
+nodule	rxnPhnY	0.0	0.0	phosphonoacetaldehyde dehydrogenase
+nodule	rxnSymCof_c0	0.0	7.275957614183426e-12	Symbiosis cofactors
+nodule	symbiosis_c0	0.0	0.0	Nitrogen fixing symbiosis reaction

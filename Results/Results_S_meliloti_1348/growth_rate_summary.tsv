@@ -1,0 +1,4 @@
+Species	Condition	Status	Growth_rate_h	Doubling_time_h	Nitrogenase_flux	N2_uptake	NH3_exchange	FixedNH3_export	O2_uptake	Reference
+S. meliloti	Bulk	optimal	0.208134	3.3303	0.0	0.0	-1.746121	0.0	1.582954	===
+S. meliloti	Rhizosphere	optimal	0.164639	4.2101	0.0	0.0	-1.105607	0.0	1.543468	===
+S. meliloti	Nodule	optimal	0.0		0.0	0.0	0.0	0.0	1.26	===

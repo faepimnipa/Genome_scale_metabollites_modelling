@@ -1,0 +1,1408 @@
+condition	reaction_id	flux	reduced_cost	reaction_name
+bulk	rxn02380	0.0	-4.814240556867838e-17	Glucose-6-phosphate isomerase   reaction 1
+bulk	rxn01977	0.0	0.0	Glucose-6-phosphate isomerase   reaction 2
+bulk	rxn00604	-3.0387146970913725e-16	1.6819712669629234e-16	Glucose-6-phosphate 1-dehydrogenase
+bulk	rxn01476	-3.0387146970913725e-16	-1.3877787807814457e-17	Phosphogluconolactonase
+bulk	rxn01477	0.0	-0.01049554605471086	Phosphogluconate dehydratase
+bulk	rxn03884	-3.060061762120532e-15	5.873010246644861e-17	2-dehydro-3-deoxyphosphogluconate aldolase
+bulk	rxn00781	0.24840926288719326	-6.032684361249273e-17	Glyceraldehyde 3-phosphate dehydrogenase
+bulk	rxn01100	-0.24840926288719326	-3.5045741472620137e-16	Phosphoglycerate kinase
+bulk	rxn01106	-0.24840926288719603	1.3781721909963582e-17	Phosphoglycerate mutase
+bulk	rxn00459	0.24840926288719603	1.2758713004271706e-17	Phosphopyruvate hydratase   Enolase
+bulk	rxn00148	0.07794580295498328	2.452465314162211e-16	Pyruvate kinase
+bulk	rxn00250	0.0	-1.3401918863965803e-15	Pyruvate carboxylase
+bulk	rxn00247	0.0	-0.010495546054710906	Phosphoenolpyruvate carboxykinase
+bulk	rxn00747	0.8762509771725857	0.0	Triose phosphate isomerase
+bulk	rxn00786	-0.9701851681882339	-0.0	Fructose bisphosphate aldolase
+bulk	rxn00549	0.0	-0.0104955460547119	Fructose-1 6-bisphosphatase
+bulk	rxn01115	0.0	-0.010495546054711848	6 Phospho D gluconate NADP 2 oxidoreductase decarboxylating c0
+bulk	rxn00777	0.760580771699328	0.0	Ribose-5-phosphate isomerase
+bulk	rxn01116	0.7566995571933984	0.0	Ribulose-5-phosphate epimerase
+bulk	rxn01200	0.8565832633927649	0.0	Transketolase   ribose-5-phosphate xylulose-5-phosphate
+bulk	rxn01333	-0.8565832633927656	-2.842015229937488e-17	Transaldolase
+bulk	rxn00785	0.9373068669729159	0.0	Transketolase   erythrose-4-phosphate xylulose-5-phosphate
+bulk	rxn00159	0.0	-0.010495546054710432	NAD-dependent malic enzyme
+bulk	rxn00161	0.0	-0.0104955460547104	NADP-dependent malic enzyme
+bulk	rxn00011p	0.0	-1.1572700893780238e-15	Pyruvate dehydrogenase complex E1   thiamine diphosphate acetaldehyde transferase
+bulk	rxn02342	-1.8149187364205394e-15	4.204980198724521e-17	Pyruvate dehydrogenase complex E1   Pyruvate dehydrogenase
+bulk	rxn01871	1.81491873642054e-15	6.203651888481552e-17	Pyruvate dehydrogenase complex E2   Dihydrolipoyl transacetylase
+bulk	rxn01241a	-1.81491873642054e-15	-1.723624103214078e-17	Pyruvate dehydrogenase complex E3   Dihydrolipoamide dehydrogenase
+bulk	rxn00256	0.0	-0.010495546054711884	Citrate synthase type II
+bulk	rxn00974	1.6071277795707353	0.0	citrate hydro lyase c0
+bulk	rxn01388	-1.6071277795707348	-0.0	isocitrate hydro lyase c0
+bulk	rxn01387	0.8027357653860344	3.153696125555481e-17	Isocitrate dehydrogenase  reaction 1
+bulk	rxn00199	0.8027357653860344	0.0	Isocitrate dehydrogenase  reaction 2
+bulk	rxn00441	0.8684416334862783	-1.1102230246251565e-16	2-oxoglutarate dehydrogenase E1 component   reaction 1
+bulk	rxn02376	0.8684416334862783	1.1102230246251565e-16	2-oxoglutarate dehydrogenase E1 component   reaction 2
+bulk	rxn01872	-0.8684416334862783	-0.0	2-oxoglutarate dehydrogenase E2 component
+bulk	rxn01241b	0.8684416334862783	-3.447248206428156e-17	2-oxoglutarate dehydrogenase E3 component
+bulk	rxn00285	-0.7985475251981939	-9.667790751067625e-17	Succinate-CoA synthetase
+bulk	rxn00288	1.6777765420604474	0.0	Succinate dehydrogenase
+bulk	rxn00799	-1.8303669167407302	9.12647979308073e-18	Fumarate hydratase
+bulk	rxn00248	1.9609041036211616	-8.61812051607039e-18	Malate dehydrogenase
+bulk	rxn00330	0.0940470268804313	-3.0531133177191805e-16	Malate synthase
+bulk	rxn01101	0.0	-3.447248206428156e-17	3-Phospho-glycerate dehydrogenase
+bulk	rxn02914	0.0	-5.317096836325244e-18	Phosphoserine aminotransferase
+bulk	rxn00420	0.0	-0.01049554605471113	L O Phosphoserine phosphohydrolase c0
+bulk	rxn00692	-0.23255956703866076	-0.0	Serine hydroxymethyltransferase  SHMT
+bulk	rxn00179	0.04674902320898949	-2.4169476877669063e-17	Glutamate 5-kinase
+bulk	rxn02373	0.0467490232089895	-1.3877787807814457e-17	Gamma-glutamyl phosphate reductase
+bulk	rxn02374	0.04674902320898949	0.0	L-Glutamate-5-semialdehyde dehydratase
+bulk	rxn00931	0.046749023208989486	5.551115123125783e-17	Pyrroline-5-carboxylate reductase
+bulk	rxn00192	0.0	-0.010495546054711898	L-glutamate N-acetyltransferase
+bulk	rxn01917	0.07147694478727697	0.0	Acetylglutamate kinase (NAG kinase)
+bulk	rxn02465	0.07147694478727697	5.551115123125783e-17	N-acetyl-gamma-glutamyl-phosphate reductase
+bulk	rxn01637	-0.07147694478727697	-0.0	N2 Acetyl L ornithine 2 oxoglutarate aminotransferase c0
+bulk	rxn00469	0.0	-0.0	Acetylornithine deacetylase
+bulk	rxn01636	0.07147694478727695	-2.7289948444360214e-17	Glutamate N-acetyltransferase
+bulk	rxn01019	0.07737081106299866	1.5160129060523134e-17	Ornithine carbamoyltransferase
+bulk	rxn01434	0.07737081106299866	3.025539619997055e-17	Argininosuccinate synthase
+bulk	rxn00802	0.07737081106299866	0.0	Argininosuccinate lyase
+bulk	rxn02339	-0.35377632405042647	-1.0634193672650488e-17	Aspartate transaminase
+bulk	rxn00416	0.0	1.5127698099985277e-17	Asparagine synthase
+bulk	rxn00187	0.0	-0.010495546054711636	Glutamine synthetase
+bulk	rxn00085	0.22209151279619677	3.432929636672373e-17	Glutamate synthase (NADPH) (GOGAT)
+bulk	rxn00337	0.06921250267755298	-1.2084738438834532e-17	Aspartate kinase
+bulk	rxn01643	0.06921250267755298	1.1102230246251565e-16	Aspartate-semialdehyde dehydrogenase
+bulk	rxn01644	0.041292523517441636	0.0	Dihydrodipicolinate synthase
+bulk	rxn02929	-0.041292523517441636	2.1024640837036542e-17	Dihydrodipicolinate reductase
+bulk	rxn03031	0.041292523517441636	1.2407303776963104e-16	2 3 4 5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+bulk	rxn03087	0.04129252351744164	-5.551115123125783e-17	N Succinyl L 2 6 diaminoheptanedioate 2 ocoglytarate c0
+bulk	rxn01973	0.041292523517441636	0.0	Succinyl-diaminopimelate desuccinylase
+bulk	rxn01974	0.04129252351744164	0.0	Diaminopimelate epimerase
+bulk	rxn00313	0.03678913866999531	2.7755575615628914e-17	Diaminopimelate decarboxylase (DAP decarboxylate)
+bulk	rxn01301	-0.027919979160111352	-5.170872309642234e-17	Homoserine dehydrogenase
+bulk	rxn01300	0.0	1.2084738438834532e-17	Homoserine kinase type II
+bulk	rxn01069	0.0	-0.020991092109423532	Threonine synthase
+bulk	rxn00423	0.003918266883185261	-1.096345236817342e-15	serine O-acetyltransferase
+bulk	rxn00649	0.003918266883185261	1.3877787807814457e-17	Cysteine synthase
+bulk	rxn09240	0.03267730592248819	2.1890091909647062e-16	Sulfate adenyltransferase c0
+bulk	rxn05239	0.03267730592248819	-3.9898639947466563e-17	adenosine 5 phosphate sulfite oxidized thioredoxin oxidoreductase c0
+bulk	rxn00623	-0.03183824604329661	-1.5768480627777408e-17	hydrogen sulfide NADP oxidoreductase c0
+bulk	rxn01304	0.027919979160111356	0.0	Homoserine O-succinyltransferase
+bulk	rxn05957	0.027919979160111352	0.0	O-succinylhomoserine sulfhydrylase
+bulk	rxn00693	0.12599659513600223	0.0	B12-dependent methionine synthase
+bulk	rxn00770	0.11898227537537746	-4.538309429995583e-17	Ribose-phosphate pyrophosphokinase
+bulk	rxn00789	0.017401055237300983	0.0	ATP phosphoribosyltransferase
+bulk	rxn02834	0.017401055237300983	0.0	Phosphoribosyl-ATP pyrophosphatase
+bulk	rxn02835	0.017401055237300983	0.0	Phosphoribosyl-AMP cyclohydrolase
+bulk	rxn03175	0.017401055237300986	0.0	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+bulk	rxn03135	0.017401055237300986	0.0	imidazole glycerol phosphate
+bulk	rxn02473	0.01740105523730099	0.0	Imidazoleglycerol-phosphate dehydratase
+bulk	rxn02320	-0.017401055237300986	2.1268387345300977e-17	Histidinol-phosphate aminotransferase
+bulk	rxn02160	0.017401055237300986	0.0	L-Histidinol-phosphate phosphohydrolase
+bulk	rxn02159	0.017401055237300983	1.723624103214078e-17	Histidinol dehydrogenase
+bulk	rxn00863	0.017401055237300986	0.0	Histidinal dehydrogenase
+bulk	rxn01332	0.08072360358014985	2.7755575615628914e-17	DAHP synthetase
+bulk	rxn02212	0.08072360358014982	-2.7755575615628914e-17	3-dehydroquinate synthase
+bulk	rxn02213	0.08072360358014984	2.7755575615628914e-17	3-dehydroquinate dehydratase
+bulk	rxn01740	-0.08072360358014984	-2.7332033088147506e-16	Shikimate 5-dehydrogenase
+bulk	rxn01739	0.08072360358014982	-2.4169476877669063e-17	Shikimate kinase
+bulk	rxn02476	0.08072360358014984	2.789886322815125e-17	3-phosphoshikimate 1-carboxyvinyltransferase
+bulk	rxn01255	0.08072360358014984	-2.7755575615628914e-17	Chorismate synthase
+bulk	rxn00726	0.015915050584512074	0.0	Anthranilate synthase
+bulk	rxn00791	0.015915050584512078	0.0	Anthranilate phosphoribosyltransferase
+bulk	rxn02508	0.015915050584512074	0.0	Phosphoribosylanthranilate isomerase
+bulk	rxn02507	0.015915050584512078	-5.551115123125783e-17	Indole-3-glycerol phosphate synthase
+bulk	rxn01964	0.015915050584512078	5.551115123125783e-17	L-serine hydrolase
+bulk	rxn01256	0.06480022763030434	0.0	Chorismate pyruvatemutase
+bulk	rxn01000	0.04532329622980614	2.7755575615628914e-17	Prephenate dehydratase
+bulk	rxn00493	-0.04532329622980613	-0.0	Phenylalanine transaminase
+bulk	rxn01269	0.0	6.980485728970199e-17	Prephenate dehydrogenase
+bulk	rxn00527	0.0	0.0	Tyrosine transaminase
+bulk	rxn05036	-0.01947693140049821	-0.0	Prephenate transaminase
+bulk	rxn00525	0.019476931400498207	-2.7755575615628914e-17	L-argonate oxioreductase
+bulk	rxn00278	-0.023370080376500197	-1.9390771161158376e-17	Alanine dehydrogenase
+bulk	rxn00849	0.0	0.0	D-alanine transaminase
+bulk	rxn00283	-1.622883136953888	-0.0	L-alanine racemase
+bulk	rxn00737	0.04304094361698244	1.6792123247455493e-14	Threonine dehydratase
+bulk	rxn02302	0.0	-0.02099109210938988	O-Acetyl-L-homoserine succinate-lyase
+bulk	rxn03194	0.04304094361698245	-2.943486139107165e-16	(S)-2-aceto-2-hydroxybutanoate synthase
+bulk	rxn03436	0.04304094361698247	-1.289564275748116e-16	(S)-2-aceto-2-hydroxybutanoate reductoisomerase reaction 1
+bulk	rxn03435	-0.043040943616982456	2.1024640837036542e-17	(S)-2-aceto-2-hydroxybutanoate reductoisomerase reaction 2
+bulk	rxn03437	0.04304094361698245	0.0	(R)-2 3-dihydroxy-3-methylpentanoate dehydratase
+bulk	rxn01575	-0.04304094361698259	-4.730959259162206e-16	Isoleucine aminotransferase
+bulk	rxn02185	-0.13888167539706078	-1.2614940596173563e-16	Acetolactate synthase
+bulk	rxn00011b	0.18192261901404322	-4.440892098500626e-16	Acetolactone synthease   thiamine diphosphate acetaldehyde transferase
+bulk	rxn02187	0.13888167539706078	0.0	Acetolactate methylmutase
+bulk	rxn03068	-0.13888167539706076	-0.0	(R)-2 3-dihydroxy-3-methylbutanoate oxidoreductase
+bulk	rxn00898	0.13888167539706076	0.0	2 3 Dihydroxy 3 methylbutanoate hydro lyase c0
+bulk	rxn00903	-0.05778298240077261	8.805614135750241e-17	Valine aminotransferase
+bulk	rxn00902	0.08109453031362153	1.3877787807814457e-16	2-isopropylmalate synthase
+bulk	rxn02789	0.08109453031362154	0.0	2-isopropylmalate isomerase
+bulk	rxn02811	-0.08109453031362154	-0.0	3-isopropylmalate hydrolyase
+bulk	rxn03062	0.08109453031362152	1.723624103214078e-17	3-isopropylmalate dehydrogenase
+bulk	rxn01208	0.08109453031362153	0.0	2-oxo-4-methyl-3-carboxypentanoate decarboxylation
+bulk	rxn00806	-0.08109453031362143	-2.126838734530098e-17	Leucine aminotransferase
+bulk	rxn06300	0.13804576485261563	6.938893903907228e-18	L-Alanyl-tRNA(Ala) synthetase
+bulk	rxn06432	0.08418831106299866	1.3877787807814457e-17	L-Arginyl-tRNA(Arg) synthetase
+bulk	rxn06936	0.06100769390729629	2.7755575615628914e-17	L-Aspartyl-tRNA(Asp) synthetase
+bulk	rxn06433	0.03033085727338171	2.7755575615628914e-17	L-Aspartyl-tRNA(Asn) synthetase
+bulk	rxn11595	0.030330857273381716	3.5561831257524545e-17	L-Aspartyl-tRNA(Asn) amidotransferase
+bulk	rxn06435	0.010725360176519007	2.7755575615628914e-17	L-Cysteinyl-tRNA(Cys) synthetase
+bulk	rxn06436	0.0333293450646666	1.0408340855860843e-17	L-Glutamyl-tRNA(Gln) synthetase
+bulk	rxn10534	0.033329345064666595	3.5561831257524545e-17	L-Glutamyl-tRNA(Gln) amidotransferase
+bulk	rxn06438	0.0972202003097368	6.938893903907228e-18	L-Glycyl-tRNA(Gly) synthetase
+bulk	rxn06440	0.06296824361698256	2.7755575615628914e-17	L-Isoleucyl:tRNA(Ile) synthetase
+bulk	rxn06441	0.11705635031362144	0.0	L-Leucyl-tRNA(Leu) synthetase
+bulk	rxn06442	0.03678913866999531	0.0	L-Lysyl-tRNA(Lys) synthetase
+bulk	rxn06443	0.02802432820316257	8.673617379884035e-18	L-Methionyl-tRNA(Met) synthetase
+bulk	rxn06538	0.0034597936053287156	-9.194034422677078e-17	L-Methionyl-tRNA formyltransferase
+bulk	rxn06444	0.045323296229806125	0.0	L-Phenylalanyl-tRNA(Phe) synthetase
+bulk	rxn06445	0.057778553208989496	0.0	L-Prolyl-tRNA(Pro) synthetase
+bulk	rxn06446	0.06665869012933318	-1.3877787807814457e-17	L-Seryl-tRNA(Ser) synthetase
+bulk	rxn06447	0.05916247065112098	0.0	L-Threonyl-tRNA(Thr) synthetase
+bulk	rxn06448	0.015915050584512078	-5.551115123125783e-17	L-Tryptophanyl-tRNA(Trp) synthetase
+bulk	rxn06280	0.02629443140049821	0.0	L-Tyrosyl-tRNA(Tyr) synthetase
+bulk	rxn06449	0.08707147240077256	1.3877787807814457e-17	L-Valyl-tRNA(Val) synthetase
+bulk	rxn06937	0.06711999594337702	1.3877787807814457e-17	L-Glutamyl-tRNA(Glu) synthetase
+bulk	rxn06439	0.02421855523730098	0.0	L-Histidyl-tRNA(His) synthetase
+bulk	rxn12192	0.00011532645351095709	1.1368683772161603e-12	Ribosome biogenesis, tRNA modification, protein translation
+bulk	rxnProtDF	0.00011532645351095706	-2.2737367544323206e-13	Protein N-formylmethionine cleavage
+bulk	rxn00455	0.00011532645351095705	0.0	N-Formyl-L-methionine amidohydrolase
+bulk	rxn00790	0.04067084901837738	1.3877787807814457e-17	Amidophosphoribosyltransferase
+bulk	rxn02895	0.04067084901837737	0.0	Phosphoribosylamine--glycine ligase
+bulk	rxn03004	0.04067084901837737	0.0	Phosphoribosylglycinamide formyltransferase
+bulk	rxn03084	0.04067084901837737	8.326672684688674e-17	Phosphoribosylformylglycineamide synthase
+bulk	rxn02937	0.04067084901837737	2.4169476877669063e-17	2 Formamido N1 5 phosphoribosylacetamidine cyclo ligase c0
+bulk	rxn05229	0.04066876767704414	0.0	NCAIR synthetase and NCAIR mutase
+bulk	rxn03147	0.04066876767704414	1.2490009027033011e-15	Phosphoribosylaminoimidazolesuccinocarboxamide synthase
+bulk	rxn03136	0.04066876767704414	0.0	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase
+bulk	rxn03137	0.05806982291434512	8.409517443859615e-17	Phosphoribosylaminoimidazolecarboxamide formyltransferase
+bulk	rxn00832	-0.05806982291434512	-0.0	IMP cyclohydrolase
+bulk	rxn00834	0.02351902697410468	3.447248206428156e-17	IMP dehydrogenase
+bulk	rxn00917	0.02351902697410468	2.7755575615628914e-17	GMP synthase
+bulk	rxn09562	0.02351902697410468	0.0	Guanylate kinase: GMP
+bulk	rxn00237	2.3820675951066397	-2.4169476877669063e-17	Nucleoside disphosphate kinase: GDP
+bulk	rxn05233	0.0071357522035677984	1.5612511283791264e-17	Ribonucleotide reductase: GDP
+bulk	rxn01353	0.007135752203567797	-2.4169476877669063e-17	Nucleoside disphosphate kinase: dGDP
+bulk	rxn00838	0.034550795940240436	1.1102230246251565e-16	Adenylosuccinate synthetase
+bulk	rxn00800	0.03455079594024043	0.0	Adenylosuccinate lyase
+bulk	rxn00097	-1.1308957699613742	-0.0	Adenylate kinase: AMP
+bulk	rxn05231	0.0	-4.840003136860825e-16	Ribonucleotide reductase: ADP
+bulk	rxn00839	0.004356262340607875	0.0	Nucleoside disphosphate kinase: dADP
+bulk	rxn00414	0.0	-0.01049554605471181	Carbamoyl phosphate synthase
+bulk	rxn01018	0.040626570146581276	1.3877787807814457e-17	Aspartate carbamoyltransferase
+bulk	rxn01465	-0.040626570146581276	-0.0	Dihydroorotase
+bulk	rxn01360	0.040626570146581276	1.3877787807814457e-17	Dihydroorotate dehydrogenase
+bulk	rxn01362	0.040626570146581276	0.0	Orotate phosphoribosyltransferase
+bulk	rxn00710	0.040626570146581276	2.7755575615628914e-17	Orotidine 51-phosphate decarboxylase
+bulk	rxn00119	0.051959510266330736	0.0	Uridylate kinase: UMP
+bulk	rxn00117	0.07862795311667672	0.0	Nucleoside diphosphate kinase: UDP
+bulk	rxn00412	0.02350445758477149	6.461844948013606e-17	CTP synthetase
+bulk	rxn00409	0.03718626357543075	2.4169476877669063e-17	Nucleoside diphosphate kinase: CDP
+bulk	rxn06076	0.007137833544901039	-3.9898639947466563e-17	Ribonucleotide reductase: CDP
+bulk	rxn01673	0.007137833544901036	-4.8338953755338127e-17	Nucleoside diphosphate kinase: dCDP
+bulk	rxn01672	0.0	-0.01049554605471144	dCTP aminohydrolase
+bulk	rxn01678	1.2293076728756662e-18	7.250843063300719e-17	Nucleoside diphosphate kinase: dUDP
+bulk	rxn01517	-0.00871460602254898	1.933558150213525e-16	Uridylate kinase: dUMP
+bulk	rxn01520	0.004356262340607877	-5.551115123125783e-17	Thymidylate synthase
+bulk	rxn01513	0.0043562623406078775	-2.4169476877669063e-17	Thymidylate kinase: dTMP
+bulk	rxn01512	0.009824984664094538	0.0	Nucleoside diphosphate kinase: dTDP
+bulk	rxn00364	0.044324097120331786	-4.833895375533812e-17	Cytidylate kinase - CMP
+bulk	rxn05294	0.00022988191771017812	3.552713678800501e-15	DNA synthesis and partitioning
+bulk	rxn13784	0.0005826494852214475	0.0	RNA transcription c0
+bulk	rxn00792	-2.0813413332345483e-06	-0.0	Biotin:CoA ligase
+bulk	rxn06864	2.0813413332345487e-06	2.0816681711721685e-17	Biotinyl-5'-AMP:apo-[carboxylase] ligase (AMP-forming)
+bulk	rxn06672	0.0	-2.190358842038759e-17	acetyl-CoA carboxylase / biotin carboxylase reaction 1
+bulk	rxn06673	0.0	-0.01049554605471176	acetyl-CoA carboxylase / biotin carboxylase reaction 2
+bulk	rxn05465	0.7320531575112644	1.6543071702617472e-16	malonyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn08766	0.0914753735975166	-4.135767925654368e-17	Acetoacetyl-ACP synthase
+bulk	rxn05339	-0.09147537359751659	-8.409856334814617e-17	Acetoacetyl-ACP dehydrogenase
+bulk	rxn05329	0.09147537359751659	0.0	(R)-3-hydroxy-butanoyl-ACP dehydratase
+bulk	rxn05322	0.09147537359751659	5.551115123125783e-17	But-2-enoyl-ACP reductase
+bulk	rxn05346	0.09147537359751659	5.551115123125783e-17	3-oxohexanoyl-ACP synthase
+bulk	rxn05337	-0.09147537359751659	-4.2049281674073085e-17	3-oxohexanoyl-ACP dehydrogenase
+bulk	rxn05330	0.09147537359751658	0.0	(R)-3-hydroxy-hexanoyl-ACP dehydratase
+bulk	rxn05326	0.09147537359751658	2.7755575615628914e-17	trans-Hex-2-enoyl-ACP reductase
+bulk	rxn05350	0.09147537359751658	5.551115123125783e-17	3-oxooctanoyl-ACP synthase
+bulk	rxn05341	-0.09147537359751659	-4.2049281674073085e-17	3-oxooctanoyl-ACP dehydrogenase
+bulk	rxn05334	0.09147537359751658	0.0	(R)-3-hydroxy-octanoyl-ACP dehydratase
+bulk	rxn05325	0.09147537359751656	-1.6653345369377348e-16	trans-Oct-2-enoyl-ACP reductase
+bulk	rxn05343	0.09147537359751656	5.551115123125783e-17	3-oxodecanoyl-ACP synthase
+bulk	rxn05338	-0.09147537359751658	-0.0	3-oxydecanoyl-ACP dehydrogenase
+bulk	rxn05333	0.09147537359751656	0.0	(R)-3-hydroxy-decanoyl-ACP dehydratase
+bulk	rxn05327	0.01384172655322016	-1.3877787807814457e-17	trans-Dec-2-enoyl-ACP reductase
+bulk	rxn05348	0.013841726553220161	5.551115123125783e-17	3-oxo-dodecanoyl-ACP synthase
+bulk	rxn05340	-0.013841726553220161	-6.307392251110962e-17	3-oxo-dodecanoyl-ACP dehydrogenase
+bulk	rxn05331	0.013841726553220161	0.0	(R)-3-hydroxy-dodecanoyl-ACP dehydratase
+bulk	rxn05324	0.01384172655322016	-3.608224830031759e-16	trans-Dodec-2-enoyl-ACP reductase
+bulk	rxn05345	0.01384172655322016	0.0	3-oxo-tetradecanoyl-ACP synthase
+bulk	rxn05342	-0.013841726553220158	-6.570200261573919e-18	3-oxo-tetradecanoyl-ACP dehydrogenase
+bulk	rxn05335	0.00655009678857128	0.0	(R)-3-hydroxy-tetradecanoyl-ACP dehydratase
+bulk	rxn05323	0.00655009678857128	4.9439619065339e-17	trans-Tetradec-2-enoyl-ACP reductase
+bulk	rxn05344	0.00655009678857128	5.551115123125783e-17	3-oxohexadecanoyl-ACP synthase
+bulk	rxn05336	-0.00655009678857128	-5.781776230185048e-17	3-oxohexadecanoyl-ACP dehydrogenase
+bulk	rxn05332	0.00655009678857128	0.0	(R)-3-hydroxy-hexadecanoyl-ACP dehydratase
+bulk	rxn05328	0.00655009678857128	2.7755575615628914e-17	trans-Hexadec-2-enoyl-ACP reductase
+bulk	rxn05460	0.0008592966341200247	5.551115123125783e-17	3-oxooctadecanoyl-ACP synthase
+bulk	rxn05461	0.0008592966341200247	4.2049281674073085e-17	3-oxooctadecanoyl-ACP dehydrogenase
+bulk	rxn05462	0.0008592966341200247	0.0	(R)-3-hydroxy-octadecanoyl-ACP dehydratase
+bulk	rxn05464	0.0008592966341200246	6.938893903907228e-17	trans-Octadec-2-enoyl-ACP reductase
+bulk	rxn07455	0.07763364704429641	0.0	trans-Dec-2-enoyl-ACP isomerase
+bulk	rxnUS1	0.0776336470442964	5.551115123125783e-17	beta-keto-cis-delta-5-dodecanoyl-ACP synthase
+bulk	rxnUS2	-0.07763364704429641	-6.307392251110962e-17	3-oxo-cis-delta-5-dodecenoyl-ACP dehydrogenase
+bulk	rxnUS3	0.07763364704429641	0.0	3-hydroxy-cis-delta-5-dodecenoyl-ACP dehydratase
+bulk	rxnUS4	0.0776336470442964	3.469446951953614e-17	cis-delta-5-dodecenoyl-ACP reductase
+bulk	rxnUS5	0.0776336470442964	0.0	3-oxo-cis-delta-7-tetradecenoyl-ACP synthase
+bulk	rxnUS6	-0.07763364704429641	-5.65037222495357e-17	3-oxo-cis-delta-7-tetradecenoyl-ACP dehydrogenase
+bulk	rxnUS7	0.07763364704429641	0.0	3-oxo-cis-delta-7-tetradecenoyl-ACP dehydratase
+bulk	rxnUS8	0.0776336470442964	4.863458361121257e-17	cis-delta-7-tetradecenoyl-ACP reductase
+bulk	rxnUS9	0.0776336470442964	6.245004513516506e-17	3-oxo-cis-delta-9-hexadecenoyl-ACP synthase
+bulk	rxnUS10	-0.07763364704429641	-5.781776230185048e-17	3-oxo-cis-delta-9-hexadecenoyl-ACP dehydrogenase
+bulk	rxnUS11	0.07763364704429641	0.0	3-hydroxy-cis-delta-9-hexadecenoyl-ACP dehydratase
+bulk	rxnUS12	0.0776336470442964	2.7755575615628914e-17	palmitoleoyl-ACP reductase
+bulk	rxnUS13	0.07628298616523059	6.938893903907228e-17	3-oxo-cis-vaccenoyl-ACP synthase
+bulk	rxnUS14	0.07628298616523058	4.2049281674073085e-17	3-oxo-cis-vaccenoyl-ACP dehydrogenase
+bulk	rxnUS15	0.07628298616523058	0.0	3-hydroxy-cis-vaccenoyl-ACP dehydratase
+bulk	rxnUS16	0.07628298616523058	2.7755575615628914e-17	cis-vaccen-2-enoyl-ACP reductase
+bulk	rxnVLCFA1	0.0018229074411622208	-4.135767925654368e-17	malonyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxnVLCFA2	0.0018229074411622208	0.0	Acetoacetyl-ACP synthase VLCFA
+bulk	rxnVLCFA3	-0.0018229074411622208	-4.2049281674073085e-17	Acetoacetyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA4	0.0018229074411622208	0.0	(R)-3-hydroxy-butanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA5	0.001822907441162221	5.551115123125783e-17	But-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA6	0.001822907441162221	5.551115123125783e-17	3-oxohexanoyl-ACP synthase VLCFA
+bulk	rxnVLCFA7	-0.0018229074411622208	-4.2049281674073085e-17	3-oxohexanoyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA8	0.0018229074411622208	0.0	(R)-3-hydroxy-hexanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA9	0.001822907441162221	5.551115123125783e-17	trans-Hex-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA10	0.001822907441162221	5.551115123125783e-17	3-oxooctanoyl-ACP synthase VLCFA
+bulk	rxnVLCFA11	-0.0018229074411622208	-6.307392251110962e-17	3-oxooctanoyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA12	0.0018229074411622208	0.0	(R)-3-hydroxy-octanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA13	0.001822907441162221	2.7755575615628914e-17	trans-Oct-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA14	0.001822907441162221	5.551115123125783e-17	3-oxodecanoyl-ACP synthase VLCFA
+bulk	rxnVLCFA15	-0.0018229074411622208	-6.307392251110962e-17	3-oxydecanoyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA16	0.0018229074411622208	0.0	(R)-3-hydroxy-decanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA17	0.001822907441162221	4.163336342344337e-17	trans-Dec-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA18	0.001822907441162221	5.551115123125783e-17	3-oxo-dodecanoyl-ACP synthase VLCFA
+bulk	rxnVLCFA19	-0.0018229074411622208	-6.307392251110962e-17	3-oxo-dodecanoyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA20	0.0018229074411622208	0.0	(R)-3-hydroxy-dodecanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA21	0.001822907441162221	3.469446951953614e-17	trans-Dodec-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA22	0.001822907441162221	0.0	3-oxo-tetradecanoyl-ACP synthase VLCFA
+bulk	rxnVLCFA23	-0.0018229074411622208	-5.65037222495357e-17	3-oxo-tetradecanoyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA24	0.0018229074411622208	0.0	(R)-3-hydroxy-tetradecanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA25	0.001822907441162221	4.994438286539453e-17	trans-Tetradec-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA26	0.001822907441162221	5.551115123125783e-17	3-oxohexadecanoyl-ACP synthase VLCFA
+bulk	rxnVLCFA27	-0.0018229074411622208	-4.2049281674073085e-17	3-oxohexadecanoyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA28	0.0018229074411622208	0.0	(R)-3-hydroxy-hexadecanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA29	0.001822907441162221	4.85722573273506e-17	trans-Hexadec-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA30	0.001822907441162221	6.938893903907228e-17	3-oxooctadecanoyl-ACP synthase VLCFA
+bulk	rxnVLCFA31	0.0018229074411622208	4.2049281674073085e-17	3-oxooctadecanoyl-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA32	0.0018229074411622208	0.0	(R)-3-hydroxy-octadecanoyl-ACP dehydratase VLCFA
+bulk	rxnVLCFA33	0.001822907441162221	5.551115123125783e-17	trans-Octadec-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA34	0.001822907441162221	8.326672684688674e-17	3-oxo-C20-ACP synthase VLCFA
+bulk	rxnVLCFA35	-0.0018229074411622208	-4.2049281674073085e-17	3-oxo-C20-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA36	0.0018229074411622208	0.0	(R)-3-hydroxy-C20-ACP dehydratase VLCFA
+bulk	rxnVLCFA37	0.001822907441162221	5.551115123125783e-17	trans-C20-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA38	0.001822907441162221	8.326672684688674e-17	3-oxo-C22-ACP synthase VLCFA
+bulk	rxnVLCFA39	-0.0018229074411622208	-8.409856334814617e-17	3-oxo-C22-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA40	0.0018229074411622208	0.0	(R)-3-hydroxy-C22-ACP dehydratase VLCFA
+bulk	rxnVLCFA41	0.001822907441162221	8.326672684688674e-17	trans-C22-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA42	0.001822907441162221	1.1102230246251565e-16	3-oxo-C24-ACP synthase VLCFA
+bulk	rxnVLCFA43	-0.0018229074411622208	-8.409856334814617e-17	3-oxo-C24-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA44	0.0018229074411622208	0.0	(R)-3-hydroxy-C24-ACP dehydratase VLCFA
+bulk	rxnVLCFA45	0.001822907441162221	5.551115123125783e-17	trans-C24-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA46	0.001822907441162221	5.551115123125783e-17	3-oxo-C26-ACP synthase VLCFA
+bulk	rxnVLCFA47	-0.0018229074411622208	-4.2049281674073085e-17	3-oxo-C26-ACP dehydrogenase VLCFA
+bulk	rxnVLCFA48	0.0018229074411622208	0.0	(R)-3-hydroxy-C26-ACP dehydratase VLCFA
+bulk	rxnVLCFA49	0.0018229074411622206	1.1102230246251565e-16	trans-C26-2-enoyl-ACP reductase VLCFA
+bulk	rxnVLCFA50	0.0018229074411622206	5.551115123125783e-17	3-oxo-C28-ACP synthase VLCFA
+bulk	rxnVLCFA51	-0.0018229074411622206	-8.409856334814617e-17	3-oxo-C28-ACP dehydrogenase VLCFA
+bulk	rxn00612	0.0	3.574188942296212e-16	Glycerol-3-phosphate dehydrogenase (NADP)
+bulk	rxnPG1	4.379234663560037e-05	-5.081659164061629e-17	C16:1-SN-glycerol-3-phosphate acetyltransferase reaction 1
+bulk	rxnPG2	4.379234663560037e-05	5.551115123125783e-17	C16:1-SN-glycerol-3-phosphate acetyltransferase reaction 2
+bulk	rxnPG3	4.379234663560037e-05	1.1102230246251565e-16	C16:0-SN-glycerol-3-phosphate acetyltransferase (C16:1)
+bulk	rxnPG4	1.8620550259881183e-05	-2.407561664174426e-16	Phosphatidate cytidylyltransferase (C32:1)
+bulk	rxnPG5	1.8620550259881183e-05	-1.4767664499533599e-16	Phosphatidylglycerol synthase (C32:1)
+bulk	rxnPG6	1.862055025988119e-05	-2.220446049250313e-16	Phosphatidylglycerol phosphatase (C32:1)
+bulk	rxnPG7	0.00039686628815046156	-5.80761047321329e-17	C16:0-SN-glycerol-3-phosphate acetyltransferase reaction 1
+bulk	rxnPG8	0.00039686628815046145	-5.551115123125783e-17	C16:0-SN-glycerol-3-phosphate acetyltransferase reaction 2
+bulk	rxnPG9	0.00020949022513037406	0.0	C16:0-SN-glycerol-3-phosphate acetyltransferase (C16:0)
+bulk	rxnPG10	6.517192590958416e-05	0.0	Phosphatidate cytidylyltransferase (C32:0)
+bulk	rxnPG11	6.517192590958413e-05	0.0	Phosphatidylglycerol synthase (C32:0)
+bulk	rxnPG12	6.517192590958414e-05	0.0	Phosphatidylglycerol phosphatase (C32:0)
+bulk	rxnPG13	0.040793413008142085	-5.80761047321329e-17	C18:1-SN-glycerol-3-phosphate acetyltransferase reaction 1
+bulk	rxnPG14	0.040793413008142085	0.0	C18:1-SN-glycerol-3-phosphate acetyltransferase reaction 2
+bulk	rxnPG15	0.001282874119185306	-1.1102230246251565e-16	C16:1-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+bulk	rxnPG16	0.0012585413826887775	0.0	Phosphatidate cytidylyltransferase (C34:2)
+bulk	rxnPG17	0.00018620550259881188	-1.4767664499533599e-16	Phosphatidylglycerol synthase (C34:2)
+bulk	rxnPG18	0.00018620550259881188	2.220446049250313e-16	Phosphatidylglycerol phosphatase (C34:2)
+bulk	rxnPG19	0.005027797144582188	0.0	C16:0-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+bulk	rxnPG20	0.004818871234663719	0.0	Phosphatidate cytidylyltransferase (C34:1)
+bulk	rxnPG21	0.0012801628303668316	0.0	Phosphatidylglycerol synthase (C34:1)
+bulk	rxnPG22	0.0012801628303668316	2.220446049250313e-16	Phosphatidylglycerol phosphatase (C34:1)
+bulk	rxnPG23	0.0001680776857987028	1.8041124150158794e-16	C18:1-SN-glycerol-3-phosphate acetyltransferase (C16:0)
+bulk	rxnPG24	7.913733860449504e-05	0.0	Phosphatidate cytidylyltransferase (C34:1 2)
+bulk	rxnPG25	7.913733860449504e-05	-1.4767664499533599e-16	Phosphatidylglycerol synthase (C34:1 2)
+bulk	rxnPG26	7.913733860449505e-05	0.0	Phosphatidylglycerol phosphatase (C34:1 2)
+bulk	rxnPG27	5.1206513214673264e-05	0.0	PG(C34:2) cyclopropanation
+bulk	rxnPG28	5.1206513214673264e-05	0.0	PG(C34:2 2) cyclopropanation
+bulk	rxnPG34	0.00012103357668922771	-2.220446049250313e-16	PG(C34:1) cyclopropanation
+bulk	rxnPG35	0.03439212327742201	-4.163336342344337e-17	C18:1-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+bulk	rxnPG36	0.034154669331611064	0.0	Phosphatidate cytidylyltransferase (C36:2)
+bulk	rxnPG37	0.0030211842796657225	1.4767664499533599e-16	Phosphatidylglycerol synthase (C36:2)
+bulk	rxnPG38	0.0030211842796657225	0.0	Phosphatidylglycerol phosphatase (C36:2)
+bulk	rxnPG39	0.0003537904549377425	0.0	PG(C36:2) cyclopropanation
+bulk	rxnPG40	1.3965412694910891e-05	0.0	PG(C37:2) cyclopropanation
+bulk	rxnPG	3.272333858638272e-05	-4.107825191113079e-15	Overall PG reaction
+bulk	rxnCL1	2.7656074126640506e-06	0.0	Cardiolipin synthase (C64:2)
+bulk	rxnCL2	9.679625944324174e-06	0.0	Cardiolipin synthase (C64:0)
+bulk	rxnCL3	1.2445233356988223e-05	0.0	Cardiolipin synthase (C68:4)
+bulk	rxnCL4	0.0001721590614383371	0.0	Cardiolipin synthase (C68:2)
+bulk	rxnCL5	1.1753831503822213e-05	0.0	Cardiolipin synthase (C68:2 2)
+bulk	rxnCL6	7.605420384826138e-06	0.0	Cardiolipin synthase (C70:2)
+bulk	rxnCL7	7.605420384826138e-06	0.0	Cardiolipin synthase (C70:2 2)
+bulk	rxnCL8	1.7976448182316324e-05	0.0	Cardiolipin synthase (C70:2)
+bulk	rxnCL9	0.0003961732618641252	0.0	Cardiolipin synthase (C72:4)
+bulk	rxnCL10	5.047233528111891e-05	0.0	Cardiolipin synthase (C74:4)
+bulk	rxnCL11	2.074205559498038e-06	0.0	Cardiolipin synthase (C76:4)
+bulk	rxn00615	0.0	1.933558150213525e-16	Glycerol kinase
+bulk	rxnCL	6.914018531660126e-06	2.842170943040401e-14	Overall CL reaction
+bulk	rxnPE1	0.0	0.0	Phosphatidylserine syntase (34:2)
+bulk	rxnPE2	0.0	-0.0	Phosphatidylserine decarboxylase (34:2)
+bulk	rxnPE3	0.0	2.420525604627675e-16	Phosphatidylserine syntase (34:1)
+bulk	rxnPE4	0.0	-0.0	Phosphatidylserine decarboxylase (34:1)
+bulk	rxnPE5	6.266541378070666e-05	0.0	PE(C35:2) cyclopropanation
+bulk	rxnPE6	6.266541378070666e-05	0.0	PE(C35:2 2) cyclopropanation
+bulk	rxnPE7	0.00017307590472766604	0.0	PE(C35:1) cyclopropanation
+bulk	rxnPE8	0.03574452933633219	0.0	Phosphatidylserine syntase (36:2)
+bulk	rxnPE9	0.03574452933633219	-1.566882660384999e-16	Phosphatidylserine decarboxylase (36:2)
+bulk	rxnPE10	0.0023812857236668534	2.220446049250313e-16	PE(C36:2) cyclopropanation
+bulk	rxnPE11	0.0002625979244143899	0.0	PE(C37:2) cyclopropanation
+bulk	rxnPE	5.9681346457815866e-05	7.105427357601002e-15	Overall PE reaction
+bulk	rxnMMPE1	-0.00017904403937344765	-0.0	PE methylation (34:2)
+bulk	rxnDMPE1	-0.0003312630544807812	-0.0	MMPE methylation (34:2)
+bulk	rxnPC1	-0.0003312630544807811	1.8840248946084373e-16	DMPE methylation (34:2)
+bulk	rxnMMPE2	-0.0005908453299323772	-0.0	PE methylation (34:1)
+bulk	rxnDMPE2	-0.0010931680797865778	-0.0	MMPE methylation (34:1)
+bulk	rxnPC3	-0.0010931680797865778	-0.0	DMPE methylation (34:1)
+bulk	rxnMMPE3	5.3276655287566745e-05	0.0	MMPE(C34:2) cyclopropanation
+bulk	rxnPC5	0.00025937548896321465	0.0	PC(C34:2) cyclopropanation
+bulk	rxnMMPE4	5.3276655287566745e-05	0.0	MMPE(C34:2 2) cyclopropanation
+bulk	rxnPC6	0.00025937548896321465	0.0	PC(C34:2 2) cyclopropanation
+bulk	rxnMMPE5	0.0001471450479370891	-2.220446049250313e-16	MMPE(C34:1) cyclopropanation
+bulk	rxnPC7	0.0007163703980888785	2.220446049250313e-16	PC(C34:1) cyclopropanation
+bulk	rxnMMPE6	0.030546284059856425	0.0	PE methylation (36:2)
+bulk	rxnDMPE3	0.026126858654573513	0.0	MMPE methylation (36:2)
+bulk	rxnPC8	0.026126858654573506	1.4169922952423255e-16	DMPE methylation (36:2)
+bulk	rxnMMPE7	0.0020245129009275357	0.0	MMPE(C36:2) cyclopropanation
+bulk	rxnPC10	0.009856268580602155	0.0	PC(C36:2) cyclopropanation
+bulk	rxnMMPE8	0.0002232545554907559	4.440892098500626e-16	MMPE(C37:2) cyclopropanation
+bulk	rxnPC11	0.001086906810893471	-2.220446049250313e-16	PC(C37:2) cyclopropanation
+bulk	rxnMMPE	5.073967170244451e-05	0.0	Overall MMPE reaction
+bulk	rxnPC	0.00024702427520306155	-2.6645352591003757e-15	Overall PC reaction
+bulk	rxn04027	0.0008390598791906391	4.9435497998390665e-17	UDP-sulfoguinovose synthase
+bulk	rxnSL1	-2.517179637571918e-05	-0.0	Diacylglycerol kinase (32:1)
+bulk	rxnSL2	2.517179637571918e-05	0.0	Sulfoquinovosyldiacylglycerol lipid biosynthesis (32:1)
+bulk	rxnSL3	-0.0001443182992207899	-0.0	Diacylglycerol kinase (32:0)
+bulk	rxnSL4	0.00014431829922078993	-1.7529334789239835e-16	Sulfoquinovosyldiacylglycerol  biosynthesis (32:0)
+bulk	rxnSL5	-2.4332736496528535e-05	-3.86711630042705e-16	Diacylglycerol kinase (34:2)
+bulk	rxnSL6	2.433273649652854e-05	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (34:2)
+bulk	rxnSL7	-0.00020892590991846918	1.933558150213525e-16	Diacylglycerol kinase (34:1)
+bulk	rxnSL8	0.00020892590991846915	1.67048926158562e-16	Sulfoquinovosyldiacylglycerol  biosynthesis (34:1)
+bulk	rxnSL9	-8.894034719420774e-05	-0.0	Diacylglycerol kinase (34:1 2)
+bulk	rxnSL10	8.894034719420772e-05	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (34:1 2)
+bulk	rxnSL11	6.2929490939297944e-06	2.220446049250313e-16	SL(C35:2) cyclopropanation
+bulk	rxnSL12	6.2929490939297944e-06	2.220446049250313e-16	SL(C35:2 2) cyclopropanation
+bulk	rxnSL13	2.601085625490981e-05	-2.220446049250313e-16	SL(C35:1) cyclopropanation
+bulk	rxnSL14	1.9298377221384697e-05	6.938893903907228e-17	C18:1-SN-glycerol-3-phosphate acetyltransferase (C16:0)
+bulk	rxnSL15	-1.9298377221384697e-05	-0.0	Diacylglycerol kinase (35:2)
+bulk	rxnSL16	1.9298377221384697e-05	1.8880181393602528e-16	Sulfoquinovosyldiacylglycerol  biosynthesis (35:2)
+bulk	rxnSL17	1.9298377221384697e-05	0.0	SL(C35:1 2) cyclopropanation
+bulk	rxnSL18	-0.00023745394581095087	-1.933558150213525e-16	Diacylglycerol kinase (36:2)
+bulk	rxnSL19	0.00023745394581095087	-1.7398343775921956e-16	Sulfoquinovosyldiacylglycerol  biosynthesis (36:2)
+bulk	rxnSL20	8.81012873150171e-05	0.0	SL(C36:2) cyclopropanation
+bulk	rxnSL21	4.195299395953196e-06	0.0	SL(C37:2) cyclopropanation
+bulk	rxnSL22	9.061846695258903e-05	0.0	C18:0-SN-glycerol-3-phosphate acetyltransferase (C18:1)
+bulk	rxnSL23	-9.061846695258904e-05	-1.933558150213525e-16	Diacylglycerol kinase (36:1)
+bulk	rxnSL24	9.061846695258903e-05	0.0	Sulfoquinovosyldiacylglycerol  biosynthesis (36:1)
+bulk	rxnSL	8.390598791906393e-06	3.197442310920451e-14	Overall SL reaction
+bulk	rxnOL1	1.2854149952632703e-05	-7.250447890318053e-17	Lyso-ornithine lipid biosynthesis (C16:0)
+bulk	rxnOL2	1.28541499526327e-05	-1.3564876635521392e-16	Ornithine lipid biosynthesis (C16:0/C18:1)
+bulk	rxnOL3	0.0007686781671674355	0.0	Lyso-ornithine lipid biosynthesis (C18:0)
+bulk	rxnOL4	2.399441324491438e-05	8.129426482017698e-17	Ornithine lipid biosynthesis (C18:0/C16:1)
+bulk	rxnOL5	8.569433301755135e-06	0.0	OL(C16:0/C18:1) cyclopropanation
+bulk	rxnOL6	1.7995809933685786e-05	0.0	OL(C18:0/C16:1) cyclopropanation
+bulk	rxnOL7	7.62679563856207e-05	5.80761047321329e-17	Lyso-ornithine lipid biosynthesis (C18:1)
+bulk	rxnOL8	7.62679563856207e-05	2.903805236606644e-17	Ornithine lipid biosynthesis (C18:1/C18:1)
+bulk	rxnOL9	0.0007446837539225212	5.80761047321329e-17	Ornithine lipid biosynthesis (C18:0/C18:1)
+bulk	rxnOL10	5.05596564803553e-05	0.0	OL(C18:1/C18:1) cyclopropanation
+bulk	rxnOL11	0.00042675777842740564	0.0	OL(C18:0/C18:1) cyclopropanation
+bulk	rxnOL12	5.141659981053081e-06	0.0	OL(C18:1/C19:1) cyclopropanation
+bulk	rxnOL	8.569433301755137e-06	1.4210854715202004e-14	Overall OL reaction
+bulk	rxn00555	0.01265258457721711	2.1268387345300977e-17	Glucosamine--fructose-6-phosphate aminotransferase
+bulk	rxn01485	-0.012652584577217109	-0.0	Phosphoglucosamine mutase
+bulk	rxn03638	0.01265258457721711	2.7755575615628914e-17	Glucosamine-1-phosphate N-acetyltransferase
+bulk	rxn00293	0.012652584577217109	0.0	N-acetylglucosamine-1-phosphate uridyltransferase
+bulk	rxn00461	0.004503384847446334	-5.5021060971780917e-17	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+bulk	rxn02285	-0.004503384847446334	-0.0	UDP-N-acetylenolpyruvoylglucosamine reductase
+bulk	rxn02286	0.004503384847446333	1.1102230246251565e-16	UDP-N-acetylmuramate--L-alanine ligase
+bulk	rxn02008	0.004503384847446333	0.0	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+bulk	rxn02011	0.004503384847446333	1.1102230246251565e-16	UDP-N-acetylmuramoylalanyl-D-glutamate--2 6-diaminopimelate ligase
+bulk	rxn00851	0.004503384847446333	2.7755575615628914e-17	D-alanine--D-alanine ligase
+bulk	rxn03164	0.004503384847446333	0.0	UDP-N-acetylmuramoylalanyl-D-glutamyl-2 6-diaminopimelate--D-alanyl-D-alanine ligase
+bulk	rxn09345	2.0813413332349316e-06	-2.220446049250313e-16	Undecaprenyl-diphosphate synthase
+bulk	rxn03901	0.005151688996646125	2.220446049250313e-16	Undecaprenyl diphosphate phosphohydrolase
+bulk	rxn03904	0.0045033848474463345	-2.4167812141974996e-16	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+bulk	rxn03408	0.004503384847446335	0.0	UDP-diphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+bulk	rxn10199	0.0045033848474463345	7.441917770095252e-16	Peptidoglycan subunit flippase and addition
+bulk	rxn06729	0.0036458148823244403	0.0	UDP-N-acetylglucosamine acyltransferase
+bulk	rxn03146	0.0036458148823244408	8.470836783567879e-17	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+bulk	rxn06723	0.003645814882324441	-5.551115123125783e-17	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+bulk	rxn03130	0.0018229074411622208	-1.1102230246251565e-16	UDP-2 3-diacylglucosamine pyrophosphatase
+bulk	rxn03159	0.0018229074411622208	0.0	Lipid-A-disaccharide synthase
+bulk	rxn03181	0.0018229074411622208	0.0	Tetraacyldisaccharide 4'-kinase
+bulk	rxn03182	0.001822907441162221	-2.220446049250313e-16	3-deoxy-D-manno-octulosonic-acid transferase
+bulk	rxn03439	0.001822907441162221	0.0	3-deoxy-D-manno-octulosonic-acid transferase
+bulk	rxnVLCFA52	0.0018229074411622208	1.6653345369377348e-16	VLFCA transferase
+bulk	rxnLPS1	0.0018229074411622206	-4.440892098500626e-16	Glucose transferase to KDO2-lipid A
+bulk	SOURCE_cpdLPS3	-0.0006562466788183994	0.0	Source of cpdLPS3
+bulk	rxnLPS2	0.0018229074411622204	-4.440892098500626e-16	Addition of the rest of the core oligosaccharide to lipid A
+bulk	rxnLPS3	0.0018229074411622204	0.0	Addition of the O-antigen to LPS
+bulk	rxn01119	0.0006483041491997902	-2.2907677197431666e-16	UDP-galactose:undecaprenyl-phosphate galactose phosphotransferase
+bulk	rxnEPSS1	0.0006483041491997903	0.0	EPSI Glucosyltransferase 1
+bulk	rxnEPSS2	0.0006483041491997903	0.0	EPSI Glucosyltransferase 2
+bulk	rxnEPSS3	0.0006483041491997903	0.0	EPS1 Acetyltransferase
+bulk	rxnEPSS4	0.0006483041491997903	0.0	EPSI Glucosyltransferase 3
+bulk	rxnEPSS5	0.0006483041491997904	2.488805476780991e-16	EPSI Glucosyltransferase 4
+bulk	rxnEPSS6	0.0006483041491997903	0.0	EPSI Glucosyltransferase 5
+bulk	rxnEPSS7	0.0006483041491997903	0.0	EPSI Glucosyltransferase 6
+bulk	rxnEPSS8	0.0006483041491997902	-3.3086143405234944e-16	EPS1 Succinyltransferase 1
+bulk	rxnEPSS9	0.0006483041491997903	0.0	EPSI Glucosyltransferase 7
+bulk	rxnEPSS10	0.00064830414919979	0.0	EPS1 Pyruvyltransferase
+bulk	rxnEPSSlmw	0.0005186433276851974	-2.220446049250313e-16	LMW Succinoglycan biosynthesis
+bulk	rxnEPSShmw	0.0001296608215145927	-4.440892098500626e-16	HMW Succinoglycan biosynthesis
+bulk	rxnEPSSlmw2	0.0	0.0	HMW Succinoglycan cleavage
+bulk	rxn00704	-0.036457452301519526	-0.0	Glucose-1-phosphate phosphomutase
+bulk	rxn00213	0.029705060733486194	1.5047260401090164e-17	UTP--glucose-1-phosphate uridylyltransferase
+bulk	rxn00214	0.001341008976841434	0.0	UDP-glucose 4-epimerase
+bulk	rxn00211	0.01686189383075054	1.0341744619284468e-16	UDP-glucose 6-dehydrogenase
+bulk	rxn01008	0.00933328609875057	0.0	UDP-glucuronate 4-epimerase
+bulk	rxn01007	0.005559867695544773	0.0	UDP-xylose synthase
+bulk	rxn01117	-0.003864563775263909	-0.0	Arabinose-5-phosphate isomerase
+bulk	rxn02331	0.0038645637752639087	2.7755575615628914e-17	2-dehydro-3-deoxyphosphooctonate aldolase
+bulk	rxn02404	0.0038645637752639083	0.0	3-deoxy-manno-octulosonate-8-phosphatase
+bulk	rxn02405	0.003864563775263908	5.551115123125783e-17	3-deoxy-manno-octulosonate cytidylyltransferase
+bulk	rxn01675	0.005468722323486662	-6.018904160436066e-17	Glucose-1-phosphate thymidylyltransferase
+bulk	rxn01997	0.0054687223234866624	0.0	dTDP-glucose 4 6-dehydratase
+bulk	rxn02000	0.005468722323486661	0.0	dTDP-4-dehydrorhamnose 3 5-epimerase
+bulk	rxn02003	-0.0054687223234866624	-4.2049281674073085e-17	dTDP-4-dehydrorhamnose reductase
+bulk	rxn01329	0.0009661409438159769	0.0	Phosphomannomutase
+bulk	rxn00640	0.000966140943815977	8.835216470291688e-17	Mannose-1-phosphate guanylyltransferase
+bulk	rxn00695	0.0	-0.0	Glucose-1-phosphate adenylyltransferase
+bulk	rxn08615	0.0	9.667790751067625e-17	Glycogen synthase
+bulk	rxn00178	0.024454402004161102	0.0	Acetyl-CoA acetyltransferase
+bulk	rxn01453	-0.024454402004161182	-8.409856334814617e-17	Acetoacetyl-CoA reductase
+bulk	rxn11920	0.024454402004161192	5.551115123125783e-17	Poly-beta-hydroxybutyrate (PHB) synthesis
+bulk	rxnPHBDP	4.658418506147184e-17	2.3592239273284576e-16	Poly-beta-hydroxybutyrate (PHB) depolymerase
+bulk	rxn00992_c0	4.658418506147184e-17	0.0	(R)-3-Hydroxybutanoate dehydrogenase
+bulk	rxn00988_c0	0.0	-0.010495546054712864	Acetoacetate:CoA ligase
+bulk	rxn00711	-0.00435834368194111	-1.5047260401090164e-17	UMP pyrophosphate phosphoribosyltransferase
+bulk	rxn00720	0.0	-1.0512320418518271e-17	5 6-Dihydrouracil oxidoreductase
+bulk	rxn01626	0.0	0.0	5 6-Dihydrouracil amidohydrolase
+bulk	rxn00654	0.0	-0.0354224679346527	3-ureidopropanoate amidohydrolase
+bulk	rxn00346	0.0	-0.010495546054712084	L-Aspartate 1-carboxy-lyase
+bulk	rxn00912	4.162682666551688e-06	-2.1024900993622606e-17	3-methyl-2-oxobutanoate hydroxymethyltransferase
+bulk	rxn01790	-4.162682666551688e-06	1.0512320418518271e-16	2-ketopantoic acid reductase
+bulk	rxn01791	4.162682666551688e-06	2.7755575615628914e-17	Pantoate--beta-alanine ligase
+bulk	rxn12510	2.0813413333171395e-06	-2.4169476877669063e-17	Type I pantothenate kinase
+bulk	rxn09177	2.08134133331714e-06	1.6653345369377348e-16	Phosphopantothenate---cysteine ligase
+bulk	rxn02341	2.08134133331714e-06	0.0	Phosphopantothenoylcysteine decarboxylase
+bulk	rxn02175	2.08134133331714e-06	1.313405514578824e-16	Pantetheine-phosphate adenylyltransferase
+bulk	rxn00100	2.0813413333171395e-06	-1.1102230246251565e-16	Dephospho-CoA kinase
+bulk	rxn00338	8.325365331385068e-06	-6.938893903907228e-18	L-aspartate oxidase
+bulk	rxn02988	8.325365331385068e-06	5.551115123125783e-17	Quinolinate synthase
+bulk	rxn02402	8.325365331385068e-06	2.7755575615628914e-17	Nicotinate-nucleotide pyrophosphorylase
+bulk	rxn02155	8.325365331385068e-06	4.378018381929413e-17	Nicotinate-nucleotide adenylyltransferase
+bulk	rxn00138	8.325365331385068e-06	1.7208456881689926e-15	NAD+ synthase
+bulk	rxn00077	4.162682665065626e-06	-1.119726545973262e-16	NAD+ kinase
+bulk	rxn01257b	6.24402400019129e-06	0.0	4-amino-4-deoxychorismate synthase
+bulk	rxn03841	6.24402400019129e-06	0.0	4-amino-4-deoxychorismate lyase
+bulk	rxn00302	6.244024000191291e-06	0.0	GTP cyclohydrolase - 1
+bulk	rxn03419	6.244024000191291e-06	0.0	GTP cyclohydrolase - 2
+bulk	rxn03421	6.24402400019129e-06	0.0	GTP cyclohydrolase - 3
+bulk	rxn03174	6.24402400019129e-06	2.7755575615628914e-17	GTP cyclohydrolase - 3
+bulk	rxn03167	6.244024000191289e-06	0.0	2-Amino-4-hydroxy-6-erythro-1 2 3-trihydroxypropyl
+bulk	rxn02504	6.24402400019129e-06	0.0	Dihydroneopterin aldolase
+bulk	rxn02503	6.24402400019129e-06	0.0	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+bulk	rxn02201	6.24402400019129e-06	-2.7755575615628914e-17	Dihydropteroate synthase
+bulk	rxn01603	6.24402400019129e-06	1.5543122344752192e-15	Dihydrofolate synthase
+bulk	rxn00686	-0.0043604250232748346	-0.0	Dihydrofolate reductase
+bulk	rxn01602	2.0813413332345487e-06	0.0	Dihydrofolate reductase
+bulk	rxn00690	0.0	5.800674450640575e-16	Formate tetrahydrofolate ligase
+bulk	rxn00907	0.1022004655380512	-1.6819920794898085e-16	5 10-methylenetetrahydrofolate oxidoreductase
+bulk	rxn01211	0.1022004655380512	0.0	5 10-Methenyltetrahydrofolate-5 hydrolasede
+bulk	rxn00910	-0.1259965951360022	-8.409960397449042e-17	5-methyltetrahydrofolate oxidoreductase
+bulk	rxn00979	8.325365333428142e-06	6.938893903907228e-18	Glycolaldehyde oxidoreductase
+bulk	rxn08657	8.325365333428142e-06	2.585436154821117e-17	Glycolate oxidase
+bulk	rxn09997	2.0813413332368522e-06	2.811450927106005e-17	Phosphomethylpyrimidine synthase
+bulk	rxn02484	2.0813413332368522e-06	0.0	Hydroxymethylpyrimidine kinase
+bulk	rxn03108	2.081341333236852e-06	0.0	Phoshomethylpyrimidine kinase
+bulk	rxn07295	2.081341333236852e-06	0.0	Glycine oxidase
+bulk	rxnTHIZsyn	2.0813413332368522e-06	-2.0816681711721685e-17	Thiazole synthase
+bulk	rxn02305	2.0813413332368522e-06	-3.009452080218033e-17	2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate 4-methyl-4-aminopyridine-5-methyltransferase
+bulk	rxn00438	2.0813413332368522e-06	0.0	Thiamine-phosphate kinase
+bulk	rxn00300	8.32536533291033e-06	-2.7755575615628914e-17	GTP cyclohydrolase II
+bulk	rxn02475	8.325365332910333e-06	2.7755575615628914e-17	Diaminohydroxyphosphoribosylaminopyrimidine deaminase
+bulk	rxn02474	-8.32536533291033e-06	4.2049281674073085e-17	5-amino-6-(5-phosphoribosylamino)uracil reductase
+bulk	rxn05039	8.32536533291033e-06	-2.7755575615628914e-17	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
+bulk	rxn05040	1.6650730665820665e-05	1.3877787807814457e-17	3,4-dihydroxy-2-butanone-4-phosphate synthase
+bulk	rxn03080	1.665073066582066e-05	-1.1771969546217361e-17	6,7-dimethyl-8-ribityllumazine synthase
+bulk	rxn00048	8.325365332910333e-06	-8.326672684688674e-17	Riboflavin synthase
+bulk	rxn00392	6.2440239996757826e-06	3.383726762873669e-16	Riboflavin kinase
+bulk	rxn00122	4.1626826664412334e-06	-4.553649124439119e-18	FMN adenylyltransferase
+bulk	rxn00599	3.3301461331752786e-05	2.7755575615628914e-17	5-aminolevulinate synthase
+bulk	rxn00029	1.665073066587639e-05	-2.7755575615628914e-17	Delta-aminolevulinic acid dehydratase
+bulk	rxn00060	4.162682666469097e-06	1.1102230246251565e-16	Porphobilinogen deaminase
+bulk	rxn02264	4.162682666469097e-06	0.0	Uroporphyrinogen-III synthase
+bulk	rxn02288	2.0813413332345487e-06	0.0	Uroporphyrinogen III decarboxylase
+bulk	rxn02303	2.0813413332345483e-06	9.702338942465389e-17	Coproporphyrinogen III oxidase
+bulk	rxn02304	1.0406706666172744e-06	-2.220446049250313e-16	Protoporphyrinogen-IX:oxygen oxidoreductase
+bulk	rxn00224	2.081341333234549e-06	4.3753945668696294e-17	Protoporphyrin ferrochelatase
+bulk	rxn08707	2.081341333234549e-06	0.0	Protoheme IX farnesyltransferase
+bulk	rxn12825	2.0813413332345487e-06	2.220446049250313e-16	Heme A synthase
+bulk	rxn01609	2.0813413332345487e-06	1.2084738438834532e-17	Threonine phosphate synthase
+bulk	rxn04385	2.0813413332345487e-06	0.0	Threonine-phosphate decarboxylase
+bulk	rxn03975	3.122011999851824e-06	1.1102230246251565e-16	NADPH-dependent FMN reductase
+bulk	rxnBluB	2.0813413332345496e-06	-1.1102230246251565e-16	5,6-dimethylbenzimidazole synthase
+bulk	SINK_cpd00605	2.081341333234549e-06	0.0	SINK for cpd00605 c0
+bulk	rxn02897	2.0813413332345496e-06	0.0	Nicotinate-nucleotide---dimethylbenzimidazole phosphoribosyltransferase
+bulk	rxn01265	-2.081341333234549e-06	3.009452080218033e-17	Nicotinate phosphoribosyltransferase
+bulk	rxn03150	2.081341333234549e-06	-5.551115123125783e-17	Alpha-ribazole phosphatase
+bulk	rxn02287	2.081341333234549e-06	0.0	Uroporphyrin-III C-methyltransferase
+bulk	rxn02775	2.081341333234549e-06	0.0	Precorrin-2 C(20)-methyltransferase
+bulk	rxn11545	2.081341333234549e-06	0.0	Precorrin-3B synthase
+bulk	rxn03513	2.081341333234549e-06	0.0	Precorrin-3B C(17)-methyltransferase
+bulk	rxn03514	2.081341333234549e-06	0.0	Precorrin-4 C(11)-methyltransferase
+bulk	rxn03534	2.0813413332345496e-06	-1.6941673567135758e-16	Precorrin 6A synthase
+bulk	rxn03492	-2.081341333234549e-06	1.6819712669629236e-16	Precorrin-6A reductase
+bulk	rxn03491	2.081341333234549e-06	0.0	Precorrin-6Y C5,15-methyltransferase
+bulk	rxn03512	2.0813413332345487e-06	0.0	Precorrin-8X methylmutase
+bulk	rxn11544	2.0813413332345496e-06	0.0	Hydrogenobyrinic acid a,c-diamide synthase
+bulk	rxn10476	2.0813413332345496e-06	1.933558150213525e-16	Hydrogenobyrinic acid a,c-diamide cobaltochelatase
+bulk	rxn11650	1.0406706666172746e-06	0.0	Cob(II)yrinic acid a,c-diamide reductase
+bulk	rxn03535	2.081341333234549e-06	0.0	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+bulk	rxn03540	2.0813413332345487e-06	0.0	Adenosylcobyric acid synthase
+bulk	rxn04384	2.081341333234549e-06	1.933558150213525e-16	Adenosylcobinamide-phosphate synthase
+bulk	rxn03537	2.081341333234549e-06	0.0	Adenosylcobinamide-phosphate guanylyltransferase
+bulk	rxn03538	2.0813413332345487e-06	1.7203676690870506e-16	Cobalamin synthase
+bulk	rxn03909	6.660292266351206e-05	1.3877787807814457e-17	1-deoxy-D-xylulose-5-phosphate synthase
+bulk	rxn03958	-6.244023999704067e-05	-2.1024640837036542e-17	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+bulk	rxn03907	6.244023999704068e-05	0.0	MEP cytidylyltransferase
+bulk	rxn03908	6.244023999704068e-05	-4.8338953755338127e-17	CDP-ME kinase
+bulk	rxn03910	6.244023999704067e-05	0.0	MECDP-synthase
+bulk	rxn05293	6.244023999704068e-05	0.0	MECDPDH c0
+bulk	rxn08352	1.0406706666173132e-05	5.551115123125783e-17	1-hydroxy-2-methyl-2-E-butenyl-4-diphosphate reductase
+bulk	rxn04113	5.203353333086755e-05	2.7755575615628914e-17	Isopentenyl diphosphate oxidoreductase
+bulk	rxn01213	1.0406706666173127e-05	5.551115123125783e-17	Dimethylallyl diphosphate isopentenyl diphosphate c0
+bulk	rxn01466	1.0406706666173127e-05	5.551115123125783e-17	Geranyl diphosphate isopentenyl diphosphate geranyltrans transferase c0
+bulk	rxnUB1	2.0813413332345496e-06	0.0	Octaprenyl-diphosphate synthase
+bulk	rxn00966	2.081341333234549e-06	5.551115123125783e-17	Chorismate lyase
+bulk	rxn03893	2.0813413332345496e-06	0.0	4-hydroxybenzoate polyprenyltransferase
+bulk	rxn03393	2.081341333234549e-06	0.0	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+bulk	rxn03394	2.081341333234549e-06	0.0	2-octaprenylphenol hydroxylase
+bulk	rxn03395	2.081341333234549e-06	6.661338147750939e-16	2-octaprenyl-6-hydroxyphenol methylase
+bulk	rxn12224	2.081341333234549e-06	0.0	2-octaprenyl-6-methoxyphenol hydroxylase
+bulk	rxn03397	2.081341333234549e-06	-2.220446049250313e-16	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase
+bulk	rxn04139	2.081341333234549e-06	2.220446049250313e-16	2 Octaprenyl 3 methyl 6 methoxy 1 4 benzoquinone NADPH2 oxygen c0
+bulk	rxn11946	2.0813413332345487e-06	0.0	3-demethylubiquinone-9 3-methyltransferase
+bulk	rxn01486	4.162682666469097e-06	1.6653345369377348e-16	trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate
+bulk	rxn01489	2.0813413332345487e-06	-2.220446049250313e-16	Geranylgeranyl diphosphate geranylgeranyl diphosphate c0
+bulk	rxn05031	2.0813413332345487e-06	0.0	prephytoene diphosphate geranylgeranyl diphosphate c0
+bulk	rxn10122	2.9861105888790744	2.220446049250313e-16	NADH dehydrogenase   Complex I
+bulk	rxnFADH2	0.0	-0.009183602797872385	FADH2 dependent ubiquinone reduction
+bulk	rxn12750	2.986110588879075	-2.220446049250313e-16	Cytochrome C reductase
+bulk	rxn00058	1.5626234744395378	0.0	Cytochrome C oxidase
+bulk	rxn10042	4.508700178566958	-3.5561831257524545e-17	ATP synthase
+bulk	rxn01331	2.0813413332345483e-06	-2.7755575615628914e-17	D-erythrose 4-phosphate dehydrogenase
+bulk	rxn02939	2.0813413332345487e-06	-3.447248206428156e-17	Erythronate-4-phosphate dehydrogenase
+bulk	rxn03445	-2.0813413332345487e-06	-0.0	Phosphoserine aminotransferase
+bulk	rxn03951	2.0813413332345487e-06	2.585436154821117e-17	4-hydroxythreonine-4-phosphate dehydrogenase   catalyzed
+bulk	rxn05116	2.0813413332345487e-06	0.0	4-hydroxythreonine-4-phosphate dehydrogenase   spontaneous
+bulk	rxn04070	2.0813413332345483e-06	-1.3877787807814457e-17	Pyridoxine 5'-phosphate synthase
+bulk	rxn00209	2.0813413332345483e-06	0.0	Pyridoxamine 5'-phosphate oxidase
+bulk	rxnPolyPi1	2.081341333234549e-06	0.0	Polyphosphate kinase
+bulk	rxn00646	0.0	-0.0209910921094234	Glutamate--cysteine ligase
+bulk	rxn00351	0.0	0.0	Glutathione synthase
+bulk	rxn00086	2.0813413332345483e-06	-6.827307689030108e-17	Glutathione reductase
+bulk	rxn00001	0.0	-0.010495546054711763	Pyrophosphate phosphohydrolase
+bulk	rxn00102	-0.04066876767704414	-0.0	Carbonic acid hydrolyase
+bulk	rxn00006	0.020319529097289565	0.0	Catalase
+bulk	rxn00226	0.0	8.756036763858826e-17	Acetyl-CoA ligase - 1
+bulk	rxn00176	0.0	-6.05107923999411e-17	Acetyl-CoA ligase - 2
+bulk	rxn00126	0.0980875933863506	0.0	S-adenosylmethionine synthetase
+bulk	rxn00141	0.09807661597589086	-4.059490931077422e-17	S-adenosyl-homocysteine hydrolase
+bulk	rxn00778	0.0980786973172241	0.0	D-Ribose-1 5-phosphomutase
+bulk	rxn05289	0.055665497693506004	1.214306433183765e-17	Thioredoxin reductase
+bulk	rxn00272	0.0007611047255554534	-1.7978167384229826e-16	L-alanine--glyoxylate aminotransferase
+bulk	rxn10052	0.0	-4.424851694245693e-16	Adenylate kinase inorganic triphosphate
+bulk	rxn00022s	0.0	0.0	Sucrose hydrolase
+bulk	rxn00216	0.6197244400000002	-2.4169476877669063e-17	D-glucose 6-phosphotransferase
+bulk	rxn00547	0.0	-2.4169476877669063e-17	D-fructose 6-phosphotransferase
+bulk	rxn05319	10.273989791155225	0.0	H2O (water) transport via diffusion
+bulk	rxn05467	-2.3301102066039903	0.0	CO2 (carbon dioxide) transport via diffusion
+bulk	rxn05468	1.5829544509141609	0.0	O2 (oxygen) transport via diffusion
+bulk	rxnBLTPcpd00204	-2.0813413332368522e-06	-0.0	CO (carbon monoxide) transport via diffusion
+bulk	rxnBLTPcpd00149	0.0	-0.010495546054711731	Co2 (cobalt) ABC transport
+bulk	rxn05312	0.12534391913123627	8.448088512681592e-19	PO4 (phosphate) transport via proton symport
+bulk	rxn05145	0.0	-0.006559716284194814	PO4 (phosphate) ABC transport
+bulk	rxn05616	0.0626698782242849	0.0	Mg (magnesium) transport via diffusion
+bulk	rxn05514	0.06266987822428488	0.0	Ca2 (calcium) transport via proton antiport
+bulk	rxn05149	0.0	-0.013119432568389676	Mn (manganese) ABC transport
+bulk	rxn05195b	4.162682666469097e-06	1.734723475976807e-18	Fe2 (iron) ABC transport
+bulk	rxn05195	2.0813413332345487e-06	2.2551405187698492e-17	Fe3 (iron) ABC transport
+bulk	rxn05150	0.0	-0.010495546054711731	Zn2 (zinc) ABC transport
+bulk	rxn08769	4.162682666469097e-06	0.0	K (potassium) transport via proton symport
+bulk	rxn05209	-0.02780344865866676	-0.0	Na (sodium) transport via proton antiport
+bulk	rxn05223	4.1626826664690966e-06	3.729655473350135e-17	Biotin ABC transport
+bulk	rxn05466	1.7461210684957233	0.0	NH3 (ammonia) transport via diffusion
+bulk	rxn05153	0.0	-0.007871659541033787	SO4 (sulfate) ABC transport
+bulk	rxn05651	0.03267730592248819	0.0	SO4 (sulfate) transport via proton symport
+bulk	rxnBLTPcpd00076	0.0	0.0	Sucrose ABC transport
+bulk	rxn05147	0.6197244400000002	-9.324138683375338e-18	D-glucose ABC transport
+bulk	rxn09269	0.005624499999999999	-3.524804942082604e-18	Succinate transport via proton symport (2 H)
+bulk	EX_cpd00001_e0	10.273989791155225	0.0	EX H2O (water) e0
+bulk	EX_cpd00067_e0	-1.9549458773695942	0.0	EX H (proton) e0
+bulk	EX_cpd00011_e0	2.3301102066039903	0.0	EX CO2 (carbon dioxide) e0
+bulk	EX_cpd00204_e0	2.0813413332368522e-06	0.0	EX CO (carbon monoxide) c0
+bulk	EX_cpd00007_e0	-1.5829544509141609	0.0	EX O2 (oxygen) e0
+bulk	EX_cpd00149_e0	-4.162682666469098e-06	0.0	EX Co2 (cobalt) e0
+bulk	EX_cpd00009_e0	-0.12534391913123624	0.0	EX PO4 (phosphate e0
+bulk	EX_cpd00254_e0	-2.081341333234636e-06	0.0	EX Mg (magnesium) e0
+bulk	EX_cpd00063_e0	-2.081341333237772e-06	0.0	EX Ca2 (calcium) e0
+bulk	EX_cpd00030_e0	-2.0813413332345487e-06	0.0	EX Mn2 (manganese) e0
+bulk	EX_cpd10515_e0	-4.162682666469097e-06	0.0	EX Fe2 (iron) e0
+bulk	EX_cpd10516_e0	-2.0813413332345487e-06	0.0	EX Fe3 (iron) e0
+bulk	EX_cpd00034_e0	-2.0813413332345487e-06	0.0	EX Zn2 (zinc) e0
+bulk	EX_cpd00205_e0	-2.0813413332345487e-06	0.0	EX K (potassium) e0
+bulk	EX_cpd00971_e0	-2.081341333232706e-06	0.0	EX Na (sodium) e0
+bulk	EX_cpd00104_e0	-4.1626826664690966e-06	0.0	EX Biotin e0
+bulk	EX_cpd00013_e0	-1.7461210684957225	0.0	EX NH3 (ammonia) e0
+bulk	EX_cpd00048_e0	-0.032677305922488194	0.0	EX SO4 (sulfate) e0
+bulk	EX_cpd00076_e0	0.0	-0.4618040264073179	EX Sucrose e0
+bulk	EX_cpd00027_e0	-0.61972444	-0.22565424017630312	EX D-glucose e0
+bulk	EX_cpd00036_e0	-0.0056245	-0.13250626894073592	EX Succinate e0
+bulk	rxnBIOMASS	0.20813413332345485	-1.97758476261356e-16	Biomass reaction
+bulk	EX_cpd11416_e0	0.20813413332345485	0.0	EX Biomass c0
+bulk	rxnNGAM	0.0	-0.010495546054711731	NGAM reaction
+bulk	rxn02360	0.0	0.0	Hydroxyproline 2-epimerase
+bulk	rxn02946	0.0	-1.3306251896332747e-17	D-hydroxyproline dehydrogenase
+bulk	rxn01635	0.0	-0.0	delta-1-pyrroline-4-hydroxy-2-carboxylate deaminase
+bulk	rxn00196	0.2888970499999999	-1.3877787807814457e-17	alpha-ketoglutarate semialdehyde dehydrogenase
+bulk	rxn01289	0.28889704999999993	1.723624103214078e-17	L-arabinose dehydrogenase
+bulk	rxn01830	0.28889704999999993	0.0	L-arabinono-1,4-lactone lactonohydrolase
+bulk	rxn01828	0.2888970499999999	0.0	L-Arabinonate hydrolyase
+bulk	rxn01633	0.28889704999999993	0.0	2-dehydro-3-deoxy-L-arabinonate dehydratase
+bulk	rxn00395	0.0	-0.010495546054711884	L-arginine iminohydrolase
+bulk	rxn00114	0.11799738120957994	-3.021184609708633e-18	ATP:carbamate phosphotransferase
+bulk	rxn00394	0.0	-0.020991092109423622	L-arginine amidinohydrolase
+bulk	rxn00471	0.0	-6.219542300770833e-17	L Ornithine ammonia lyasecyclizing c0
+bulk	rxn02071	0.0	0.0	D-Proline oxioreductase
+bulk	rxn00930	0.0	-0.0	delta-1-pyrroline-2-carboxylate reductase
+bulk	rxn09188	0.0	-2.295864927567254e-16	Proline dehydrogenase
+bulk	rxn00183	0.0	-0.010495546054711681	1-pyrroline-5-carboxylate dehydrogenase
+bulk	rxn01192	0.0	0.0	Protocatechuate 3 4-oxidoreductase
+bulk	rxn02369	0.0	0.0	2-Carboxy-2 5-dihydro-5-oxofuran-2-acetate lyase
+bulk	rxn02483	0.0	0.0	4-Carboxymuconolactone carboxy-lyase
+bulk	rxn02144	0.0	-1.3877787807814457e-17	4-Carboxymethylbut-3-en-4-olide-enol lactonohydrolase
+bulk	rxn02143	0.0	9.322976779113874e-17	Succinyl-CoA:3-oxoadipate CoA-transferase
+bulk	rxn00598	0.0	8.271535851308736e-17	Succinyl-CoA:acetyl-CoA C-acyltransferase
+bulk	rxn01754	0.0	1.2084738438834532e-17	ATP:erythritol 4-phosphotransferase c0
+bulk	rxnEry1	0.0	1.723624103214078e-17	Erythritol 4-phosphate dehydrogenase
+bulk	rxnEry2	0.0	0.0	L-3-tetrulose-4-P isomerase
+bulk	rxnEry3	0.0	0.0	D-3-tetrulose-4-P isomerase
+bulk	rxnEry4	0.0	0.0	D-erythrulose-4-P isomerase
+bulk	rxn01754a	0.0	1.2084738438834532e-17	Adonitol 1-phosphotransferase
+bulk	rxnRbtAa	0.0	1.723624103214078e-17	Adonitol 1-phosphate dehydrogenase
+bulk	rxnRbtC	0.0	-0.0	D-ribulose 1-phosphate phosphatase
+bulk	rxn01114	0.0	-1.2084738438834532e-17	D-ribulose 5-phosphotransferase
+bulk	rxn01754b	0.0	1.2084738438834532e-17	L-arabitol 1-phosphotransferase
+bulk	rxnRbtAb	0.0	1.723624103214078e-17	L-arabitol 1-phosphate dehydrogenase
+bulk	rxnLalA	0.0	-0.0	L-xylulose 1-phosphate aldolase
+bulk	rxn00812	0.25290619	2.1024640837036542e-17	Galactose dehydrogenase
+bulk	rxn02174	0.25290619	0.0	D-Galactono-1 4-lactone lactonate
+bulk	rxn02173	0.25290619	2.7755575615628914e-17	D-Galactonate hydro-lyase
+bulk	rxn02429	0.25290618999999986	0.0	2-keto-3-deoxygalactonate kinase
+bulk	rxn00783	0.2529061899999999	0.0	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+bulk	rxn00867	0.0	-0.06297327632827168	Histidine ammonia-lyase
+bulk	rxn02085	0.0	-0.0	Urocanate hydratase
+bulk	rxn01642	0.0	0.0	Imidazolonepropionase
+bulk	rxn01639	0.0	-0.0	N-Formimino-L-glutamate formiminohydrolase
+bulk	rxn07432	0.0	-0.010495546054713138	4-methyl-2-oxopentanoate dehydrogenase   1
+bulk	rxn07433	7.328186496465005e-17	-1.3293857186661683e-17	4-methyl-2-oxopentanoate dehydrogenase   2
+bulk	rxn06586	-6.890808104695828e-17	-0.0	4-methyl-2-oxopentanoate dehydrogenase   3
+bulk	rxn01241c	7.450824046255012e-17	-1.723624103214078e-17	Dihydrolipoamide dehydrogenase   branched chain amino acid catabolism
+bulk	rxn02866	-6.890808104695827e-17	8.374912198911623e-17	Isovaleryl-CoA dehydrogenase
+bulk	rxn02889	-1.3371432743810536e-19	-1.933558150213525e-16	Methylcrotonoyl-CoA carboxylase
+bulk	rxn01504	1.3371432743810536e-19	-0.0	(S)-3-Hydroxy-3-methylglutaryl-CoA hydro-lyase
+bulk	rxn00991	-1.3371432743810536e-19	1.6947408460064146e-16	(S)-3-hydroxy-3-methylglutaryl-CoA acetoacetate-lyase
+bulk	rxn07430	0.0	-0.01049554605470664	3-methyl-2-oxobutanoate dehydrogenase   1
+bulk	rxn07431	1.1059213116428181e-16	0.0	3-methyl-2-oxobutanoate dehydrogenase   2
+bulk	rxn01925	-1.1059213116428182e-16	8.271535851308736e-17	3-methyl-2-oxobutanoate dehydrogenase   3
+bulk	rxn01924	0.0	-0.014431375825228344	Isobutyryl-CoA dehydrogenase
+bulk	rxn02949	1.1059213116428183e-16	0.0	3-hydroxyisobutyryl-CoA hydrolase   1
+bulk	rxn03433	1.1059213116428182e-16	1.1102230246251565e-16	3-hydroxyisobutyryl-CoA hydrolase   1
+bulk	rxn01480	1.1059213116428182e-16	-1.0341744619284468e-16	3-hydroxyisobutyrate dehydrogenase   2
+bulk	rxn00671	1.1059213116428182e-16	6.89449641285631e-17	Malonate-semialdehyde dehydrogenase
+bulk	rxn01355	0.0	-0.014431375825235838	Propionyl-CoA carboxylase
+bulk	rxn01996	0.0	-0.0	Methylmalonyl-CoA epimerase
+bulk	rxn00602	0.0	0.0	Methylmalonyl-CoA mutase
+bulk	rxn07434	-1.1158417241482597e-16	-5.551115123125783e-17	3-methyl-2-oxopentanoate dehydrogenase   1
+bulk	rxn07435	-1.1158417241482597e-16	-1.3203637823994996e-14	3-methyl-2-oxopentanoate dehydrogenase   2
+bulk	rxn06335	1.1059213116428183e-16	8.271535851308736e-17	3-methyl-2-oxopentanoate dehydrogenase   3
+bulk	rxn02270	0.0	-0.014431375825228429	2-methyl-butanoyl-CoA dehydrogenase
+bulk	rxn02934	1.1059213116428183e-16	-0.0	3-hydroxymethylbutyryl-CoA hydrolase   1
+bulk	rxn02933	-1.1059213116428182e-16	0.0	3-hydroxymethylbutyryl-CoA hydrolase   2
+bulk	rxn00676	1.1059213116428182e-16	-0.0	Propanoyl-CoA acyltransferase
+bulk	rxn00817	0.0	-0.0	Melibiose galactohydrolase
+bulk	rxn00818	0.0	-0.0	Raffinose galactohydrolase
+bulk	rxn02596	0.0	0.0	Stachyose galactohydrolase
+bulk	rxn00189	0.0	-9.480433178669581e-17	L-glutamine amidohydrolase
+bulk	rxn00182	0.0	-5.601778335445754e-17	L-glutamate dehydrogenase
+bulk	rxn00020c_c0	0.0	-0.0	Cellobiose glucohydrolase
+bulk	rxn00020g_c0	0.0	-0.0	Gentiobiose glucohydrolase
+bulk	rxn00020m_c0	0.0	-0.0	Mannobiose glucohydrolase
+bulk	rxn00020s_c0	0.0	-0.0	Salicin glucohydrolase
+bulk	SINK_cpd01553_c0	0.0	0.0	SINK salicyl alcohol
+bulk	rxn00020a_c0	0.0	-0.0	Arbutin glucohydrolase
+bulk	SINK_cpd00415_c0	0.0	0.0	SINK hydroquinone
+bulk	rxn00020mg_c0	0.0	-0.0	beta-methyl-D-glucoside glucohydrolase
+bulk	rxn00892	0.0	0.0	N-acetyl-D-glucosamine 6-phosphotransferase
+bulk	rxn01484	0.0	0.0	N-Acetyl-D-glucosamine-6-phosphate amidohydrolase
+bulk	rxn01439	0.0	0.0	D-glucosamine phosphotransferase
+bulk	rxn00552	0.0	-1.3261247279791142e-16	D-Glucosamine-6-phosphate ketol isomerase
+bulk	rxnNAGALAMk	0.0	0.0	N-acetyl-D-galactosamine 6-phosphotransferase
+bulk	rxnNAGALAMa	0.0	0.0	N-Acetyl-D-galactosamine-6-phosphate amidohydrolase
+bulk	rxnGALAMk	0.0	0.0	Galactosamine kinase
+bulk	rxn11877	0.0	-2.7755575615628914e-17	Galactosamine-6-phosphate isomerse
+bulk	rxn02094	0.0	2.7755575615628914e-17	D-tagatose 6-phosphotransferase
+bulk	rxnTAG1	0.0	2.7755575615628914e-17	D-tagatose 6-phosphate isomerase
+bulk	rxn00022m	0.0	5.551115123125783e-17	Maltose hydrolase
+bulk	rxn00022m2	0.0	0.0	Maltotriose hydrolase
+bulk	rxn00022t	0.0	0.0	Turanose hydrolase
+bulk	rxnTRE1	0.0	6.894496412856312e-17	Trehalose dehydrogenase
+bulk	rxnTRE2	0.0	-0.0	3-ketotrehalose hydratase
+bulk	rxnPAL1	0.0	3.447248206428156e-17	Palatinose dehydrogenase
+bulk	rxnPAL2	0.0	0.0	3-ketopalatinose hydratase
+bulk	rxnMALT1	0.0	3.447248206428156e-17	Maltitol dehydrogenase
+bulk	rxnMALT2	0.0	-0.0	3-ketomaltitol hydratase
+bulk	rxn00975	0.25405669999999997	-7.250843063300719e-17	D-mannose kinase
+bulk	rxn00559	0.253090559056184	0.0	Mannose-6-phosphate isomerase
+bulk	rxnPSCIS	0.0	-0.0	Psicose isomerase c0
+bulk	rxn01044	0.21280794999999997	0.0	D-xylose isomerase
+bulk	rxn01199	0.21280794999999997	4.8338953755338127e-17	D-xylulose 5-phosphotransferase
+bulk	rxn00772	0.01862144	-3.6254215316503595e-17	D-ribose kinase
+bulk	rxn00547b	0.0	0.0	D-fructose 6-phosphotransferase
+bulk	rxn00879	4.344556945871749e-21	-0.0	M-inositol dehydrogenase
+bulk	rxn02007	0.0	-1.3877787807814457e-17	M-inosose-2 dehydratase
+bulk	rxn12147	0.0	0.0	THcHDO hydrolase
+bulk	rxn12146	4.1533430467034505e-22	-0.0	5-deoxy-D-glucuronate aldose-ketose-isomerase
+bulk	rxn03932	2.882319485206646e-21	-1.2084738438834532e-17	5-dehydro-2-deoxy-D-gluconate 6-phosphotransferase
+bulk	rxn01176	-9.607693222110229e-22	-0.0	5-dehydro-2-deoxyphosphogluconate aldolase
+bulk	rxn00501	-4.162682666545664e-06	1.8098053083747817e-16	3-Oxopropanoate oxioreductase
+bulk	rxn00629	0.0	1.723624103214078e-17	D-mannitol dehydrogenase
+bulk	rxn00634	0.0	3.447248206428156e-17	D-sorbitol dehydrogenase
+bulk	rxn03883	0.0	1.723624103214078e-17	D-arabitol dehydrogenase
+bulk	rxn01827	0.0	2.7755575615628914e-17	4-hydroxyphenylpyruvate dioxygenase
+bulk	rxn01825	0.0	-0.11020323357447463	Homogentisate 1,2-dioxygenase
+bulk	rxn02276	0.0	0.0	Maleylacetoacetate isomerase
+bulk	rxn00993	0.0	0.0	Fumarylacetoacetate hydrolase
+bulk	rxnRHA1	0.13913635999999996	0.0	L-rhamnose kinase
+bulk	rxnRHA2	0.13913635999999993	0.0	L-rhamnose 1-phosphate isomerase
+bulk	rxn01621	0.13913635999999996	0.0	L-rhamnulose-1-phosphate aldolase
+bulk	rxn01053	0.13913635999999993	8.61812051607039e-18	Lactaldehyde dehydrogenase
+bulk	rxn00816	0.0	-0.0	Lactose hydrolase
+bulk	rxn00816b	0.0	-0.0	Lactulose hydrolase
+bulk	rxn00816c	0.0	0.0	Methyl-beta-D-galactoside hydrolase
+bulk	rxn14044	0.0	1.723624103214078e-17	L-fucose dehydrogenase
+bulk	rxnFUCOSE1	0.0	0.0	L-fuconolactonase
+bulk	rxn02617	0.0	2.7755575615628914e-17	L-Fuconate dehydratase
+bulk	rxnFUCOSE2	0.0	0.0	2-keto-3-deoxy-L-fuconate dehydrogenase
+bulk	rxnFUCOSE3	0.0	-1.3877787807814457e-17	2,4-diketo-3-deoxy-L-fuconate hydrolase
+bulk	rxnMatB	0.0	-5.551115123125783e-17	Malonyl-CoA synthetase
+bulk	rxn00174	-0.7338760649524267	-0.0	Malonyl-CoA carboxy-lyase
+bulk	rxn00175	-2.6609673428632186	5.2946943349948474e-17	Acetyl-CoA synthetase
+bulk	rxn00371	0.00014654657350987935	-2.949029909160572e-17	Formate dehydrogenase (NAD)
+bulk	rxn10114	0.0	-0.003937023638880733	Formate dehydrogenase (Ubiquinone)
+bulk	rxn00083	0.0	0.0	NADPH NAD transhydrogenase
+bulk	rxn00018	0.0	-0.0	3-phospho-D-glycerate carboxy-lyase
+bulk	rxn01334	0.0	4.7904569000662903e-17	Sedoheptulose 1,7-bisphosphate lyase
+bulk	rxn01345	0.0	-0.01049554605471172	Sedoheptulose 1,7-bisphosphate 1-phosphohydrolase
+bulk	rxn01111	0.0	-0.010495546054710526	Phosphoribulokinase
+bulk	rxn02569	0.0	-1.1345773574988957e-17	Selenide kinase
+bulk	rxn11747	0.0	-1.3877787807814457e-17	L-Seryl-tRNA(Sec) synthetase
+bulk	rxn09244	0.0	0.0	Selenocysteine-tRNA(Sec) synthase
+bulk	rxn05623	0.0	0.0	Trimethylamine monooxygenase
+bulk	rxn01818	0.0	0.0	Trimethylamine N-oxide demethylase
+bulk	rxnGFC1c	0.0	0.0	Dimethylamine monoxygenase
+bulk	rxn01159	0.0	2.4169476877669063e-17	L-Glutamate-methylamine ligase
+bulk	rxnGFC1a	0.0	0.0	N-methyl-L-glutamate synthase
+bulk	rxnGFC1b	0.0	-8.409517443859615e-17	N-methyl glutamate dehydrogenase
+bulk	rxn00907b	0.0	8.409856334814617e-17	5 10-methylenetetrahydrofolate oxidoreductase
+bulk	rxn01211b	0.0	0.0	5 10-Methenyltetrahydrofolate-5 hydrolasede
+bulk	rxn00691	0.0	-0.010495546054712429	10 Formyltetrahydrofolate amidohydrolase
+bulk	rxn00374	0.0	0.0	Formamide amidohydrolase
+bulk	rxn00847	0.0	-1.1102230246251565e-16	Methanol dehydrogenase
+bulk	rxn04791	0.0	0.0	S-(hydroxymethyl)glutathione synthase
+bulk	rxn04792	0.0	0.0	S-(hydroxymethyl)glutathione dehydrogenase
+bulk	rxn00377	0.0	0.0	S-Formylglutathione hydrolase
+bulk	rxnPBdm1	0.0	-1.723624103214078e-17	Stachydrine N-demethylation
+bulk	rxnPBdm2	0.0	-0.0	N-methyl-L-proline N-demethylation
+bulk	rxn01204	1.1759503075914142	0.0	4 Aminobutanoate -- oxoglutarate aminotransferase
+bulk	rxn01204b	-1.1759503075914142	-0.0	4 Aminobutanoate -- pyruvate aminotransferase
+bulk	rxn00509	0.0	-1.3877787807814457e-17	Succinate semialdehyde dehydrogenase
+bulk	rxn00193	0.004503384847446333	0.0	Glutamate racemase
+bulk	rxn00186	0.0	2.7755575615628914e-17	Pyroglutamic amidohydrolase
+bulk	rxn05123	0.0	-2.4169476877669063e-17	Glutamate putrescine ligase
+bulk	rxn05124	0.0	2.66125037926655e-17	gamma-glutamylputrescine oxidoreductase
+bulk	rxn05126	0.0	-3.447248206428156e-17	gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
+bulk	SINK_cpd11408_c0	0.0	-0.38702326076749627	N-gamma-glutamyl-aminobutyrate
+bulk	rxn00165	0.0	-6.495103957738208e-17	L-serine deaminase
+bulk	rxn10121	0.0	-0.009183602797873166	Nitrate reductase cytoplasm
+bulk	rxn00568	0.0	-0.04067024096200765	Nitrite reductase   NH3
+bulk	rxn10120	0.0	-4.440892098500626e-16	Nitrate reductase periplasm
+bulk	rxn05890	0.0	-0.0	Nitrite reductase   NO2
+bulk	rxn01806	0.0	0.0	Nitrous oxide reductase
+bulk	rxn11937	0.0	-0.0104955460547107	Nitrogen oxidoreductase N2O forming c0
+bulk	rxn06033	0.0	0.0	Hexadecanoyl-ACP hydrolase
+bulk	rxn00947	0.0	-0.0104955460547142	Hexadecanate CoA ligase
+bulk	rxnFAD1	0.0	1.6749824397823245e-16	Hexadecanoyl-CoA dehydrogenase
+bulk	rxn03240	0.0	0.0	trans-Hexadec-2-enoyl-CoA hydratase
+bulk	rxnFAD3	0.0	-1.3788992825712624e-16	(S)-3-Hydroxyhexadecanoyl-CoA dehydrogenase
+bulk	rxnFAD4	0.0	-0.0	3-Oxohexadecanoyl-CoA cleavage
+bulk	rxnFAD5	0.0	0.0	Tetradecanoyl-CoA dehydrogenase
+bulk	rxn03241	0.0	0.0	trans-Tetradec-2-enoyl-CoA hydratase
+bulk	rxnFAD7	0.0	-1.3788992825712624e-16	(S)-3-Hydroxytetradecanoyl-CoA dehydrogenase
+bulk	rxnFAD8	0.0	-0.0	3-Oxotetradecanoyl-CoA cleavage
+bulk	rxnFAD9	0.0	0.0	Dodecanoyl-CoA dehydrogenase
+bulk	rxn02911	0.0	0.0	2-trans-Dodecenoyl-CoA hydratase
+bulk	rxnFAD11	0.0	-1.3788992825712624e-16	(S)-3-Hydroxydodecanoyl-CoA dehydrogenase
+bulk	rxnFAD12	0.0	-0.0	3-Oxododecanoyl-CoA cleavage
+bulk	rxnFAD13	0.0	0.0	Decanoyl-CoA dehydrogenase
+bulk	rxn03245	0.0	0.0	trans-Dec-2-enoyl-CoA hydratase
+bulk	rxnFAD15	0.0	0.0	(S)-3-Hydroxydecanoyl-CoA dehydrogenase
+bulk	rxnFAD16	0.0	-0.0	3-Oxodecanoyl-CoA cleavage
+bulk	rxnFAD17	0.0	0.0	Octanoyl-CoA dehydrogenase
+bulk	rxn03247	0.0	0.0	trans-Oct-2-enoyl-CoA hydratase
+bulk	rxnFAD19	0.0	0.0	(S)-3-Hydroxyoctanoyl-CoA dehydrogenase
+bulk	rxnFAD20	0.0	-0.0	3-Oxooctanoyl-CoA cleavage
+bulk	rxnFAD21	0.0	0.0	Hexanoyl-CoA dehydrogenase
+bulk	rxn03250	0.0	0.0	trans-Hex-2-enoyl-CoA hydratase
+bulk	rxnFAD23	0.0	-1.3788992825712624e-16	(S)-3-Hydroxyhexanoyl-CoA dehydrogenase
+bulk	rxnFAD24	0.0	-0.0	3-Oxohexanoyl-CoA cleavage
+bulk	rxn00872	0.0	-8.374912198911623e-17	Butanoyl-CoA dehydrogenase
+bulk	rxn02167	-6.835726543990227e-16	2.0922822549387613e-15	trans-But-2-enoyl-CoA hydratase
+bulk	rxnFAD27	0.0	-4.274587775970914e-15	(S)-3-Hydroxybutanoyl-CoA dehydrogenase
+bulk	rxn00709	0.0	-0.010495546054711726	Uridine 5'-phosphotransferase
+bulk	rxn01145	0.0	-0.010495546054711759	dTMP phosphatase
+bulk	rxn01146	0.0	2.028199452121227e-17	Thymidine deoxyribosyltransferase
+bulk	rxn01028	0.0	-2.1024640837036542e-17	5 6-Dihydrothymine dehydrogenase
+bulk	rxn02190	0.0	-1.3877787807814457e-17	5 6-Dihydrothymine deaminase
+bulk	rxn03188	0.0	-0.02099109210941774	3-Ureidoisobutyrate deaminase
+bulk	rxn02925b_c0	0.0	0.0	Alanine 3-oxopropanoate aminotransferase
+bulk	rxn01127	0.004356262340607875	0.0	dAMP kinase
+bulk	rxn01507	-0.004356262340607875	-0.0	dAMP phosphatase
+bulk	rxn01858	0.0	-0.010495546054711686	Deoxyadenosine deaminase
+bulk	rxn01985	0.0	0.0	Deoxyinosine ribosyltransferase
+bulk	rxn01859	-0.004356262340607875	2.0227186122414265e-17	Deoxyadenosine ribosyltransferase
+bulk	rxn00926	0.0	-0.01049554605471169	Adenine deaminase
+bulk	rxn01297	0.0	-3.447248206428156e-17	Hypoxanthine dehydrogenase
+bulk	rxn00139	0.0	-0.010495546054711652	AMP phosphoribosyltransferase
+bulk	rxn00131	-0.09372035363528297	-1.5127698099985277e-17	AMP phosphoribohydrolase
+bulk	rxn00132	0.0	-5.801097181559947e-17	AMP phosphatase
+bulk	rxn01138	0.09807661597589087	-2.0227186122414265e-17	Adenosine ribosyltransferase
+bulk	rxn00927	0.0	-0.010495546054711724	Adenosine ribohydrolase
+bulk	rxn00836	0.0	-0.010495546054711782	IMP pyrophosphate phosphoribosyltransferase
+bulk	rxn00831	0.0	2.7755575615628914e-17	IMP phosphatase
+bulk	rxn01358	0.0	2.4071997710867395e-17	Inosine ribosyltransferase
+bulk	rxn01509	0.0	2.4169476877669063e-16	dGMP kinase
+bulk	rxn01445	0.0	-8.326672684688674e-17	dGMP phosphatase
+bulk	rxn01446	-2.0813413332345487e-06	-0.0	Deoxyguanosine ribosyltransferase
+bulk	rxn01225	0.0	-0.010495546054711896	Guanine deaminase
+bulk	rxn00915	0.0	-0.010495546054711738	GMP phosphoribosyltransferase
+bulk	rxn00913	2.0813413332345487e-06	2.7755575615628914e-17	GMP phosphatase
+bulk	rxn01548	2.0813413332345487e-06	0.0	Guanosine ribosyltransferase
+bulk	rxn01226	0.0	-0.01049554605471169	Guanosine ribohydrolase
+bulk	rxn01544	0.0	-0.010495546054711754	XMP phosphoribosyltransferase
+bulk	rxn01961	0.0	0.0	XMP phosphatase
+bulk	rxn01649	0.0	2.4372039033363988e-17	Xanthosine ribosyltransferase
+bulk	rxn01545	0.0	-0.010495546054711674	Xanthosine ribohydrolase
+bulk	rxn01522	0.0	-0.09839574426292647	Xanthine dehydrogenase
+bulk	rxn09370	0.0	0.0	Uricase
+bulk	rxn01748	0.0	0.0	Allantoin deaminase
+bulk	rxn01746	0.0	0.0	Allantoate deaminase
+bulk	rxn00562	0.0	0.0	(-)-Ureidoglycolate urea-lyase
+bulk	rxn00101	0.0	0.0	Urease
+bulk	rxn12638	0.0	0.0	Gly pro dipeptidase
+bulk	rxn12637	0.0	0.0	Gly asp dipeptidase
+bulk	rxn12634	0.0	0.0	Gy glu dipeptidase
+bulk	rxn12633	0.0	0.0	Ala Asp dipeptidase
+bulk	rxn12639	0.0	0.0	Ala Gln dipeptidase
+bulk	rxn12640	0.0	0.0	Ala Glu dipeptidase
+bulk	rxn12641	0.0	0.0	Ala Gly dipeptidase
+bulk	rxn12642	0.0	0.0	Ala His dipeptidase
+bulk	rxn12643	0.0	0.0	Ala Leu dipeptidase
+bulk	rxn12644	0.0	0.0	Ala Thr dipeptidase
+bulk	rxn12646	0.0	0.0	Gly gln dipeptidase
+bulk	rxn12635	0.0	0.0	Gly met dipeptidase
+bulk	rxn12636	0.0	0.0	Met ala dipeptidase
+bulk	rxn12645	0.0	0.0	Gly asn dipeptidase
+bulk	rxnPC2	0.001072335880089966	0.0	Phosphatidylcholine synthase (34:2)
+bulk	rxnPC4	0.0035387084042968874	0.0	Phosphatidylcholine synthase (34:1)
+bulk	rxnPC9	-0.0046110442843868525	-0.0	Phosphatidylcholine synthase (36:2)
+bulk	SOURCE_cpdEPSIIn_1_c0	0.0	-0.0	Source of cpdEPSIIn 1 c0
+bulk	rxnEPSG1	0.0	1.918108923245211e-17	EPSII Galactosyltransferase
+bulk	rxnEPSG2	0.0	-0.0	EPSII Glucosyltransferase
+bulk	rxnEPSG3	0.0	1.2407303776963104e-16	EPSII acetylation
+bulk	rxnEPSG4	0.0	-0.0	EPSII pyruvylation
+bulk	SINK_cpdESPII_c0	0.0	-0.6782746637857487	Sink for galactoglucan
+bulk	rxn05964	0.0	0.0	PC phospholipase C
+bulk	rxnDGTS1	0.0	0.0	S-adenosylmethionine-diacylglycerol 3-amino-3-carboxypropyl transferase
+bulk	rxnDGTS2	0.0	2.1254884428634883e-14	S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase
+bulk	SINK_DGTS_c0	0.0	-291.0766521764425	DGTS Sink
+bulk	rxn04684	0.0	2.7755575615628914e-17	Phosphocholine phosphohydrolase
+bulk	rxn10770	0.0	1.723624103214078e-17	Choline dehydrogenase
+bulk	rxn01867	0.0	-0.25451699182676524	Betaine aldehyde dehydrogenase
+bulk	rxn00405	0.0	-0.02099109210942364	L-arginine decarboxylase
+bulk	rxn00858	0.0	0.0	Agmatine amidinohydrolase c0
+bulk	rxn00470	6.583345077260874e-05	0.0	L-ornithine decarboxylase
+bulk	rxn13085	1.0977410459745655e-05	0.0	Spermidine synthase
+bulk	rxn00322	0.0	-0.27550808393618537	L-lysine decarboxylase
+bulk	SINK_cpd01155_c0	0.0	0.0	Sink for cadaverine
+bulk	rxn04786	0.0	-0.0	Diaminobutyrate aminotransferase
+bulk	rxn07465	0.0	-0.0	Diaminobutyrate decarboxylase
+bulk	rxnRB1	0.0	1.0512320418518271e-17	1 3-diaminopropane monooxygenase
+bulk	rxnRB2	0.0	1.2407303776963104e-16	N4-hydroxy-1-aminopropane O-acetyltransferase
+bulk	rxnRB3	0.0	6.373580827066103e-17	Rhizobactin 1021 core synthase
+bulk	rxnRB7	0.0	-5.551115123125783e-17	Decanoyl-ACP hydrolase
+bulk	rxnRB4	0.0	-0.0	Rhizobactin 1021 synthase
+bulk	rxnRB5	0.0	-0.8606347764863668	Rhizobactin 1021 export
+bulk	rxnRB6	0.0	0.0	Rhizobactin 1021 import
+bulk	rxnNFBS1	0.0	-4.135767925654368e-17	Malonyl-ACP:[acyl-carrier-protein] transferase   Nod factor biosynthesis
+bulk	rxnNFBS2	0.0	-0.09314797123556803	Oxo-acyl-NodF (16:1) synthase
+bulk	rxnNFBS3	0.0	6.570200261573919e-18	Oxo-acyl-NodF (16:1) reductase
+bulk	rxnNFBS4	0.0	0.0	Oxo-acyl-NodF (16:1) dehydratase
+bulk	rxnNFBS5	0.0	-4.0616154687806845e-17	N-acetylglucosaminyltransferase  disaccharide
+bulk	rxnNFBS6	0.0	0.0	N-acetylglucosaminyltransferase  trisaccharide
+bulk	rxnNFBS7	0.0	0.0	N-acetylglucosaminyltransferase  tetrasaccharide
+bulk	rxnNFBS8	0.0	-0.0	Nod factor backbone deacetylase
+bulk	rxnNFBS9	0.0	1.1615220946426577e-16	Nod factor acyltransferase
+bulk	rxnNFBS10	0.0	-1.6543071702617472e-16	Nod factor acetyltransferase
+bulk	rxnNFBS11	0.0	-4.3780183819294125e-17	Sulfate adenyltransferase for Nod Factor
+bulk	rxnNFBS12	0.0	-4.8338953755338127e-17	ATP adenylylsulfate 3-phosphotransferase for Nod factor
+bulk	rxnNFBS13	0.0	-0.0	Nod factor sulfotransferase
+bulk	rxnNFBS14	0.0	-2.063686743007705	Adenosine-3 5-bisphosphate 3-phosphohydrolase
+bulk	rxnNFBS15	0.0	-0.010495546054711731	Nod factor export
+bulk	SINK_cpdNodF_c0	0.0	0.0	Sink for nod factor
+bulk	rxnBLTPcpd00851	0.0	1.3877787807814457e-17	trans-4-hydroxy-L-proline ABC transport
+bulk	rxnBLTPcpd02175	0.0	1.3877787807814457e-17	cis-4-hydroxy-D-proline ABC transport
+bulk	rxn08139	0.28889704999999993	2.7755575615628914e-17	L-arabinose ABC transport
+bulk	rxnGFTP5	0.0	2.7755575615628914e-17	D-proline ABC transport
+bulk	rxn05165	0.0	-0.00787165954103378	L-proline ABC transport
+bulk	rxn09046	0.013635	1.8431436932253575e-17	L-ornithine ABC transport
+bulk	rxn09269lm	0.036490159999999994	1.3877787807814457e-17	L-malate transport via proton symport
+bulk	rxn05561	0.0	6.938893903907228e-18	Fumarate transport via proton symport
+bulk	rxnBLTPcpd00197	0.0	0.0	Protocatechuate ABC transport
+bulk	rxnBLTPcpd00392	0.0	2.7755575615628914e-17	I-erythritol ABC transport
+bulk	rxnGFTP3	0.0	2.7755575615628914e-17	Adonitol ABC transport
+bulk	rxnGFTP4	0.0	2.7755575615628914e-17	L-arabitol ABC transport
+bulk	rxn08573	0.25290619	1.3877787807814457e-17	D-galactose ABC transport
+bulk	rxn05164	0.0068175	1.3877787807814457e-17	L-histidine ABC transport
+bulk	rxn05161	0.03596182	2.7755575615628914e-17	L-leucine ABC transport
+bulk	rxn05168	0.029288489999999997	1.3877787807814457e-17	L-valine ABC transport
+bulk	rxn05179	0.0199273	0.0	L-isoleucine ABC transport
+bulk	rxnBLTPcpd03198	0.0	2.7755575615628914e-17	Melibiose ABC transport
+bulk	rxnBLTPcpd00382	0.0	0.0	Raffinose ABC transport
+bulk	rxnBLTPcpd01133	0.0	0.0	Stachyose transport via diffusion
+bulk	rxn10144	0.0	2.0816681711721685e-17	L-asparagine ABC transport
+bulk	rxnBLGFcpd00041	0.0	2.168404344971009e-18	L-aspartate transport via proton symport
+bulk	rxn05146	0.0	3.230922474006803e-17	L-glutamate ABC transport
+bulk	rxn08624	0.0	4.553649124439119e-18	L-glutamine ABC transport
+bulk	rxnBLTPcpd00158	0.0	5.551115123125783e-17	D-cellobiose ABC transport
+bulk	rxnBLTPcpd05158	0.0	5.551115123125783e-17	Gentiobiose ABC transport
+bulk	rxnBLTPcpdMANB	0.0	2.7755575615628914e-17	Mannobiose ABC transport
+bulk	rxnBLTPcpd01030	0.0	2.7755575615628914e-17	Salicin ABC transport
+bulk	rxnBLTPcpd03696	0.0	2.7755575615628914e-17	Arbutin ABC transport
+bulk	rxnBLTPcpd00589	0.0	2.7755575615628914e-17	D-tagatose ABC transport
+bulk	rxnBLTPcpd00100	0.0	3.469446951953614e-17	Glycerol ABC transport
+bulk	rxn10839	0.0	2.7755575615628914e-17	D-trehalose ABC transport
+bulk	rxn05170	0.0	2.7755575615628914e-17	Maltose ABC transport
+bulk	rxnBLTPcpd20885	0.0	0.0	Turanose ABC transport
+bulk	rxn08875	0.0	5.551115123125783e-17	Maltotriose ABC transport
+bulk	rxnBLTPcpd01200	0.0	2.7755575615628914e-17	Palatinose ABC transport
+bulk	rxnBLTPcpdMALT	0.0	5.551115123125783e-17	Maltitol ABC transport
+bulk	rxnBLTPcpd00138	0.25405669999999997	2.7755575615628914e-17	D-mannose ABC transport
+bulk	rxnBLTPcpd03884	0.0	2.7755575615628914e-17	Psicose ABC transport
+bulk	rxn05167	0.21280794999999997	1.3877787807814457e-17	D-xylose ABC transport
+bulk	rxn05160	0.01862144	1.3877787807814457e-17	D-ribose ABC transport
+bulk	rxnBLGFcpd00121	0.0	1.3877787807814457e-17	M-inositol ABC transport
+bulk	rxnBLTPcpd00314	0.0	2.7755575615628914e-17	D-mannitol ABC transport
+bulk	rxnBLTPcpd00588	0.0	1.3877787807814457e-17	D-sorbitol ABC transport
+bulk	rxnBLTPcpd01307	0.0	2.7755575615628914e-17	D-arabitol ABC transport
+bulk	rxnBLTPcpd00020	0.0	1.1492543028346347e-17	Pyruvate ABC transport
+bulk	rxnBLTPcpd00069	0.0068175	0.0	L-tyrosine ABC transport
+bulk	rxnBLTPcpd00797	0.0	1.3877787807814457e-17	(R)-3-hydroxybutyric acid transport via diffusion
+bulk	rxnBLTPcpd00142	0.0	1.3877787807814457e-17	Acetoacetic Acid ABC transport
+bulk	rxn10131	0.0068175	-1.3877787807814457e-17	Arginine-ornithine antiporter
+bulk	rxnBLTPcpd00082	0.0	2.7755575615628914e-17	D-fructose ABC transport
+bulk	rxnGFTP8	0.13913636	2.7755575615628914e-17	L-rhamnose ABC transport
+bulk	rxnBLTPcpd00208	0.0	2.7755575615628914e-17	alpha-D-lactose ABC transport
+bulk	rxnBLTPcpd04349	0.0	2.7755575615628914e-17	Lactulose ABC transport
+bulk	rxnBLTPcpd02274	0.0	0.0	Methyl beta-D-galactopyranoside ABC transport
+bulk	rxn05538	0.0	0.0	Dipeptide gly pro ABC transport
+bulk	rxn05537	0.0	2.7755575615628914e-17	Dipeptide gly asp ABC transport
+bulk	rxn05534	0.0	1.3877787807814457e-17	Dipeptide gly glu ABC transport
+bulk	rxn05533	0.0	0.0	Dipeptide ala asp ABC transport
+bulk	rxn05540	0.0	2.7755575615628914e-17	Dipeptide ala gln ABC transport
+bulk	rxn05541	0.0	2.7755575615628914e-17	Dipeptide ala glu ABC transport
+bulk	rxn05542	0.0	1.3877787807814457e-17	Dipeptide ala gly ABC transport
+bulk	rxn05543	0.0	2.7755575615628914e-17	Dipeptide ala his ABC transport
+bulk	rxn05544	0.0	0.0	Dipeptide ala leu ABC transport
+bulk	rxn05545	0.0	0.0	Dipeptide ala thr ABC transport
+bulk	rxn05547	0.0	1.3877787807814457e-17	Dipeptide gly gln ABC transport
+bulk	rxn05535	0.0	-2.7755575615628914e-17	Dipeptide gly met ABC transport
+bulk	rxn05536	0.0	2.7755575615628914e-17	Dipeptide met ala ABC transport
+bulk	rxn05546	0.0	1.3877787807814457e-17	Dipeptide gly asn ABC transport
+bulk	rxn10170	0.0	-0.007871659541033773	L-alanine ABC transport
+bulk	rxnBLTPcpd00182	0.0	3.885780586188048e-16	Adenosine ABC transport
+bulk	rxnBLTPcpd00246	0.0	2.7755575615628914e-17	Inosine ABC transport
+bulk	rxnBLTPcpd00249	0.0	-2.7755575615628914e-17	Uridine ABC transport
+bulk	rxnBLTPcpd11603	0.0	0.0	beta-methyl-D-glucoside ABC transport
+bulk	rxnBLTPcpd00751	0.0	1.3877787807814457e-17	L-fucose ABC transport
+bulk	rxn10883	0.0	1.8431436932253575e-17	L-serine ABC transport
+bulk	rxnBLTPcpd00281	0.0	1.3877787807814457e-17	GABA ABC transport
+bulk	rxn12569	0.0	0.0	Malonate transport via proton symport
+bulk	rxnBLTPcpd00029	0.0	0.0	Acetic Acid transport via diffusion
+bulk	rxnBLTPcpd00047	0.0	0.0	Formic Acid transport via diffusion
+bulk	rxn08212	0.0	-0.00787165954103377	Choline ABC transport
+bulk	rxnGFTP10b	0.0	0.0	Glycine betaine transport via Na+ symport
+bulk	rxn05637b	0.0	-0.005247773027355842	Glycine betaine ABC transport
+bulk	rxnGFTP10	0.0	0.0	Proline betaine (stachydrine) transport via Na+ symport
+bulk	rxn05637	0.0	-0.005247773027355887	Proline betaine (stachydrine) ABC transport
+bulk	rxnBLTPcpd00128	0.0	1.3877787807814457e-17	Adenine ABC transport
+bulk	rxn05682	0.0	-0.0	Allantoin transport via proton symport
+bulk	rxnBLTPcpd01092	0.0	-0.007871659541033787	Allantoin ABC transport
+bulk	rxnBLTPcpd00117	0.0	4.771807981045665e-18	D-alanine transport via proton symport
+bulk	rxnBLTPcpd00186	0.0	2.7755575615628914e-17	D-glutamate ABC transport
+bulk	rxnBLTPcpd00207	0.0	2.7755575615628914e-17	Guanine transport via diffusion
+bulk	rxnBLTPcpd00311	0.0	5.551115123125783e-17	Guanosine transport via diffusion
+bulk	rxnBLTPcpd00274	0.0	1.3877787807814457e-17	L-citrulline ABC transport
+bulk	rxnBLTPcpd00073	0.0	-0.010495546054711731	Urea ABC transprot
+bulk	rxnBLTPcpd01293	0.0	2.7755575615628914e-17	L-Pyroglutamic acid ABC transport
+bulk	rxnBLTPcpd00187	0.0	-3.469446951953614e-18	Methylamine transport via proton symport
+bulk	rxnBLTPcpd00378	0.0	1.6046192152785466e-17	Formamide ABC transport
+bulk	rxnGFTPcpd00242	0.0	-0.007871659541033787	Bicarbonate ABC transport
+bulk	rxn05625	0.0	2.9280889088390063e-20	Nitrite transport via proton symport
+bulk	rxn05627	0.0	0.0	Nitrate transport via proton symport
+bulk	rxnGFTPcpd00209	0.0	-0.007871659541033787	Nitrate ABC transport
+bulk	rxnBLTPcpd00184	0.0	0.0	Thymidine transport via proton symport
+bulk	rxnBLTPcpd00151	0.0	0.0	Thymine transport via proton symport
+bulk	rxnBLTPcpd00092	0.0	-0.007871659541033808	Uracil ABC transport
+bulk	rxn05197	0.0	-1.2161116007836833e-17	Uracil transport via proton symport
+bulk	rxnBLTPcpd00300	0.0	0.0	Urate transport via proton symport
+bulk	rxn05202	0.0	-1.2186019516681994e-17	Xanthine transport via proton symport
+bulk	rxnBLTPcpd01217	0.0	-2.205342064865058e-17	Xanthosine transport via proton symport
+bulk	rxn05163	0.0	1.3877787807814457e-17	Putrescine ABC transport
+bulk	rxnBLTPcpd00152	0.0	1.3877787807814457e-17	Agmatine ABC transport
+bulk	rxnBLTPcpd00122	0.0	5.551115123125783e-17	N-Acetyl-D-Glucosamine ABC transport
+bulk	rxnBLTPcpd00276	0.0	2.7755575615628914e-17	D-glucosamine ABC transport
+bulk	rxnBLTPcpd00832	0.0	2.7755575615628914e-17	N-Acetyl-D-Galactosamine ABC transport
+bulk	rxnBLTPcpd01524	0.0	2.7755575615628914e-17	D-galactosamine ABC transport
+bulk	rxn05667	0.0	0.0	Urea transport via diffusion
+bulk	rxnGFTPcpd00441	0.0	0.0	Trimethylamine transport via diffusion
+bulk	rxnGFTPcpd01078	0.0	0.0	Selenide transport via diffusion
+bulk	EX_cpd00851_e0	0.0	-0.1639929071048713	EX trans-4-hydroxy-L-proline e0
+bulk	EX_cpd02175_e0	0.0	-0.1639929071048713	EX cis-4-hydroxy-D-proline e0
+bulk	EX_cpd00224_e0	-0.28889705	-0.17580039641642195	EX L-arabinose e0
+bulk	EX_cpd00567_e0	0.0	-0.18891982898481166	EX D-proline e0
+bulk	EX_cpd00129_e0	-0.01102953	-0.2112228643510743	EX L-proline e0
+bulk	EX_cpd00064_e0	-0.0068175	-0.20335120481004057	EX L-ornithine e0
+bulk	EX_cpd00130_e0	-0.03649016	-0.11807489311550722	EX L-malate e0
+bulk	EX_cpd00106_e0	0.0	-0.11807489311550726	EX Fumarate e0
+bulk	EX_cpd00197_e0	0.0	-0.20335120481004026	EX Protocatechuate e0
+bulk	EX_cpd00392_e0	0.0	-0.1613690205911935	EX Erythritol e0
+bulk	EX_cpd00366_e0	0.0	-0.19023177224165083	EX Adonitol e0
+bulk	EX_cpd00417_e0	0.0	-0.19023177224165083	EX L-arabitol e0
+bulk	EX_cpd00108_e0	-0.25290619	-0.2151586941215925	EX D-galactose e0
+bulk	EX_cpd00119_e0	-0.0068175	-0.2466453322857276	EX L-Histidine e0
+bulk	EX_cpd00107_e0	-0.03596182	-0.2715722541656693	EX L-Leucine e0
+bulk	EX_cpd00156_e0	-0.02928849	-0.20728703458055914	EX L-Valine e0
+bulk	EX_cpd00322_e0	-0.0199273	-0.2610767081109897	EX L-Isoleucine e0
+bulk	EX_cpd03198_e0	0.0	-0.45130848035260734	EX Melibiose e0
+bulk	EX_cpd00382_e0	0.0	-0.6874582665836222	EX Raffinose e0
+bulk	EX_cpd01133_e0	0.0	-0.9131125067599265	EX Stachyose e0
+bulk	EX_cpd00132_e0	0.0	-0.12332266614286327	EX L-Asparagine e0
+bulk	EX_cpd00041_e0	0.0	-0.11807489311550728	EX L-Aspartate e0
+bulk	EX_cpd00023_e0	0.0	-0.16661679361854922	EX L-Glutamate e0
+bulk	EX_cpd00053_e0	0.0	-0.16661679361854936	EX L-Glutamine e0
+bulk	EX_cpd00158_e0	0.0	-0.46180402640731777	EX D-Cellobiose e0
+bulk	EX_cpd05158_e0	0.0	-0.46180402640731777	EX Gentiobiose e0
+bulk	EX_cpdMNBE_e0	0.0	-0.4618040264073179	EX Mannobiose e0
+bulk	EX_cpd01030_e0	0.0	-0.22565424017630303	EX Salicin e0
+bulk	EX_cpd03696_e0	0.0	-0.22565424017630303	EX Arbutin e0
+bulk	EX_cpd00122_e0	0.0	-0.2964991760456075	EX N-Acetyl-D-Glucosamine e0
+bulk	EX_cpd00276_e0	0.0	-0.22565424017630314	EX D-Glucosamine e0
+bulk	EX_cpd00832_e0	0.0	-0.29649917604560727	EX N-Acetyl-D-Galactosamine e0
+bulk	EX_cpd01524_e0	0.0	-0.22565424017630298	EX D-Galactosamine e0
+bulk	EX_cpd00589_e0	0.0	-0.22565424017630292	EX D-Tagatose e0
+bulk	EX_cpd00100_e0	0.0	-0.12201072288602391	EX Glycerol e0
+bulk	EX_cpd00794_e0	0.0	-0.46180402640731766	EX D-Trehalose e0
+bulk	EX_cpd00179_e0	0.0	-0.46180402640731766	EX Maltose e0
+bulk	EX_cpd20885_e0	0.0	-0.4618040264073179	EX Turanose e0
+bulk	EX_cpd01262_e0	0.0	-0.6979538126383324	EX Amylotriose e0
+bulk	EX_cpd01200_e0	0.0	-0.46180402640731766	EX Palatinose e0
+bulk	EX_cpdMALT_e0	0.0	-0.47623540223254635	EX Maltitol e0
+bulk	EX_cpd00138_e0	-0.2540567	-0.2256542401763031	EX D-Mannose e0
+bulk	EX_cpd03884_e0	0.0	-0.22565424017630303	EX D-Psicose e0
+bulk	EX_cpd00154_e0	-0.21280795	-0.18629594247113382	EX Xylose e0
+bulk	EX_cpd00121_e0	0.0	-0.21515869412159083	EX M inositol e0
+bulk	EX_cpd00314_e0	0.0	-0.24008561600153172	EX D-Mannitol e0
+bulk	EX_cpd00588_e0	0.0	-0.24008561600153172	EX D-Sorbitol e0
+bulk	EX_cpd01307_e0	0.0	-0.20072731829636248	EX D-Arabitol e0
+bulk	EX_cpd00105_e0	-0.01862144	-0.186295942471134	EX D Ribose e0
+bulk	EX_cpd00020_e0	0.0	-0.08527631169453431	EX Pyruvic Acid e0
+bulk	EX_cpd00069_e0	-0.0068175	-0.3922710337948542	EX L-Tyrosine e0
+bulk	EX_cpd00797_e0	0.0	-0.16399290710487235	EX (R)-3-Hydroxybutyric acid e0
+bulk	EX_cpd00142_e0	0.0	-0.14956153127964364	EX Acetoacetic Acid e0
+bulk	EX_cpd00051_e0	-0.0068175	-0.22959006994682007	EX L-arginine e0
+bulk	EX_cpd00082_e0	0.0	-0.22565424017630298	EX D-Fructose e0
+bulk	EX_cpd00396_e0	-0.13913636	-0.21515869412159241	EX L-rhamnose e0
+bulk	EX_cpd00208_e0	0.0	-0.45130848035260734	EX alpha-D-Lactose e0
+bulk	EX_cpd04349_e0	0.0	-0.4513084803526073	EX Lactulose e0
+bulk	EX_cpd02274_e0	0.0	-0.25845282159727856	EX Methyl beta-D-galactopyranoside e0
+bulk	EX_cpd00035_e0	-0.02780553	-0.10757934706079685	EX L-Alanine e0
+bulk	EX_cpd00182_e0	0.0	-0.38702326076749977	EX Adenosine e0
+bulk	EX_cpd00246_e0	0.0	-0.37390382819911083	EX Inosine e0
+bulk	EX_cpd00249_e0	0.0	-0.3411052467781325	EX Uridine e0
+bulk	EX_cpd11588_e0	0.0	-0.25976476485411637	EX gly pro L e0
+bulk	EX_cpd11589_e0	0.0	-0.16924068013222726	EX gly asp L e0
+bulk	EX_cpd11592_e0	0.0	-0.22303035366262508	EX gly glu L e0
+bulk	EX_cpd11593_e0	0.0	-0.2230303536626263	EX ala L asp L e0
+bulk	EX_cpd11587_e0	0.0	-0.2768200271930242	EX Ala Gln e0
+bulk	EX_cpd11586_e0	0.0	-0.27682002719302407	EX ala L glu L e0
+bulk	EX_cpd11585_e0	0.0	-0.1561212475638389	EX L alanylglycine e0
+bulk	EX_cpd11584_e0	0.0	-0.3568485658602024	EX Ala His e0
+bulk	EX_cpd11583_e0	0.0	-0.3817754877401442	EX Ala Leu e0
+bulk	EX_cpd11582_e0	0.0	-0.24926921879940606	EX ala L Thr L e0
+bulk	EX_cpd11580_e0	0.0	-0.22303035366262514	EX Gly Gln e0
+bulk	EX_cpd11591_e0	0.0	-0.3463530198054905	EX Gly Met e0
+bulk	EX_cpd11590_e0	0.0	-0.4027665798495673	EX Met-Ala e0
+bulk	EX_cpd11581_e0	0.0	-0.17973622618693913	EX gly asn L e0
+bulk	EX_cpd11603_e0	0.0	-0.26894836765198915	EX beta-Methyl-D-Glucoside e0
+bulk	EX_cpd00751_e0	0.0	-0.20466314806688174	EX L-Fucose e0
+bulk	EX_cpd00054_e0	0.0	-0.08527631169453437	EX L-Serine e0
+bulk	EX_cpd00281_e0	0.0	-0.1534973610501596	EX gamma-Aminobutyric acid e0
+bulk	EX_cpd00308_e0	0.0	-0.06822104935562646	EX Malonate e0
+bulk	EX_cpd00029_e0	0.0	-0.07084493586930438	EX Acetic Acid e0
+bulk	EX_cpd00047_e0	0.0	-0.0170552623389067	EX Formic Acid e0
+bulk	EX_cpd00098_e0	0.0	-0.28337974347722267	EX Choline e0
+bulk	EX_cpd00540_e0	0.0	0.0	EX Glycine betaine e0
+bulk	EX_cpd07061_e0	0.0	-0.2518931053130826	EX stachydrine e0
+bulk	EX_cpd00128_e0	0.0	-0.1797362261869431	EX Adenine e0
+bulk	EX_cpd01092_e0	0.0	-0.04722995724620334	EX Allantoin e0
+bulk	EX_cpd00117_e0	0.0	-0.10757934706079686	EX D-Alanine e0
+bulk	EX_cpd00186_e0	0.0	-0.16661679361854922	EX D-Glutamic Acid e0
+bulk	EX_cpd00207_e0	0.0	-0.16530485036171452	EX Guanine e0
+bulk	EX_cpd00311_e0	0.0	-0.3725918849422719	EX Guanosine e0
+bulk	EX_cpd00274_e0	0.0	-0.21909452389210818	EX L-Citrulline e0
+bulk	EX_cpd00073_e0	0.0	-0.005247773027355888	EX Urea e0
+bulk	EX_cpd01293_e0	0.0	-0.15612124756383747	EX L-Pyroglutamic Acid e0
+bulk	EX_cpd00378_e0	0.0	-0.006559716284194961	EX Formamide e0
+bulk	EX_cpd00187_e0	0.0	-0.040670240962009434	EX Methylamine e0
+bulk	EX_cpd00242_e0	0.0	0.0	EX H2CO3 e0
+bulk	EX_cpd00075_e0	0.0	5.394826066421725e-16	EX Nitrite e0
+bulk	EX_cpd00209_e0	0.0	0.0	EX Nitrate e0
+bulk	EX_cpd00184_e0	0.0	-0.4067024096200816	EX Thymidine e0
+bulk	EX_cpd00151_e0	0.0	-0.1849839992142958	EX Thymine e0
+bulk	EX_cpd00092_e0	0.0	-0.13119432568389708	EX Uracil e0
+bulk	EX_cpd00300_e0	0.0	-0.047229957246203325	EX Uric Acid e0
+bulk	EX_cpd00309_e0	0.0	-0.1600570773343585	EX XAN e0
+bulk	EX_cpd01217_e0	0.0	-0.367344111914916	EX Xanthosine e0
+bulk	EX_cpd00118_e0	0.0	-0.20072731829636262	EX Putrescine e0
+bulk	EX_cpd00152_e0	0.0	-0.2059750913237185	EX Agmatine e0
+bulk	EX_cpd00528_e0	0.0	0.0	EX N2 gas e0
+bulk	EX_cpd00441_e0	0.0	-0.12201072288602739	EX trimethylamine c0
+bulk	EX_cpd01078_e0	0.0	-2.5933503606645454e-11	EX Selenide e0
+bulk	EX_cpd00012_e0	0.0	0.0	EX PPi e0
+bulk	EX_cpd00033_e0	0.0	0.0	EX Glycine e0
+bulk	EX_cpd00039_e0	0.0	-0.2807558569635413	EX L Lysine e0
+bulk	EX_cpd00058_e0	0.0	0.0	EX Cu2 e0
+bulk	EX_cpd00060_e0	0.0	-0.3004350058161263	EX L Methionine e0
+bulk	EX_cpd00066_e0	0.0	-0.40670240962008297	EX L-Phenylalanine e0
+bulk	EX_cpd00080_e0	0.0	-0.1364420987112528	EX Glycerol 3 phosphate e0
+bulk	EX_cpd00084_e0	-0.0068175	-0.17186456664590505	EX L-Cysteine e0
+bulk	EX_cpd00137_e0	0.0	-0.1797362261869388	EX Citrate e0
+bulk	EX_cpd00147_e0	1.0977410459745655e-05	0.0	EX 5 Methylthioadenosine e0
+bulk	EX_cpd00155_e0	0.0	-0.2466453322857265	EX Glycogen e0
+bulk	EX_cpd00159_e0	0.0	-0.09577185774924604	EX L-Lactic Acid e0
+bulk	EX_cpd00161_e0	-0.0068175	-0.1390659852249312	EX L-Threonine e0
+bulk	EX_cpd00222_e0	0.0	0.0	EX GLCN e0
+bulk	EX_cpd00226_e0	0.0	-0.17448845315958728	EX HYXN e0
+bulk	EX_cpd00227_e0	0.0	-0.14956153127964297	EX L-Homoserine e0
+bulk	EX_cpd00264_e0	0.0	-0.9065527904757352	EX Spermidine e0
+bulk	EX_cpd00305_e0	0.0	-0.6153013874574778	EX Thiamin e0
+bulk	EX_cpd00307_e0	0.0	-0.13381821219757498	EX Cytosine e0
+bulk	EX_cpd00367_e0	0.0	-0.3542246793465221	EX Cytidine e0
+bulk	EX_cpd00386_e0	0.0	-0.10757934706079683	EX D-Malic Acid e0
+bulk	EX_cpd00919_e0	0.0	0.0	EX homocitrate e0
+bulk	EX_cpd01012_e0	0.0	0.0	EX Cd2 e0
+bulk	EX_cpd01017_e0	0.0	-0.22827812668998088	EX Cys Gly e0
+bulk	EX_cpd01242_e0	0.0	-0.20072731829636226	EX Thyminose e0
+bulk	EX_cpd01914_e0	0.0	-0.27550808393618587	EX L Methionine S oxide e0
+bulk	EX_cpd02233_e0	0.0	-0.08790019820821116	EX 2-aminoethylphosphonate e0
+bulk	EX_cpd11574_e0	0.0	0.0	EX molybdate e0
+bulk	EX_cpd11640_e0	0.0	0.0	H2 gas e0
+bulk	EX_cpd15302_c0	0.0	0.0	EX glycogenn 1 c0
+bulk	EX_cpd15603_e0	0.0	-0.22827812668998088	EX Gly Cys e0
+bulk	EX_cpd15604_e0	0.0	-0.3279858142097452	EX Gly Leu e0
+bulk	EX_cpd15605_e0	0.0	-0.46311596966415874	EX Gly Phe e0
+bulk	EX_cpd15606_e0	0.0	-0.44868459383893	EX Gly Tyr e0
+bulk	EX_cpdFixed_e0	0.0	0.0	Fixed ammonia e0
+bulk	rxn00001a	0.0	-0.007871659541033818	pyrophosphate-energized proton pump
+bulk	rxn00010_c0	0.3547961039720233	0.0	Glyoxylate carboxy lyase dimerizing c0
+bulk	rxn00145_c0	0.13913635999999996	0.0	S Lactate ferricytochrome c 2 oxidoreductase c0
+bulk	rxn00146	0.0	0.0	(R)-Lactate:ferricytochrome-c 2-oxidoreductase
+bulk	rxn00151_c0	0.0	-5.455370431143972e-16	ATP pyruvate orthophosphate phosphotransferase c0
+bulk	rxn00160_c0	0.0	-2.0816681711721685e-17	Malate NAD oxidoreductase decarboxylating c0
+bulk	rxn00173_c0	-3.8248033639584063	-3.618796934947572e-17	Acetyl CoA orthophosphate acetyltransferase c0
+bulk	rxn00225_c0	1.0614057263993264	2.4169476877669063e-17	ATP acetate phosphotransferase c0
+bulk	rxn00227_c0	0.0	-0.010495546054711799	Acetyl phosphate phosphohydrolase c0
+bulk	rxn00228	0.0	0.0	Phosphonoacetate phosphonohydrolase
+bulk	rxn00265_c0	-1.6071277795707353	-0.0	Citrate oxaloacetate lyase pro 3S CH2COO acetate c0
+bulk	rxn00274_c0	0.09538799560943664	0.0	Succinyl CoA glycine C succinyl transferasedecarboxylating c0
+bulk	rxn00336_c0	0.8043920141847004	2.0816681711721685e-16	Isocitrate glyoxylate lyase c0
+bulk	rxn00350_c0	-6.244023999703646e-06	-0.0	glutathione hydralase c0
+bulk	rxn00363_c0	0.0	-0.010495546054711896	Cytidine 5 monophosphate phosphohydrolase c0
+bulk	rxn00383	0.0	-0.03542246793465245	Sulfite:oxygen oxidoreductase
+bulk	rxn00407_c0	0.0	-0.01049554605471189	CTP aminohydrolase c0
+bulk	rxn00422_c0	-0.3547961039720235	-1.437187077747682e-16	L Serine pyruvate aminotransferase c0
+bulk	rxn00440_c0	0.0	-5.551115123125783e-17	ATP thiamin pyrophosphotransferase c0
+bulk	rxn00506_c0	0.0	-0.010495546054711957	Acetaldehyde NAD oxidoreductase c0
+bulk	rxn00541_c0	0.0	0.0	L Threonine acetaldehyde lyase c0
+bulk	rxn00548_c0	0.0	1.5996366416470786e-17	D Fructose 6 phosphate D erythrose 4 phosphate lyase c0
+bulk	rxn00551_c0	-0.970185168188234	4.514178120327049e-17	Pyrophosphate D fructose 6 phosphate 1 phosphotransferase c0
+bulk	rxn00558_c0	0.583266987698481	0.0	D Glucose 6 phosphate ketol isomerase c0
+bulk	rxn00566_c0	0.0	-0.01049554605470986	L Cysteine L homocysteine lyase deaminating c0
+bulk	rxn00605_c0	0.0	0.0	UDPglucose D glucose 6 phosphate 1 alpha D glucosyltransferase c0
+bulk	rxn00609_c0	0.0	-0.0	1L myo Inositol 1 phosphate lyase isomerizing c0
+bulk	rxn00616_c0	-0.0458845540703333	-0.0	sn Glycerol 3 phosphate acceptor 2 oxidoreductase c0
+bulk	rxn00650_c0	-6.244023999703646e-06	-0.0	membrane alanyl aminopeptidase c0
+bulk	rxn00656_c0	4.162682666551689e-06	9.788350411074768e-18	L Alanine 3 oxopropanoate aminotransferase c0
+bulk	rxn00669_c0	0.0	-0.0	Propanoate CoA ligase ADP forming c0
+bulk	rxn00670_c0	0.0	7.237593869895144e-17	acetyl CoA phosphate acetyltransferase c0
+bulk	rxn00708_c0	0.0	0.0	Uridine 5 monophosphate phosphohydrolase c0
+bulk	rxn00717_c0	0.0	0.0	Cytosine aminohydrolase c0
+bulk	rxn00743_c0	0.0	-0.010495546054711778	Glycerone phosphate phosphohydrolase alkaline optimum c0
+bulk	rxn00744_c0	0.000690710451312712	2.4169476877669063e-17	ATP glycerone phosphotransferase c0
+bulk	rxn00748_c0	0.0	1.3877787807814457e-17	Glycerone phosphate phospho lyase c0
+bulk	rxn00762_c0	0.000690710451312712	2.2407113341783015e-16	Glycerol NAD oxidoreductase c0
+bulk	rxn00763_c0	-3.352117101627751e-17	1.723624103214078e-17	Glycerol NAD oxidoreductase c0
+bulk	rxn00784_c0	0.0	2.6368431406817397e-16	2 Deoxy D ribose 5 phosphate acetaldehyde lyase c0
+bulk	rxn00868_c0	0.0	0.0	Butanoyl CoA acceptor 2 3 oxidoreductase c0
+bulk	rxn00881_c0	0.0	-0.02099109210942393	myo Inositol 1 phosphate phosphahydrolase c0
+bulk	rxn00908	0.0	8.409960397449043e-16	glycine synthase
+bulk	rxn00985_c0	0.0	1.6918633814368344e-16	ATP acetate phosphotransferase c0
+bulk	rxn01011	0.08073066709965421	9.30757015735602e-16	D-Glycerate:NADP+ 2-oxidoreductase
+bulk	rxn01013_c0	-0.08073066709965425	9.566211580851626e-16	D Glycerate NADP 2 oxidoreductase c0
+bulk	rxn01015_c0	-0.3547961039720233	-5.169503041007751e-17	Hydroxypyruvate ketol isomerase c0
+bulk	rxn01068_c0	-0.09538799560943666	-6.894496412856312e-17	L Threonine NAD oxidoreductase c0
+bulk	rxn01103_c0	0.0	-0.010495546054711017	3 Phospho D glyceroyl phosphate phosphohydrolase c0
+bulk	rxn01121_c0	0.0	-0.010495546054711088	D gluconate hydro lyase c0
+bulk	rxn01123_c0	0.0	-2.4169476877669063e-17	ATP 2 dehydro 3 deoxy D gluconate 6 phosphotransferase c0
+bulk	rxn01134_c0	0.0	-0.0	Maltose alpha D glucosylmutase c0
+bulk	rxn01137_c0	0.0	-0.01049554605471175	Adenosine aminohydrolase c0
+bulk	rxn01143_c0	0.0	0.0	ATP thymidine 5 phosphotransferase c0
+bulk	rxn01187_c0	2.7633976375590796	1.3877787807814457e-17	D Xylulose 5 phosphate D glyceraldehyde 3 phosphate lyase c0
+bulk	rxn01274_c0	0.0	-0.03542246793465108	S 2 Hydroxyacylglutathione hydrolase c0
+bulk	rxn01275_c0	0.0	-9.667790751067625e-17	ATP D Gluconate 6 phosphotransferase c0
+bulk	rxn01278_c0	0.0	8.409856334814617e-17	D Gluconate NADP 5 oxidoreductase c0
+bulk	rxn01280_c0	0.0	1.7408603442462187e-15	Glycerate NAD oxidoreductase c0
+bulk	rxn01281_c0	0.0	1.7976067915666243e-15	Glycerate NADP oxidoreductase c0
+bulk	rxn01286_c0	0.0	-0.01049554605471232	D Glyceraldehyde NAD oxidoreductase c0
+bulk	rxn01299_c0	0.0	-0.010495546054711632	Inosine ribohydrolase c0
+bulk	rxn01352_c0	-2.081341333234549e-06	-0.0	dGTP triphosphohydrolase c0
+bulk	rxn01368_c0	0.0	0.0	Cytidine aminohydrolase c0
+bulk	rxn01396_c0	0.0	-4.8338953755338127e-17	ATP pyridoxal 5 phosphotransferase c0
+bulk	rxn01452_c0	0.0	-4.373125294103601e-15	S 3 Hydroxybutanoyl CoA NADP oxidoreductase c0
+bulk	rxn01518_c0	-0.004358343681941111	-2.4169476877669063e-17	ATP deoxyuridine 5 phosphotransferase c0
+bulk	rxn01519_c0	0.0	-0.010495546054712302	dUTP nucleotidohydrolase c0
+bulk	rxn01521_c0	0.0	-0.01049554605471181	5 nucleotidase dUMP c0
+bulk	rxn01799_c0	0.00435834368194111	2.788255921989342e-17	deoxyuridine orthophosphate 2 deoxy D ribosyltransferase c0
+bulk	rxn01834_c0	0.0	0.0	S Lactoylglutathione methylglyoxal lyase isomerizing c0
+bulk	rxn01923_c0	5.5296065582140903e-17	0.0	2 Methylpropanoyl CoA oxygen 2 3 oxidoreductase c0
+bulk	rxn01986_c0	0.0	3.1524931869704745e-17	2 Deoxy D ribose 1 phosphate 1 5 phosphomutase c0
+bulk	rxn01987_c0	0.0	-1.2084738438834532e-17	Deoxyribokinase c0
+bulk	rxn02004	0.0	-0.020991092109423536	Trehalose-6-phosphate phosphohydrolase
+bulk	rxn02102_c0	0.0	2.3699831419193572e-17	S Ureidoglycolate NAD oxidoreductase c0
+bulk	rxn02103_c0	0.0	9.986704397592357e-17	S Ureidoglycolate NADP oxidoreductase c0
+bulk	rxn02168_c0	-1.6233432884825275e-17	-0.0	3R 3 Hydroxybutanoyl CoA hydro lyase c0
+bulk	rxn02268_c0	-5.5296065582140915e-17	0.0	S 2 methylbutanoyl CoA oxygen 2 3 oxidoreductase c0
+bulk	rxn02345_c0	0.0	-4.184564509877522e-15	S 3 Hydroxybutanoyl CoA 3 epimerase c0
+bulk	rxn02900_c0	0.0	0.0	2 Aminoethylphosphonate pyruvate aminotransferase c0
+bulk	rxn03953_c0	0.0	1.723624103214078e-17	L Idonate NAD oxidoreductase c0
+bulk	rxn03954_c0	0.0	1.2614784502221924e-16	L Idonate NADP oxidoreductase c0
+bulk	rxn03990_c0	0.0	2.477709648370237e-17	nitric oxide NADPH2 oxygen oxidoreductase c0
+bulk	rxn03991_c0	0.0	-7.884240313888702e-18	nitric oxide NADPH2 oxygen oxidoreductase c0
+bulk	rxn05158_c0	0.0	0.0	sn Glycerol ABC transport c0
+bulk	rxn05175_c0	0.0	0.0	Spermidine ABC transport c0
+bulk	rxn05177_c0	0.0	0.0	Thiamin ABC transport c0
+bulk	rxn05201_c0	0.0	0.0	Hypoxanthine ion coupled transport c0
+bulk	rxn05219_c0	0.0	-0.010495546054711636	L Methionine ABC transport c0
+bulk	rxn05305_c0	0.0	1.492166772353409e-17	LYSt3r c0
+bulk	rxn05315_c0	-2.0813413332345487e-06	-0.0	ZN2t4 c0
+bulk	rxn05516_c0	0.0	-0.010495546054711731	cadmium transport out via ABC system c0
+bulk	rxn05517_c0	0.0	0.0	cadminum transport out via antiport c0
+bulk	rxn05527_c0	0.0	0.0	cytosine transport in via proton symport c0
+bulk	rxn05528_c0	0.0	-0.010495546054711731	Copper export via ATPase c0
+bulk	rxn05539_c0	0.0	2.7755575615628914e-17	Dipeptide transport via ABC system cgly c0
+bulk	rxn05549_c0	0.0	2.7755575615628914e-17	Deoxyribose transport via ABC system c0
+bulk	rxn05557_c0	0.0	-3.469446951953614e-18	iron III dicitrate transport via ABC system c0
+bulk	rxn05613_c0	0.0	2.7755575615628914e-17	L methionine S oxide transport via ABC system c0
+bulk	rxn05618_c0	0.0	-0.005247773027355888	manganese transport in via proton symport c0
+bulk	rxn05619	0.0	-0.010495546054711731	Molybdate ABC transport
+bulk	rxn05638_c0	0.01102953	0.0	L proline transport in via proton symport c0
+bulk	rxn05740_c0	-0.0012836692445466744	-0.0	cpd00155 phosphorylase c0
+bulk	rxn05937_c0	0.0	-1.1826360470833055e-17	Ferredoxin NADP oxidoreductase c0
+bulk	rxn06075	0.00871460602254898	4.336808689942018e-17	Ribonucleotide reductase: UDP
+bulk	rxn06077_c0	0.0	1.351739921894834e-18	L methionine oxidized thioredoxin S oxidoreductase c0
+bulk	rxn06377_c0	0.0	0.0	glycine lipoylprotein oxidoreductase decarboxylating and c0
+bulk	rxn06493_c0	0.0	9.846202689610421e-16	dihydrolipoylprotein NAD oxidoreductase c0
+bulk	rxn06600_c0	0.0	7.112366251504909e-17	S aminomethyldihydrolipoylprotein 6S tetrahydrofolate c0
+bulk	rxn06874_c0	0.0	-2.862660186422641	nitrogenase
+bulk	rxn08291_c0	-1.6318899066487806	-8.374912198911623e-17	D Amino acid dehydrogenase c0
+bulk	rxn08853	0.0	-0.013119432568389693	L-lysine ABC transport
+bulk	rxn08920	0.0	2.1627838750317344e-17	L-methionine transport via diffusion
+bulk	rxn08946	-2.0813413332345487e-06	-0.0	manganese (Mn+2) transport out via proton antiport (periplasm)
+bulk	rxn08975_c0	0.0	-0.00918360279787268	NADH dehydrogenase ubiquinone 8 c0
+bulk	rxn09269dm_c0	0.0	0.0	D-malate transport via proton symport (2 H) (periplasm)
+bulk	rxn09692_c0	0.0	0.0	choline transport via proton symport c0
+bulk	rxn10116_c0	0.0	-0.22040646714894696	Glucose dehydrogenase ubiquinone 8 as acceptor c0
+bulk	rxn10168_c0	0.0	-0.007871659541033787	Potassium ABC transporter c0
+bulk	rxn10474_c0	-4.162682666469098e-06	-0.0	cobalt transport inout via permease no H c0
+bulk	rxn10481_c0	0.0	-0.010495546054711731	Copper transport via ABC system c0
+bulk	rxn10537_c0	0.027805529999999995	4.771807981045665e-18	alanine reversible transport via sodium symport c0
+bulk	rxn11268_c0	0.0	-0.01311943256838971	biphosphate ABC transporter permease protein c0
+bulk	rxn12844_c0	0.0	0.0	Gly Cys aminopeptidase c0
+bulk	rxn12845_c0	0.0	0.0	Gly Leu aminopeptidase c0
+bulk	rxn12846_c0	0.0	0.0	Gly Phe aminopeptidase c0
+bulk	rxn12847_c0	0.0	0.0	Gly Try aminopeptidase c0
+bulk	rxn12848_c0	0.0	2.7755575615628914e-17	Gly Cys ABC transporters c0
+bulk	rxn12849_c0	0.0	0.0	Gly Leu ABC transporters c0
+bulk	rxn12850_c0	0.0	2.7755575615628914e-17	Gly Phe ABC transporters c0
+bulk	rxn12851_c0	0.0	0.0	Gly Try ABC transporters c0
+bulk	rxn13799_e0	1.0977410459745655e-05	0.0	5mta transport irreversible extracellular e0
+bulk	rxnBLTPcpd00066	0.0	3.230922474006803e-17	L-phenylalanine ABC transport
+bulk	rxnBLTPcpd00084	0.0068175	0.0	L-cysteine ABC transport
+bulk	rxnBLTPcpd00155	0.0	0.0	Glycogen transport via diffusion
+bulk	rxnBLTPcpd00159	0.0	0.0	L-Lactic Acid transport via diffusion
+bulk	rxnBLTPcpd00161	0.0068175	1.3877787807814457e-17	L-threonine ABC transport
+bulk	rxnBLTPcpd00227	0.0	1.3877787807814457e-17	Homoserine ABC transport
+bulk	rxnBLTPcpd00367	0.0	-2.7755575615628914e-17	Cytidine transport via diffusion
+bulk	rxnGFTP9	0.0	1.3877787807814457e-17	2-aminoethylphosphonate ABC transport
+bulk	rxnGFTPcpd00528	0.0	-0.0	N2 gas transport by diffusion
+bulk	rxnGFTPcpd00919	0.0	-0.010495546054711731	Homocitrate ABC transport
+bulk	rxnGFTPcpd11640	0.0	0.0	H2 diffusion out
+bulk	rxnNifS_c0	0.0	1.3877787807814457e-17	sulphur atom for Fe–S cluster biogenesis
+bulk	rxnNifU	0.0	-8.55846183598905	Iron sulfur cluster assembly
+bulk	rxnPhnY	0.0	4.309060258035195e-18	phosphonoacetaldehyde dehydrogenase
+bulk	rxnSymCof_c0	0.0	8.881784197001252e-16	Symbiosis cofactors
+bulk	symbiosis_c0	0.0	0.0	Nitrogen fixing symbiosis reaction
