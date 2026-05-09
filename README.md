@@ -14,12 +14,12 @@ Modern agriculture faces a critical dilemma regarding nitrogen availability:
 -  __The Natural Solution__: Nature provides an alternative through specialised bacteria capable of __Biological Natrogen Fixation__. These bacteria possess the nitrogenase enzyme, which can break the triple bond of atmospheric $N_2$ and convert it into ammonia ($NH_3$).
 -  __The Challenge__: Unlike chemical fertilisers, which are "ready-to-use", natural nitrogen fixation requires the bacteria to undergo __significany metabolic reprogramming__. This research uses __Genome-Scale Modelling (GEM) modelling__ to simulate these internal transitions, helping us understand how bacteria optimise their energy to replace chemical inputs with natural processes.
 
-## Datase & Models
+## Dataset & Models
 The analysis is conducted using specific iterations of high-quality genome-scale reconstruction:
 - __General GEM__: Used for simulating standard metabolic states in control environments.
 - __Bacteroid GEM__: A version of the model with specific constraints representing the specialised state required for nitrogen fixation.
 
-## Bioinformation Workflow: Environment Control
+## Bioinformatics Workflow: Environment Control
 - Environment 1: Bulk Soil (Free-living)Constraints: Aerobic conditions, high $O_2$ flux, and competition for limited carbon sources.Objective: Maximise bacterial biomass (growth rate).
 - Environment 2: Rhizosphere (Pre-infection)Constraints: Nutrient-rich environment supplemented by organic acids (exudates).Objective: Analyse metabolic adaptation to high-nutrient availability.
 - Environment 3: Nodule Environment (Bacterial Focus)Constraints: Micro-aerobic (strictly limited $O_2$), low pH, and $C_4$-dicarboxylates as the primary energy source.Objective: Maximise Nitrogenase flux and Ammonium ($NH_3$) production.
